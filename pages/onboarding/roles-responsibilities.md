@@ -53,10 +53,10 @@ Personal Skills
 ### Step 2 Data stewardship vs. Data steward 
 
 While data stewardship describes the overall process and philosophy of managing data responsibly, a data steward is the person (or sometimes a team) who is assigned specific roles and responsibilities to carry out data stewardship activities, sometimes within a team. Data stewards play a crucial role in making sure that the practices and standards associated with data stewardship are implemented in daily work. How the data steward role is shaped depends on the institute, department or even a specific project. 
+
 ## Quiz Question: 
 ## 2. What is the key difference between 'Data Stewardship' and a 'Data Steward'? 
 
- 
 
 A. Data Stewardship is a software tool, while a Data Steward is the person who operates it. 
 
@@ -65,8 +65,6 @@ B. Data Stewards only work in universities, while Data Stewardship only happens 
 C. Stewardship is the overall process of responsible management, while the Steward is the person assigned specific roles to implement it. 
 
 D. There is no difference; the terms are interchangeable in all professional contexts. 
-
- 
 
 ## Correct Answer C:  The steward is the actor who puts the standards and practices of stewardship into daily practice within an organization  
 
@@ -125,9 +123,10 @@ Transversal skills, also known as ‘soft’ or ‘non-cognitive skills’, cove
 See Chapter 3 for information on available training to further develop skills and competencies. 
 
 ## Quiz Question:
+
 ## 1. The Multi-Tasker vs. The Specialist 
 
-Scenario: You have just been hired as the sole Data Steward for a small research institute. Because you are the only person in the role, your daily tasks range from helping a researcher write a Data Management Plan (DMP) to advising other researchers in the department on storage requirements. 
+## Scenario: You have just been hired as the sole Data Steward for a small research institute. Because you are the only person in the role, your daily tasks range from helping a researcher write a Data Management Plan (DMP) to advising other researchers in the department on storage requirements. 
 
 ## Question: According to the "Developing Competencies" section, why is your role shaped this way? 
 
@@ -139,17 +138,18 @@ C) Because the scientific discipline requires a generalist approach.
 
 D) Because "Transversal skills" are more important than technical ones in small institutes. 
 
-Correct Answer: B. The text explicitly mentions that the expertise in the team (multitasker vs. large team) is a primary factor in how your practice is shaped.
+## Correct Answer: B. The text explicitly mentions that the expertise in the team (multitasker vs. large team) is a primary factor in how your practice is shaped.
 
 ## Step 2 Different Work Contexts 
 Data Stewards can be organised in different ways within organisations, reflecting variations in institutional structures, research practices, and available expertise. In some settings, data stewards operate from a central unit, such as a Digital Competence Center (see Chapter 2), connected to internal and external networks of research support departments such as the library, IT services or Legal experts. These Data Stewards often work on complex data related questions and services that require their broad network of research support professionals. In other cases, data stewards are embedded directly within a research project, team or department. These dedicated/embedded Data Stewards focus on hands-on support throughout the research data lifecycle and are closely aligned with day-to-day research activities.  
 
 For more practical information about Data Steward roles and responsibilities in different work contexts you can have a look at “Have a FAIR data steward on board | FAIR Metroline”. For further background on data steward positionings, see the NPOS report Professionalising Data Stewardship in the Netherlands (Chapter 2.3). 
 
-## Quiz Question
-## 1. Identifying the Support Model 
-Scenario: A researcher is starting a new three-year project on clinical genomics and needs a dedicated person to manage their data daily, from the moment it is collected until it is archived. They hire a steward who sits in their office and attends all team meetings. 
 
+## 1. Identifying the Support Model 
+## Scenario: A researcher is starting a new three-year project on clinical genomics and needs a dedicated person to manage their data daily, from the moment it is collected until it is archived. They hire a steward who sits in their office and attends all team meetings. 
+
+## Quiz Question: 
 ## Question: Which organizational model does this represent? 
 
 A) A Centralized Unit 
@@ -162,8 +162,7 @@ D) An External Consultant
 
 ## Correct Answer: C. Embedded stewards are hired directly within a research project or team and are alignedinvolved in with day-to-day activities. 
 
-Did you know 
-
+## Did you know:
 Data stewardship personas are often defined by the specific roles stewards play and the scope of the research data they support. The nature of the data is one of the criteria that dictates the data steward’s focus: 
 
 Qualitative Data: This scope encompasses data collected via qualitative methods, such as interviews, life stories, ethnographies, and participant observations. These datasets often present unique challenges for FAIRification due to their deeply personal or sensitive nature, requiring the steward to balance data sharing with strict confidentiality. 
@@ -175,6 +174,7 @@ Imaging data can be both qualitative (photos, videos, echos, CT, MRI, etc.) and 
 Clinical data... 
 
 Omics.... 
+
 ## Practical examples from the community 
 In the following interviews a variety of Data Stewards from  UMCs in the Netherlands will talk about the devolopments made in their area the contributions they have made to the field: 
 
