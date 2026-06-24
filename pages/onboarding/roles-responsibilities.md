@@ -189,7 +189,8 @@ Omics....
 ## Practical examples from the community 
 In the following interviews a variety of Data Stewards from  UMCs in the Netherlands will talk about the devolopments made in their area the contributions they have made to the field: 
 
-<insert interview with Sabine Regional Hospital including the variety  of competencies needed and the centralized role for just 1 person>   
+<iframe width="500" style="aspect-ratio: 16 / 9;" src="<iframe width="500" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/5OeCrQE3HhE" allowfullscreen> </iframe>" allowfullscreen> </iframe>
+ 
  ## Test your knowledge
  ## Exercise 1: 
  In the next exercise we invite you to reflect on the skills you would like to develop in your career as a Data Steward.? This exercise in the following form, should help you to describe these choices.  
