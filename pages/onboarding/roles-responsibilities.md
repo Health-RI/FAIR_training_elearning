@@ -8,6 +8,10 @@ title: "Roles & Responsibilities; Tasks & Competencies"
  ## Short Description
  In this module we will discuss what is meant by data stewardship and the role of data stewards in the Life Sciences and Health research domain.  
 
+Main Objective: To map the role of Data Steward and have an idea of the different profiles, competencies and possible career pathways.
+
+In this module we would first define what is meant by Data Steward in the landscape of Research in the Life and Medical Sciences. Secondly, we will define the different roles and personas that you might develop into as a Data Steward.  
+
 ## Learning Objectives
 
 -  Understand the Data Stewardship role  
@@ -144,6 +148,13 @@ D) Because "Transversal skills" are more important than technical ones in small 
 Data Stewards can be organised in different ways within organisations, reflecting variations in institutional structures, research practices, and available expertise. In some settings, data stewards operate from a central unit, such as a Digital Competence Center (see Chapter 2), connected to internal and external networks of research support departments such as the library, IT services or Legal experts. These Data Stewards often work on complex data related questions and services that require their broad network of research support professionals. In other cases, data stewards are embedded directly within a research project, team or department. These dedicated/embedded Data Stewards focus on hands-on support throughout the research data lifecycle and are closely aligned with day-to-day research activities.  
 
 For more practical information about Data Steward roles and responsibilities in different work contexts you can have a look at “Have a FAIR data steward on board | FAIR Metroline”. For further background on data steward positionings, see the NPOS report Professionalising Data Stewardship in the Netherlands (Chapter 2.3). 
+## 1.1 The Data Steward Role in Health-RI Netherlands
+
+
+### What is a Data Steward? ma
+UoAs have developed a job profile but not yet adopted 
+
+These profiles will be touched upon in more detailed in Chapter 3. However, at this initial point it might be a good idea to have them in mind, as you draft what Data Stewardship career journey you might want to embark on.  
 
 
 ## 1. Identifying the Support Model 
