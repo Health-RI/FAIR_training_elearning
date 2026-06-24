@@ -6,11 +6,10 @@ title: "Roles & Responsibilities; Tasks & Competencies"
  You have just started in your new role as a data steward in the health domain.  Data steward is a relatively new profession in research institutions. What a data steward’s tasks are and what expertise is required for the job can vary depending on the type of organisation and the position within the organisation, the team in which the data steward operates, the research domain, the maturity of RDM services and policies in place etc. In this chapter you will learn about data stewardship, the different roles and competencies and you will hear how more experienced data stewards perceive their job. 
  ## Section: Role of the Data Steward
  ## Short Description
- In this module we will discuss what is meant by data stewardship and the role of data stewards in the Life Sciences and Health research domain.  
+
+In this module we would first define what is meant by Data Steward in the landscape of Research in the Life and Medical Sciences. Secondly, we will define the different roles and personas that you might develop into as a Data Steward. 
 
 Main Objective: To map the role of Data Steward and have an idea of the different profiles, competencies and possible career pathways.
-
-In this module we would first define what is meant by Data Steward in the landscape of Research in the Life and Medical Sciences. Secondly, we will define the different roles and personas that you might develop into as a Data Steward.  
 
 ## Learning Objectives
 
