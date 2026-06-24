@@ -100,7 +100,9 @@ with a variety of expertise and specialisations;
 • the scientific discipline. 
 Fig. 1: Expertise areas for data stewards from the Professionalising Data Stewardship report (NPOS 2021) 
 
-The expertise areas illustrated in the figure above are also described in the  RDNL Competency framework - RDNL competency framework for data stewards, developed by Research Data Netherlands (RNDL) in 2025. In this new framework, additional competencies to those described in Fig. 1, include research software management, training and awareness raising, see fig. 2.   
+The expertise areas illustrated in the figure above are also described in the  RDNL Competency framework - RDNL competency framework for data stewards, developed by Research Data Netherlands (RNDL) in 2025. In this new framework, there are additional competencies to those described in Fig. 1, these include research software management, training and awareness raising, see fig. 2.   
+
+
  Fig. 2: Competency framework for data professionals, developed in the context of the RDNL project to build a national training & community platform for data professionals. The competency framework is described in 10.5281/zenodo.17952684 
 
  
