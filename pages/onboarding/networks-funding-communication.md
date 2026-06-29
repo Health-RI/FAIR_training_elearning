@@ -67,12 +67,13 @@ D. They create the international guidelines that all other organizations must fo
 National networks play a key role in coordinating research data management, FAIR implementation, and responsible data sharing across institutions in the Netherlands. These networks provide shared infrastructure, common standards, training programmes, and policy alignment that support researchers and data stewards beyond their own institutions. They complement local networks by offering expertise, guidance, and infrastructures that a single institution cannot provide alone.   
 
 Important national networks include: 
-
 * **Health‑RI** – A national initiative building an integrated health data infrastructure for research and care. Health‑RI provides FAIR expertise, ELSI guidance, tools, and working groups that connect researchers and data stewards across Dutch Healthcare institutions. 
 
 * **LCRDM (Landelijk Coördinatiepunt Research Data Management)** – Coordinates national RDM activities, offering practical guidance, tool inventories, expert groups, and nationally aligned recommendations for research support staff. 
 
-* **DCC–PO (DCC voor Praktijkgericht Onderzoek)** –   National knowledge center for research support in universities of applied sciences. Focus areas of this network are open science, FAIR data, data stewardship, and data-intensive research.Data Stewards Interest Group (DSIG) – A cross‑institutional community specifically focused on the roles, capacities, and professionalisation of data stewards across the Netherlands. 
+* **DCC–PO (DCC voor Praktijkgericht Onderzoek)** –   National knowledge center for research support in universities of applied sciences. Focus areas of this network are open science, FAIR data, data stewardship, and data-intensive research.Data Stewards Interest Group (DSIG) – A cross‑institutional community specifically focused on the roles, capacities, and professionalisation of data stewards across the Netherlands.
+
+* **Data Steward Interest Group (DGSI)** -  A cross‑institutional community specifically focused on the roles, capacities, and professionalisation of data stewards across the Netherlands. 
 
 * **GO FAIR (NL and international nodes)** – Promotes practical implementation of the FAIR principles through FAIR Implementation Profiles, FAIRification frameworks, and international alignment. 
 
@@ -90,7 +91,7 @@ Important national networks include:
 
 National networks are important because they directly influence institutional data policies, funding requirements, and the development of FAIR-aligned tools and services.  They therefore also play a major role in shaping expectations for national funding calls, such as those from NWO and ZonMw, which often require alignment with national infrastructures or FAIR implementation strategies.  
 
-Some national networks also offer funding programmes and small grants to support FAIR implementation and Open Science, including calls related to FAIR data pilots, infrastructure development, or data stewardship capacity as you will read in the next section. These opportunities are valuable for data stewards and research groups looking to improve data workflows, develop FAIR tools, or strengthen institutional support. 
+ Some national networks also offer funding programmes and small grants to support FAIR implementation and Open Science, including calls related to FAIR data pilots, infrastructure development, or data stewardship capacity as you will read in the next section. These opportunities are valuable for data stewards and research groups looking to improve data workflows, develop FAIR tools, or strengthen institutional support. 
  
 More information on this connection can be found in the section in the last section of this chapter; **“Funding Landscape in Research Data Management: “What Data Stewards Need to Know”**.  
 
@@ -258,9 +259,9 @@ Let students write down (for themselves we will not review their answers) a main
 ### Training
 
 
-* Refer to other sections 
+* See training in other sections 
 
-* Refer to the relevant Metroline pages 
+* https://fairmetroline.org/
 
 * If your organisation has not set up data management services yet, or has not formalized a network yet, you may benefit from an online course on [Delivering Research Data Management Services](https://www.futurelearn.com/courses/delivering-research-data-management-services) by [Futurelearn](https://www.futurelearn.com/).
 
@@ -378,7 +379,7 @@ Health~Holland funds large public‑private [R&D data-driven ](https://preventiv
 <summary>Did you know?</summary>
 
 ```
-Data stewards work with the research data life cycle, whereas project managers and grant support officers work with the research project life cycle, which includes a pre‑award and a post‑award phase. The pre‑award phase involves identifying suitable funding opportunities and supporting the grant proposal process up to submission. The post‑award phase covers the support activities that take place after funding has been granted. These two phases require distinct types of data stewardship support. 
+Data stewards work with the research data life cycle, whereas project managers and grant support officers work with the research project life cycle, which includes a pre‑award  and a post‑award phase. The pre‑award phase involves identifying suitable funding opportunities and supporting the grant proposal process up to submission. The post‑award phase covers the support activities that take place after funding has been granted. These two phases require distinct types of data stewardship support. 
 ```
 </details>
 
@@ -516,6 +517,9 @@ Did you know?
 
 Calls are often collaborative, involving multiple project partners. The best way to find collaborators is through your national and international network of contacts, for example, the DCCs (link to Ch2 above) and the [Data Stewardship Interest Group (DSIG)](https://tdcc.nl/dsig/). You can also use the [Horizon Europe partner search tool](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?isExactMatch=true&type=ORGANISATION,PERSON&order=DESC&pageNumber=1&pageSize=50&sortBy=lastModified) that lists all organisations that have expressed an interest in collaborating in Horizon Europe funding opportunities. You are also welcome to register yourself in this tool.
 
+Missing video
+
+## Test your knowledge 
 
 #### Quiz
 
@@ -549,6 +553,14 @@ D. A DMP is required only if the project produces Open Access publications
 ### Expertise 
 
 ### Training 
+
+Pre-award Open Science and RDM requirements in Horizon Europe: 
+
+RDM in Horizon Europe grant proposals 
+
+Guide on Horizon Europe Open Science requirements in practice 
+
+Webinar - 8th Horizon Europe Open Science requirements in practice 
 
 ### Suggestions
 
