@@ -5,18 +5,6 @@ title: "Professional Development"
 ## Chapter summary
 In this chapter we look at the professionalisation of data stewardship, data steward careers and training opportunities 
 
-## Learning Objectives
-
-Understand how data stewardship is organised in the Netherlands, in particular in the Life Sciences & Health domain 
-
-- Know the official data stewards profiles that are used in Research Performing Organisations 
-
-- Know (inter)national initiatives to professionalise data stewardship  
-
-- Know the opportunities to gain expertise 
-
-- Assess the directions in which you can develop your career 
-
 ---
 
 ## 3.1 Data stewardship career development
@@ -28,19 +16,19 @@ Data stewardship has officially come of age. What began as a niche interest for 
 
 ### Learning Objectives 
 
-- Navigate the Formal Framework: Identify where your role sits within the Dutch university structure and the standardized job profiles. 
+## Navigate the Formal Framework:  Identify where your role sits within the Dutch university structure and the standardized job profiles. 
 
-- Map Your Competency Journey: Move beyond "learning by chance" by identifying the specific technical and soft skills required to master the role. 
+## Map Your Competency Journey: Move beyond "learning by chance" by identifying the specific technical and soft skills required to master the role. 
 
-- Harness the Power of the Network: Identify and leverage key Dutch communities (such as RDNL and TDCCs) to collaborate and grow with your peers. 
+## Harness the Power of the Network: Identify and leverage key Dutch communities (such as RDNL and TDCCs) to collaborate and grow with your peers. 
 
-Pro Tip: Keep an eye out for the "Spotlight" stories throughout this section. Hearing how others navigated their first three years can help you map out your own professional milestone 
+## Pro Tip: Keep an eye out for the "Spotlight" stories throughout this section. Hearing how others navigated their first three years can help you map out your own professional milestone 
 
  
 
 ### (Step 1) Professionalising data stewardship 
 
-The NPOS report from 2021 was the first big step towards defining and professionalising the role in the Netherlands. It led to the adoption of a formal job profile at Dutch universities and at some university medical centres. Since then, more attention has been paid to the role and career perspectives of data stewards. Especially in a period of scarcity of experienced data stewards, research organisations see the need to invest in making it an attractive role, to recruit and keep qualified people.   
+The NPOS report from 2021 was the first big step towards defining and professionalising the role in the Netherlands. It led to the adoption of a formal job profile at Dutch universities and at some university medical centres. Since then, more attention has been paid to the role and career perspectives of data stewards. Especially in a period of scarcity of experienced data stewards, research organisations see the need to invest in making it an attractive role, to recruit and keep qualified people. Developments such as theEuropean Health Data Space, but also AI, demonstrate the need for high quality and well managed (meta)data, and therefore the importance of having sufficient data stewardship capacity.  
 
 As the role is relatively new, and there is no formal education to become a data steward, people often learn by chance about the role while they do research themselves. They get interested in making sure that their data is well kept and reused by others. Others come from a different background, already working as a research supporter or in a library role connected to Open Science. The fact that data stewards are increasingly visible and recognised, contributes to the attractiveness of the job. Also, as the number of data stewards in academia have grown over time, new colleagues join existing teams and networks and can learn from their peers, instead of inventing the wheel themselves as they did in the early years of data stewardship. Being part of a team offers the opportunity to specialize in an area of your choice. 
 
@@ -52,7 +40,9 @@ Several parties in the Netherlands work on strengthening data stewardship, by ma
 
 - Merel Postma: https://tdcc.nl/spotlight-on-merel-postema/ 
 
-- Kiana Moghaddam: https://tdcc.nl/spotlight-on-kiana-moghaddam/ 
+- Kiana Moghaddam: https://tdcc.nl/spotlight-on-kiana-moghaddam/
+  
+- Sergi Aguilo Castillo: https://tdcc.nl/spotlight-on-sergi-aguilo-castillo/
 
 [Any (non-female) colleague you want to propose? ....] 
 
@@ -108,9 +98,12 @@ Aside the recognition in terms of competencies and expertise, important stakehol
 
 ### (Step 3) Rewarding and recognition for data stewardship  
 
-As you build your career it is also important to see how you can grow and evolve in your role. An important tool is to investigate how the UFO profile allows you to navigate between different levels of Data Stewardship: Hay Nederlands document extern (liggend) 
+“The UFO profile already improved a lot our visibility and professional paths. However, we need more clear career paths and recognition.” 
+Maria Vivas-Romero, MUMC+ / Health-RI  Limburg (https://tdcc.nl/spotlight-on-maria-vivas-romero/) 
 
- 
+As you build your career it is also important to see how you can grow and evolve in your role. An important tool is to investigate how the UFO profile for Dutch universities allows you to navigate between different levels of Data Stewardship: Hay Nederlands document extern (liggend). The UFO profile distinguishes three main areas of activities and responsibilities for data stewards. Your ‘level’ (data steward 1 – 4), usually depends on the scope of your activities in these areas: departmental, institutional or (inter)national. 
+
+
 
 A national Rewards & Recognition programme works towards modernising the traditional way of assessing research. This means that the focus is shifting from publications to other qualities as teaching, creating impact, leadership and, in the case of UMCs, patient care. Open science practices and team science are also aspects that are valued more, which means that data stewards can get recognition for their role as part of a research team or for their efforts to make data FAIR.  
 
@@ -126,9 +119,9 @@ What’s going on:
 
 National 
 
-RDNL training & community platform and courses  
+RDNL training & community platform 
 
-LCRDM & DCC Spring Training days 
+LCRDM 
 
 Awareness raising activities (e.g. spotlight series, links to talks / presentation on the topic) 
 
@@ -160,11 +153,11 @@ The offer in Training has grown exponentially over the past 6 years. It is impor
 
  
 
-Once you have taken the step to read over this Metroline page, the next step is to contact the training coordinator in your local DCC Competence Centre. Every Competence CentreDCC and or University Hospital, has developed their own Onboarding Training for Data Stewards in the Medical and Life Sciences.  
+ Once you have taken the step to read over this Metroline page, the next step is to contact the training coordinator in your local DCC . Every DCC and or University Hospital, has developed their own Onboarding Training for Data Stewards in the Medical and Life Sciences.  
 
  
 
-Maastricht University MUMC+:  Onboarding Training for Data Professionals Maastricht University provided annually upon demand contact Maria Vivas-Romero: m.vivasromero@maastrichtuniversity.nl  
+Maastricht University MUMC+:  Onboarding Training for Data Professionals Maastricht University provided annually upon demand contact Maria Vivas-Romero: m.vivasromero@maastrichtuniversity.nl. This training provides an overview of services and RDM standards for the Health Life Sciences Data Professionals at the institution. It also equips them with the right tools and technologies to provide RDM services to other researchers, clinicians and other stakeholders. 
 
 Radboud University Medical Center (RadboudUMC):  Researchers from RadboudUMC have mandatory induction days where they are presented with a variety of services available to them. As part of these sessions, researchers learn to apply the Findability and Acessibility principles within their studies. Furthermore, within the Radboudumc Technology Centers quarterly training FAIR RDM sessions get offered where researchers learn how to introduce the FAIR principles in their Data management practices. 
 
@@ -174,15 +167,24 @@ Leiden University Medical Center (LUMC): At the LUMC, central Data Stewards are 
 
  
 
-National Efforts: Annual Onboarding Training for Data Stewards provided by Health-RI information is shared via the Health-RI information pages: FAIR Data Stewards Basics Course | National Health Data Portal 
+## National Efforts: 
+Annual Onboarding Training for Data Stewards provided by Health-RI information is shared via the Health-RI information pages: FAIR Data Stewards Basics Course | National Health Data Portal 
 
- 
+ RDNL is developing a national Training & Community Platform for data professionals. It has developed a curriculum and competency framework (see chapter 1) and will build a comprehensive training programme with all relevant parties in the Netherlands so that data stewards / data professionals can design the learning path according to their own  personal development and their organisations’ needs.  
 
-Other places to find training include:  
+Other national training opportunities for data stewards:
+Course: Essentials 4 Data Support (English) - Public | DANS 
+
+This course is an introductory training for starting data professionals in all research domains. It consists of online materials that touch upon all topics related to data stewardship. The materials are freely available but you can also sign up for the course. In that case you attend two in person days and do assignments together with your peers in the weeks in between. The assignements help you to get a better grip on your role as a data steward. 
+
+DCC Spring Training Days, organised by LCRDM and the local DCCs 
+
+## Other places to find training include:  
 
 RDNL training & community platform (domain agnostic) - place to find trainings  
 
 Taxila 
+ 
 
 ### (Step 2) Track your Competencies and Training in your Career  
 
@@ -205,3 +207,29 @@ Gelder, C. W. G. (2021). Professionalising data stewardship in the Netherlands. 
  ---
 
 **Navigation:** [Back to Overview](onboarding-overview) | [Next Chapter: Networks, Funding & Communication](networks-funding-communication)
+
+## Step 3 Build your professional network as a Data Steward
+
+As you progress in your data stewardship career, you will naturally become familiar with more communities, societies, and cross‑institutional networks. 
+
+Many networks offer webinars, events, and knowledge‑exchange opportunities that help data stewards stay informed and build connections. 
+
+To become part of these communities and build your network, you can:
+
+## Attend community meetings and webinars - Many networks, such as RDA, GO FAIR, Health‑RI, ELIXIR‑NL, DSC‑NL, and Open Science NL, regularly organise online sessions, workshops, or conferences. 
+
+## Participate in working groups or interest groups - Joining small, topic‑focused groups is a low‑threshold way to gain experience and meet peers. 
+
+## Follow training offered by related communities -While not about ‘networking’ directly, these programmes like Carpentries workshops, RDM training, FAIR courses, and RSE workshops build skills and help you meet colleagues from the same area of expertise. 
+
+## Learn from senior colleagues and institutional experts - More experienced colleagues can introduce you to relevant communities and provide guidance on where to find expertise. 
+
+## Engage with conferences and symposia - Events such as the International FAIR Convergence Symposium, RDA Plenaries, ELIXIR Europe conferences, and national Open Science days often function as informal training on how these networks operate. 
+
+## Training 
+## Literature used
+Jetten, M., Grootveld, M., Mordant, A., Jansen, M., Bloemers, M., Miedema, M., & Van 
+
+Gelder, C. W. G. (2021). Professionalising data stewardship in the Netherlands. Competences, training and education. Dutch roadmap towards national implementation of FAIR data stewardship (1.1). Zenodo. https://doi.org/10.5281/zenodo.4320504  
+
+
