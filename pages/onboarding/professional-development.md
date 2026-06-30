@@ -46,17 +46,17 @@ Assignment suggestions:
 
 1.  Which of the following considerations played a role in applying for a data stewards role:  
 
-1.Being close to research without being a researcher 
+1. Being close to research without being a researcher 
 
-2.Opportunity to have a fixed position  
+2. Opportunity to have a fixed position  
 
-3.Motivation to contribute to Open Science 
+3. Motivation to contribute to Open Science 
 
-4.Being discouraged by the traditional Academic process after having had conducted a PhD  
+4. Being discouraged by the traditional Academic process after having had conducted a PhD  
 
-5.It just came by... 
+5. It just came by... 
 
-6.All of the above 
+6. All of the above 
 
 2. Considering your career, could you describe where you would like to be in 5 years?  
 
