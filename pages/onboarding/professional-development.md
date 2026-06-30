@@ -14,16 +14,6 @@ In this chapter we look at the professionalisation of data stewardship, data ste
 Data stewardship has officially come of age. What began as a niche interest for researchers and librarians has become a formalized, professional pillar of the Dutch research landscape. Driven by the 2021 NPOS report and supported by organizations like NWO and Open Science NL, the role is no longer about working in isolation. Today’s data stewards are part of a visible, funded, and highly collaborative network dedicated to making research data sustainable and reusable. In this section we take you by the hand toward the career development of a Data Steward. We want you to get an overview of what your career might look like in the upcoming years.  
 
 
-### Learning Objectives 
-
-## Navigate the Formal Framework:  Identify where your role sits within the Dutch university structure and the standardized job profiles. 
-
-## Map Your Competency Journey: Move beyond "learning by chance" by identifying the specific technical and soft skills required to master the role. 
-
-## Harness the Power of the Network: Identify and leverage key Dutch communities (such as RDNL and TDCCs) to collaborate and grow with your peers. 
-
-## Pro Tip: Keep an eye out for the "Spotlight" stories throughout this section. Hearing how others navigated their first three years can help you map out your own professional milestone 
-
  
 
 ### (Step 1) Professionalising data stewardship 
@@ -43,8 +33,6 @@ Several parties in the Netherlands work on strengthening data stewardship, by ma
 - Kiana Moghaddam: https://tdcc.nl/spotlight-on-kiana-moghaddam/
   
 - Sergi Aguilo Castillo: https://tdcc.nl/spotlight-on-sergi-aguilo-castillo/
-
-[Any (non-female) colleague you want to propose? ....] 
 
 Assignment suggestions:  
 
