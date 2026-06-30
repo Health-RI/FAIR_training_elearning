@@ -16,7 +16,7 @@ Data stewardship has officially come of age. What began as a niche interest for 
 
  
 
-### (Step 1) Professionalising data stewardship 
+### Step 1 Professionalising data stewardship 
 
 The NPOS report from 2021 was the first big step towards defining and professionalising the role in the Netherlands. It led to the adoption of a formal job profile at Dutch universities and at some university medical centres. Since then, more attention has been paid to the role and career perspectives of data stewards. Especially in a period of scarcity of experienced data stewards, research organisations see the need to invest in making it an attractive role, to recruit and keep qualified people. Developments such as theEuropean Health Data Space, but also AI, demonstrate the need for high quality and well managed (meta)data, and therefore the importance of having sufficient data stewardship capacity.  
 
@@ -52,7 +52,7 @@ All of the above
 
 2. Considering your career, could you describe where you would like to be in 5 years?  
 
-### (Step 2) Data stewards job profiles  
+### Step 2 Data stewards job profiles  
 
 The Dutch universities (UNL) already adopted an official job profile for data stewards in their job classification system (UFO) in 2021. This profile allows for both recognition and job mobility within the role. The profile distinguishes four types of data stewards with different scope of responsibilities and related salary scales. The profile is not yet public but can be consulted by anyone affiliated at a Dutch university. The five main activities are:  
 
@@ -84,7 +84,7 @@ Table from the blogpost on the workshop ‘Building capacity for Data Stewardshi
 
 Aside the recognition in terms of competencies and expertise, important stakeholders in the RDM landscape in The Netherlands have recognized the importance of Data Stewards. Funders for example have recognized their importance and imposed the need for a Data Steward to review Data Management Plan and other documentation that is mandatory to release their budget. Other initiatives also recognize Data Stewardship in the Science landscape overall (e.g Open Science Movement and Recognition and Rewards Team Science). 
 
-### (Step 3) Rewarding and recognition for data stewardship  
+### Step 3 Rewarding and recognition for data stewardship  
 
 “The UFO profile already improved a lot our visibility and professional paths. However, we need more clear career paths and recognition.” 
 Maria Vivas-Romero, MUMC+ / Health-RI  Limburg (https://tdcc.nl/spotlight-on-maria-vivas-romero/) 
@@ -133,7 +133,7 @@ You should be able to recognize where to find your education journey to earn new
 
  
 
-### (Step 1) Find the Available Training  
+### Step 1 Find the Available Training  
 
  
 
@@ -174,7 +174,7 @@ RDNL training & community platform (domain agnostic) - place to find trainings
 Taxila 
  
 
-### (Step 2) Track your Competencies and Training in your Career  
+### Step 2 Track your Competencies and Training in your Career  
 
 Practical exercise: 
 
