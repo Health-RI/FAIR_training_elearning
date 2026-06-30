@@ -13,7 +13,15 @@ In this chapter we look at the professionalisation of data stewardship, data ste
 
 Data stewardship has officially come of age. What began as a niche interest for researchers and librarians has become a formalized, professional pillar of the Dutch research landscape. Driven by the 2021 NPOS report and supported by organizations like NWO and Open Science NL, the role is no longer about working in isolation. Today’s data stewards are part of a visible, funded, and highly collaborative network dedicated to making research data sustainable and reusable. In this section we take you by the hand toward the career development of a Data Steward. We want you to get an overview of what your career might look like in the upcoming years.  
 
+Learning Objectives 
 
+Navigate the Formal Framework: Identify where your role sits within the Dutch university structure and the standardized job profiles. 
+
+Map Your Competency Journey: Move beyond "learning by chance" by identifying the specific technical and soft skills required to master the role. 
+
+Harness the Power of the Network: Identify and leverage key Dutch communities (such as RDNL and TDCCs) to collaborate and grow with your peers. 
+
+Pro Tip: Keep an eye out for the "Spotlight" stories throughout this section. Hearing how others navigated their first three years can help you map out your own professional milestone
  
 
 ### Step 1 Professionalising data stewardship 
@@ -38,17 +46,17 @@ Assignment suggestions:
 
 1.  Which of the following considerations played a role in applying for a data stewards role:  
 
-Being close to research without being a researcher 
+1.Being close to research without being a researcher 
 
-Opportunity to have a fixed position  
+2.Opportunity to have a fixed position  
 
-Motivation to contribute to Open Science 
+3.Motivation to contribute to Open Science 
 
-Being discouraged by the traditional Academic process after having had conducted a PhD  
+4.Being discouraged by the traditional Academic process after having had conducted a PhD  
 
-It just came by... 
+5.It just came by... 
 
-All of the above 
+6.All of the above 
 
 2. Considering your career, could you describe where you would like to be in 5 years?  
 
@@ -97,13 +105,13 @@ A national Rewards & Recognition programme works towards modernising the traditi
 
 Another practical tool to investigate the competencies and career track is the RDA working group Professionalising Data Stewardship -> RDA wg Data Steward Career Tracks.  The RDA Data Steward Career Tracks WG proposes to approach data steward career tracks systematically by developing a methodology for data steward persona definition and creating a sample of data steward personas as well as career pathways for the sample personas.  
 
-https://www.rd-alliance.org/groups/data-steward-career-tracks-wg/activity/ 
+## https://www.rd-alliance.org/groups/data-steward-career-tracks-wg/activity/ 
 
-Newbold, E., Wang, Y., Lehtsalu, L., Zhou, B., & McCutcheon, V. (2024). RDA Professionalising Data Stewardship IG - What does a career track for data stewards look like?. Zenodo. https://doi.org/10.15497/RDA00102 
+## Newbold, E., Wang, Y., Lehtsalu, L., Zhou, B., & McCutcheon, V. (2024). RDA Professionalising Data Stewardship IG - What does a career track for data stewards look like?. Zenodo. https://doi.org/10.15497/RDA00102 
 
-EOSC Task force  
+## EOSC Task force  
 
-What’s going on:  
+## What’s going on:  
 
 National 
 
@@ -186,13 +194,9 @@ Year | Competencies  | Training
 
  
 
-### Resources used 
 
-Jetten, M., Grootveld, M., Mordant, A., Jansen, M., Bloemers, M., Miedema, M., & Van 
 
-Gelder, C. W. G. (2021). Professionalising data stewardship in the Netherlands. Competences, training and education. Dutch roadmap towards national implementation of FAIR data stewardship (1.1). Zenodo. https://doi.org/10.5281/zenodo.4320504  
 
- ---
 
 **Navigation:** [Back to Overview](onboarding-overview) | [Next Chapter: Networks, Funding & Communication](networks-funding-communication)
 
