@@ -701,8 +701,9 @@ Check Answer
 </button>
 
 <p id="dmpquiz-result"></p>
+</div>
 
-/assets/js/quiz_code.js>
+<script ../../assets/js/quiz_code.js>
 
 ### Expertise 
 
