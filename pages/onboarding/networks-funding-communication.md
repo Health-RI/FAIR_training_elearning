@@ -47,19 +47,41 @@ Together, these networks create a coherent ecosystem where data stewards can col
 
 
 #### Quiz   
+<div class="quiz-container">
 
-**Question**: According to the text, why are local networks considered the 'first line of support' for researchers and data stewards? 
+<p><strong>Question:</strong> According to the text, why are local networks considered the "first line of support" for researchers and data stewards?</p>
 
-A. They replace the need for central data stewardship teams. 
+<label>
+  <input type="radio" name="networkquiz" value="A">
+  A. They replace the need for central data stewardship teams.
+</label><br>
 
-B.  They operate within the institution to translate high-level guidelines into practical, day-to-day workflows. 
+<label>
+  <input type="radio" name="networkquiz" value="B">
+  B. They operate within the institution to translate high-level guidelines into practical, day-to-day workflows.
+</label><br>
 
-C. They provide the primary financial funding for all research projects. 
+<label>
+  <input type="radio" name="networkquiz" value="C">
+  C. They provide the primary financial funding for all research projects.
+</label><br>
 
-D. They create the international guidelines that all other organizations must follow. 
+<label>
+  <input type="radio" name="networkquiz" value="D">
+  D. They create the international guidelines that all other organizations must follow.
+</label><br><br>
 
- 
- Correct answer: B they operate within the institution to translate high-level guidelines into practical, day-to-day workflows 
+<button onclick="checkQuiz(
+'networkquiz',
+'B',
+'The correct answer is B. Local networks translate high-level guidelines into practical workflows.'
+)">
+Check Answer
+</button>
+
+<p id="networkquiz-result"></p>
+
+</div>
 
 
 ### (Step 2) National networks 
@@ -98,17 +120,43 @@ More information on this connection can be found in the section in the last sect
 
 #### Quiz  
 
-**Question**: If a Data Steward wants to connect with a cross-institutional community specifically focused on the professionalization and roles of stewards in the Netherlands, which group should they join? 
+<div class="quiz-container">
 
-A) GO FAIR 
+<p><strong>Question:</strong> According to the text, why are local networks considered the "first line of support" for researchers and data stewards?</p>
 
-B) SURF 
+<label>
+  <input type="radio" name="dsigquiz" value="A">
+  A. They replace the need for central data stewardship teams.
+</label><br>
 
-C) Data Stewards Interest Group (DSIG) 
+<label>
+  <input type="radio" name="dsigquiz" value="B">
+  B. They operate within the institution to translate high-level guidelines into practical, day-to-day workflows.
+</label><br>
 
-D) ELSI Servicedes 
+<label>
+  <input type="radio" name="dsigquiz" value="C">
+  C. They provide the primary financial funding for all research projects.
+</label><br>
 
-Correct Answer: C. The DSIG is explicitly described as a community focused on the roles, capacities, and professionalization of data stewards. 
+<label>
+  <input type="radio" name="dsigquiz" value="D">
+  D. They create the international guidelines that all other organizations must follow.
+</label><br><br>
+
+
+<button onclick="checkQuiz(
+'dsigquiz',
+'C',
+'The correct answer is C. DSIG focuses on the professionalization and roles of data stewards.'
+)">
+Check Answer
+</button>
+
+<p id="dsigquiz-result"></p>
+
+</div>
+
 
 ### (Step 3) International Networks 
 
@@ -146,18 +194,41 @@ Some of the global networks are:
 International networks are important because they provide access to global expertise, training, and tools that strengthen local and national efforts. They also play a key role in harmonising standards needed for cross‑border research, international funding calls, and large‑scale scientific collaborations. 
 
 #### Quiz  
+<div class="quiz-container">
 
-**Question**: What is the primary purpose of international networks in the context of Data Stewardship? 
+<p><strong>Question:</strong> According to the text, why are local networks considered the "first line of support" for researchers and data stewards?</p>
 
-A) To provide office space for stewards traveling abroad. 
+<label>
+  <input type="radio" name="internationalquiz" value="A">
+  A. They replace the need for central data stewardship teams.
+</label><br>
 
-B) To ensure FAIR and responsible data management is aligned beyond national borders, enabling cross-country collaboration. 
+<label>
+  <input type="radio" name="internationalquiz" value="B">
+  B. They operate within the institution to translate high-level guidelines into practical, day-to-day workflows.
+</label><br>
 
-C) To replace local institutional workflows with a single global software. 
+<label>
+  <input type="radio" name="internationalquiz" value="C">
+  C. They provide the primary financial funding for all research projects.
+</label><br>
 
-D) To manage the payroll for Dutch researchers working on international projects 
+<label>
+  <input type="radio" name="internationalquiz" value="D">
+  D. They create the international guidelines that all other organizations must follow.
+</label><br><br>
 
-Correct Answer: B. The text emphasizes that these networks align practices beyond national borders to enable large-scale collaboration. 
+<button onclick="checkQuiz(
+'internationalquiz',
+'B',
+'The correct answer is B. International networks align practices beyond national borders and support collaboration.'
+)">
+Check Answer
+</button>
+
+<p id="internationalquiz-result"></p>
+
+</div>
 
 
 ### Suggestions
@@ -522,33 +593,116 @@ Missing video
 ## Test your knowledge 
 
 #### Quiz
+<div class="quiz-container">
 
-**1. Which statement best describes the research funders approach to Open Science and RDM?**
+<p><strong>Question:</strong> Which statement best describes the research funders approach to Open Science and RDM?</p>
 
-A. They are optional and only encouraged in selected calls 
-B. They are required standard practices integrated into applications and evaluations 
-C. They are only relevant during the post‑award phase 
-D. They apply only to health‑related projects 
+<label>
+  <input type="radio" name="funderquiz" value="A">
+  A. They are optional and only encouraged in selected calls.
+</label><br>
 
-**2. Which activities can be budgeted within projects as part of RDM?**
+<label>
+  <input type="radio" name="funderquiz" value="B">
+  B. They are required standard practices integrated into applications and evaluations.
+</label><br>
 
-A. Only software development 
-B. Data stewardship roles, metadata creation, secure storage and preservation 
-C. Travel to conferences only 
-D. Administrative staff for proposal writing 
+<label>
+  <input type="radio" name="funderquiz" value="C">
+  C. They are only relevant during the post‑award phase.
+</label><br>
+
+<label>
+  <input type="radio" name="funderquiz" value="D">
+  D. They apply only to health‑related projects.
+</label><br><br>
+
+<button onclick="checkQuiz(
+'funderquiz',
+'B',
+'The correct answer is B. Open Science and RDM are increasingly integrated into applications and evaluation criteria.'
+)">
+Check Answer
+</button>
+
+<p id="funderquiz-result"></p>
+
+</div>
 
 
-**3. Case-scenario: A Horizon Europe project has just started. The PI is unsure when the Data Management Plan should be written. They say: “We will write the DMP at the very end, after the final deliverables.”** 
+<div class="quiz-container">
 
-Question: 
+<p><strong>Question:</strong> Which activities can be budgeted within projects as part of RDM?</p>
 
-What must you advise them according to Horizon Europe requirements? 
+<label>
+  <input type="radio" name="budgetquiz" value="A">
+  A. Only software development.
+</label><br>
 
-A. A DMP must be completed at the beginning of the project and updated during reporting periods 
-B. A DMP is optional unless the project handles sensitive data 
-C. A DMP must be submitted only at the mid‑term review 
-D. A DMP is required only if the project produces Open Access publications
+<label>
+  <input type="radio" name="budgetquiz" value="B">
+  B. Data stewardship roles, metadata creation, secure storage and preservation.
+</label><br>
 
+<label>
+  <input type="radio" name="budgetquiz" value="C">
+  C. Travel to conferences only.
+</label><br>
+
+<label>
+  <input type="radio" name="budgetquiz" value="D">
+  D. Administrative staff for proposal writing.
+</label><br><br>
+
+<button onclick="checkQuiz(
+'budgetquiz',
+'B',
+'The correct answer is B. Data stewardship roles, metadata creation, secure storage and preservation.'
+)">
+Check Answer
+</button>
+
+<p id="budgetquiz-result"></p>
+
+</div>
+
+**Case-scenario: A Horizon Europe project has just started. The PI is unsure when the Data Management Plan should be written. They say: “We will write the DMP at the very end, after the final deliverables.”** 
+
+<div class="quiz-container">
+
+<p><strong>Question:</strong> What must you advise them according to Horizon Europe requirements? </p>
+
+<label>
+  <input type="radio" name="dmpquiz" value="A">
+  A. A DMP must be completed at the beginning of the project and updated during reporting periods.
+</label><br>
+
+<label>
+  <input type="radio" name="dmpquiz" value="B">
+  B. A DMP is optional unless the project handles sensitive data.
+</label><br>
+
+<label>
+  <input type="radio" name="dmpquiz" value="C">
+  C. A DMP must be submitted only at the mid‑term review.
+</label><br>
+
+<label>
+  <input type="radio" name="dmpquiz" value="D">
+  D. A DMP is required only if the project produces Open Access publications.
+</label><br><br>
+
+<button onclick="checkQuiz(
+'dmpquiz',
+'A',
+'The correct answer is A. Horizon Europe requires a DMP early in the project and updates during reporting periods.'
+)">
+Check Answer
+</button>
+
+<p id="dmpquiz-result"></p>
+
+/assets/js/quiz_code.js>
 
 ### Expertise 
 
