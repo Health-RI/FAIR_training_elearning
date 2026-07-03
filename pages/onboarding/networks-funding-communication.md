@@ -703,7 +703,7 @@ Check Answer
 <p id="dmpquiz-result"></p>
 </div>
 
-<script ../../assets/js/quiz_code.js>
+/assets/js/quiz_code.js</script>
 
 ### Expertise 
 
