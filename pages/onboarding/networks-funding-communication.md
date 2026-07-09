@@ -2,6 +2,8 @@
 title: "Networks, Funding & Communication"
 ---
 
+![Networks, funding, communication](/assets/img/network_funding_communication.png)
+
 ## Chapter Summary
 
 TBD
@@ -10,7 +12,6 @@ TBD
 
 ## 2.1 National and International Networks
 
-### Network Structure test maria
 ### Short description 
 
 Data stewardship does not happen in isolation. To create FAIR and reusable  data, professionals depend on a range of local, national, and international networks. These networks provide guidance, tools, training, expertise, and infrastructure that support researchers throughout the data life cycle. Understanding these networks helps data stewards navigate where to turn for support, find collaboration opportunities, and stay aligned with national and international standards.
