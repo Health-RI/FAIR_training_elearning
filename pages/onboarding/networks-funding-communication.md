@@ -2,7 +2,6 @@
 title: "Networks, Funding & Communication"
 ---
 
-## Chapter Summary
 
 TBD
 
@@ -10,7 +9,6 @@ TBD
 
 ## 2.1 National and International Networks
 
-### Network Structure test maria
 ### Short description 
 
 Data stewardship does not happen in isolation. To create FAIR and reusable  data, professionals depend on a range of local, national, and international networks. These networks provide guidance, tools, training, expertise, and infrastructure that support researchers throughout the data life cycle. Understanding these networks helps data stewards navigate where to turn for support, find collaboration opportunities, and stay aligned with national and international standards.
@@ -23,7 +21,7 @@ Data stewardship does not happen in isolation. To create FAIR and reusable  data
 
 * Recognize which networks are relevant based on the responsibilities, expertise areas, and function profile of the data steward. 
 
-### (Step 1) Local networks 
+### 2.1.1. Local networks 
 
 Local networks are the first line of support for researchers and data stewards. These networks operate within the institution and translate (inter)national guidelines into practical, day‑to‑day workflows. For most data stewards, this is where collaboration, problem‑solving, and decision‑making will happen most frequently. 
 
@@ -46,10 +44,20 @@ Local networks support FAIR and responsible data management by providing the ess
 Together, these networks create a coherent ecosystem where data stewards can collaborate effectively, route researchers to the right specialists, and implement FAIR practices consistently across the institution. In the section Roles of Digital Competence Centers, you will learn how DCCs work with and support these networks.
 
 
-#### Quiz   
+<div style="
+  background-color:#e8f4fd;
+  border-left:4px solid #7c7e83;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+  color:#2c2c2e;
+">
+  <strong style="color:#2c2c2e;">❓Quiz</strong>
+  <p style="margin:8px 0 0 0;">
+
 <div class="quiz-container">
 
-<p><strong>Question:</strong> According to the text, why are local networks considered the "first line of support" for researchers and data stewards?</p>
+<p><strong>According to the text, why are local networks considered the "first line of support" for researchers and data stewards?</strong></p>
 
 <label>
   <input type="radio" name="networkquiz" value="A">
@@ -82,34 +90,39 @@ Check Answer
 <p id="networkquiz-result"></p>
 
 </div>
+      </p>
+</div>
 
-
-### (Step 2) National networks 
+### 2.1.2. National networks 
 
 National networks play a key role in coordinating research data management, FAIR implementation, and responsible data sharing across institutions in the Netherlands. These networks provide shared infrastructure, common standards, training programmes, and policy alignment that support researchers and data stewards beyond their own institutions. They complement local networks by offering expertise, guidance, and infrastructures that a single institution cannot provide alone.   
 
 Important national networks include: 
-* **Health‑RI** – A national initiative building an integrated health data infrastructure for research and care. Health‑RI provides FAIR expertise, ELSI guidance, tools, and working groups that connect researchers and data stewards across Dutch Healthcare institutions. 
+* [**Health‑RI**](https://www.health-ri.nl/) – A national initiative building an integrated health data infrastructure for research and care. Health‑RI provides FAIR expertise, ELSI guidance, tools, and working groups that connect researchers and data stewards across Dutch Healthcare institutions. 
 
-* **LCRDM (Landelijk Coördinatiepunt Research Data Management)** – Coordinates national RDM activities, offering practical guidance, tool inventories, expert groups, and nationally aligned recommendations for research support staff. 
+* [**LCRDM (Landelijk Coördinatiepunt Research Data Management)**](https://lcrdm.nl/) – Coordinates national RDM activities, offering practical guidance, tool inventories, expert groups, and nationally aligned recommendations for research support staff. 
 
-* **DCC–PO (DCC voor Praktijkgericht Onderzoek)** –   National knowledge center for research support in universities of applied sciences. Focus areas of this network are open science, FAIR data, data stewardship, and data-intensive research.Data Stewards Interest Group (DSIG) – A cross‑institutional community specifically focused on the roles, capacities, and professionalisation of data stewards across the Netherlands.
+* [**DCC–PO (DCC voor Praktijkgericht Onderzoek)**](https://www.dccpo.nl/) –   National knowledge center for research support in universities of applied sciences. Focus areas of this network are open science, FAIR data, data stewardship, and data-intensive research.Data Stewards Interest Group (DSIG) – A cross‑institutional community specifically focused on the roles, capacities, and professionalisation of data stewards across the Netherlands.
 
-* **Data Steward Interest Group (DGSI)** -  A cross‑institutional community specifically focused on the roles, capacities, and professionalisation of data stewards across the Netherlands. 
+* [**Data Steward Interest Group (DSIG)**](https://tdcc.nl/network/dsig/) -  A cross‑institutional community specifically focused on the roles, capacities, and professionalisation of data stewards across the Netherlands. 
 
-* **GO FAIR (NL and international nodes)** – Promotes practical implementation of the FAIR principles through FAIR Implementation Profiles, FAIRification frameworks, and international alignment. 
+* [**GO FAIR (NL and international nodes)**](https://www.go-fair.org/) – Promotes practical implementation of the FAIR principles through FAIR Implementation Profiles, FAIRification frameworks, and international alignment. 
 
-* **ELIXIR‑NL (Dutch node of ELIXIR Europe)** – Provides life science data services, tools, training, and interoperability standards that align with the broader European ELIXIR network. 
+* [**ELIXIR‑NL (Dutch node of ELIXIR Europe)**](https://www.dtls.nl/fair-data/elixir-nl/) – Provides life science data services, tools, training, and interoperability standards that align with the broader European ELIXIR network. 
 
-* **LEARN-FAIR** – Community and initiative offering training, materials, and knowledge exchange about implementing FAIR data practices in research. 
+* [**LEARN-FAIR**](https://www.learn-fair.eu/) – Community and initiative offering training, materials, and knowledge exchange about implementing FAIR data practices in research. 
 
-* **Netherlands eScience Center (NLeSC)** – National organisation advancing research through high‑quality research software, RSE expertise, and digital skills training. Supports FAIR and reproducible research, coordinates the Dutch Research Software Engineer community, and collaborates on national Open Science initiatives. 
+* [**Netherlands eScience Center (NLeSC)**](https://www.esciencecenter.nl/) – National organisation advancing research through high‑quality research software, RSE expertise, and digital skills training. Supports FAIR and reproducible research, coordinates the Dutch Research Software Engineer community, and collaborates on national Open Science initiatives. 
 
-* **Research Software Training Network** – A network that bringing together and facilitating training organizations in the Netherlands in the areas of research software, programming skills, applied data science, computational skills and open source. 
+* [**Research Software Training Network**](https://researchsoftwaretraining.nl/) – A network that bringing together and facilitating training organizations in the Netherlands in the areas of research software, programming skills, applied data science, computational skills and open source. 
 
-* **National Research Infrastructures** – Such as BBMRI‑NL (biobanking) and SURF (computing, cloud services, secure storage, identity services). 
+* **National Research Infrastructures** – Such as [BBMRI‑NL](https://www.bbmri.nl/) (biobanking) and [SURF](https://www.surf.nl/en) (computing, cloud services, secure storage, identity services). 
 
-* **National ELSI Services** – Such as the ELSI Servicedesk and Health‑RI’s ELSI working groups, which provide harmonised guidance on ethical, legal, and societal aspects of data sharing.  
+* [**National ELSI Services**](https://elsi.health-ri.nl/) – Such as the ELSI Servicedesk and Health‑RI’s ELSI working groups, which provide harmonised guidance on ethical, legal, and societal aspects of data sharing.  
+
+* [**Dutch Interoperability Network**](https://tdcc.nl/network/dutch-interoperability-network/) - A national network that brings together researchers, data stewards, infrastructure providers, and interoperability experts to improve the interoperability of research data and services in the Netherlands.
+
+* [**NL-RSE**](https://nl-rse.org) - A national community connecting Research Software Engineers, data stewards, researchers, and research support professionals. NL-RSE promotes high-quality and sustainable research software, supports knowledge sharing and professional development, and contributes to reproducible and FAIR research practices.
 
 National networks are important because they directly influence institutional data policies, funding requirements, and the development of FAIR-aligned tools and services.  They therefore also play a major role in shaping expectations for national funding calls, such as those from NWO and ZonMw, which often require alignment with national infrastructures or FAIR implementation strategies.  
 
@@ -117,12 +130,21 @@ National networks are important because they directly influence institutional da
  
 More information on this connection can be found in the section in the last section of this chapter; **“Funding Landscape in Research Data Management: “What Data Stewards Need to Know”**.  
 
-
-#### Quiz  
+ 
+<div style="
+  background-color:#e8f4fd;
+  border-left:4px solid #7c7e83;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+  color:#2c2c2e;
+">
+  <strong style="color:#2c2c2e;">❓Quiz</strong>
+  <p style="margin:8px 0 0 0;">
 
 <div class="quiz-container">
 
-<p><strong>Question:</strong> According to the text, why are local networks considered the "first line of support" for researchers and data stewards?</p>
+<p><strong>According to the text, why are local networks considered the "first line of support" for researchers and data stewards?</strong></p>
 
 <label>
   <input type="radio" name="dsigquiz" value="A">
@@ -156,84 +178,92 @@ Check Answer
 <p id="dsigquiz-result"></p>
 
 </div>
+</p>
+</div>
 
-
-### (Step 3) International Networks 
+### 2.1.3. International Networks 
 
 International networks connect Dutch researchers, data stewards, and research support professionals to global standards, best practices, infrastructures, and communities. These networks help ensure that FAIR and responsible data management is aligned beyond national borders, enabling cross‑institutional and cross‑country collaboration. Many of these networks also shape global FAIR principles, interoperability frameworks, and Open Science policies, which influence national and institutional practices in turn. 
 
 European networks include: 
 
-* **Skills4EOSC Consortium** - Aims to professionalise data stewards across Europe, develop shared curricula, and create a network of competence centres. 
+* [**Skills4EOSC Consortium**](https://www.skills4eosc.eu/) - Aims to professionalise data stewards across Europe, develop shared curricula, and create a network of competence centres. 
 
-* **The Data Tank** - Runs data steward bootcamps designed to upskill professionals and create a European network of trained data stewards. 
+* [**The Data Tank**](https://www.thedatatank.eu/) - Runs data steward bootcamps designed to upskill professionals and create a European network of trained data stewards. 
 
-* **European Data Spaces** – The European Commission’s initiative to build sector‑specific, interoperable data ecosystems. These spaces aim to create trusted environments for data access and reuse across national borders. 
+* [**European Data Spaces**](https://eudataspace.com/en/) – The European Commission’s initiative to build sector‑specific, interoperable data ecosystems. These spaces aim to create trusted environments for data access and reuse across national borders. 
 
-* **ELIXIR Europe** – A European research infrastructure that connects national nodes (including ELIXIR‑NL) to provide interoperable life science data services, tools, training, and standards across Europe. 
+* [**ELIXIR Europe**](https://elixir-europe.org/) – A European research infrastructure that connects national nodes (including ELIXIR‑NL) to provide interoperable life science data services, tools, training, and standards across Europe. 
 
-* **EOSC (European Open Science Cloud)** – A major EU initiative building a federated ecosystem of data, tools, and services to support Open Science across Europe. 
+* [**EOSC (European Open Science Cloud)**](https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/open-science/european-open-science-cloud-eosc_en) – A major EU initiative building a federated ecosystem of data, tools, and services to support Open Science across Europe. 
 
 Some of the global networks are: 
 
-* **RDA (Research Data Alliance)** – A global community developing practical recommendations and standards for FAIR research data management. RDA runs multiple interest and working groups relevant for data stewards. 
+* [**RDA (Research Data Alliance)**](https://www.rd-alliance.org/) – A global community developing practical recommendations and standards for FAIR research data management. RDA runs multiple interest and working groups relevant for data stewards. 
 
-* **GO FAIR Implementation Network** - Although GO FAIR has regional nodes (e.g., NL, US, Brazil), its Implementation Networks (INs) operate internationally and bring together data stewards, FAIR experts, and domain specialists. 
+* [**GO FAIR Implementation Network**](https://www.go-fair.org/implementation-networks/) - Although GO FAIR has regional nodes (e.g., NL, US, Brazil), its Implementation Networks (INs) operate internationally and bring together data stewards, FAIR experts, and domain specialists. 
 
-* **FORRT (Framework for Open and Reproducible Research Training)** – Community promoting open, transparent, and reproducible research practices and offering educational resources relevant to data stewards. 
+* [**FORRT (Framework for Open and Reproducible Research Training)**](https://forrt.org/) – Community promoting open, transparent, and reproducible research practices and offering educational resources relevant to data stewards. 
 
-* **FORCE11** - a global organisation that convenes researchers, librarians, data stewards, and publishers. 
+* [**FORCE11**](https://force11.org/) - a global organisation that convenes researchers, librarians, data stewards, and publishers. 
 
-* **International Research Software Engineering Society** - A global network supporting Research Software Engineers. Many data stewards engage with this community due to overlap between data stewardship and software stewardship, including FAIR software, data pipelines, and reproducibility practices. 
+* [**International Research Software Engineering Society**](https://society-rse.org/) - A global network supporting Research Software Engineers. Many data stewards engage with this community due to overlap between data stewardship and software stewardship, including FAIR software, data pipelines, and reproducibility practices. 
 
-* **CODATA (Committee on Data of the International Science Council)** – Drives global policy development for data stewardship, FAIR data standards, and responsible data governance. 
+* [**CODATA (Committee on Data of the International Science Council)**](https://codata.org/) – Drives global policy development for data stewardship, FAIR data standards, and responsible data governance. 
 
-* **GO FAIR International** – Advocacy and implementation community promoting global FAIR principles, FAIR Digital Objects, and FAIR Implementation Profiles. 
+* [**GO FAIR International**](https://www.go-fair.org/) – Advocacy and implementation community promoting global FAIR principles, FAIR Digital Objects, and FAIR Implementation Profiles. 
 
 
 International networks are important because they provide access to global expertise, training, and tools that strengthen local and national efforts. They also play a key role in harmonising standards needed for cross‑border research, international funding calls, and large‑scale scientific collaborations. 
 
-#### Quiz  
-<div class="quiz-container">
+<div style="
+  background-color:#e8f4fd;
+  border-left:4px solid #7c7e83;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+  color:#2c2c2e;
+">
+  <strong style="color:#2c2c2e;">❓Quiz</strong>
+  <p style="margin:8px 0 0 0;">
 
-<p><strong>Question:</strong> According to the text, why are local networks considered the "first line of support" for researchers and data stewards?</p>
+  <p><strong> According to the text, why are local networks considered the "first line of support" for researchers and data stewards?</strong></p>
 
-<label>
-  <input type="radio" name="internationalquiz" value="A">
-  A. They replace the need for central data stewardship teams.
-</label><br>
+  <label>
+    <input type="radio" name="internationalquiz" value="A">
+    A. They replace the need for central data stewardship teams.
+  </label><br>
 
-<label>
-  <input type="radio" name="internationalquiz" value="B">
-  B. They operate within the institution to translate high-level guidelines into practical, day-to-day workflows.
-</label><br>
+  <label>
+    <input type="radio" name="internationalquiz" value="B">
+    B. They operate within the institution to translate high-level guidelines into practical, day-to-day workflows.
+  </label><br>
 
-<label>
-  <input type="radio" name="internationalquiz" value="C">
-  C. They provide the primary financial funding for all research projects.
-</label><br>
+  <label>
+    <input type="radio" name="internationalquiz" value="C">
+    C. They provide the primary financial funding for all research projects.
+  </label><br>
 
-<label>
-  <input type="radio" name="internationalquiz" value="D">
-  D. They create the international guidelines that all other organizations must follow.
-</label><br><br>
+  <label>
+    <input type="radio" name="internationalquiz" value="D">
+    D. They create the international guidelines that all other organizations must follow.
+  </label><br><br>
 
-<button onclick="checkQuiz(
-'internationalquiz',
-'B',
-'The correct answer is B. International networks align practices beyond national borders and support collaboration.'
-)">
-Check Answer
-</button>
+  <button onclick="checkQuiz(
+  'internationalquiz',
+  'B',
+  'The correct answer is B. International networks align practices beyond national borders and support collaboration.'
+  )">
+  Check Answer
+  </button>
 
-<p id="internationalquiz-result"></p>
+  <p id="internationalquiz-result"></p>
 
 </div>
+<div class="quiz-container">
 
-
-### Suggestions
-
-This page has been written and reviewed by field experts through a rigorous process and has reached the “released” status. Learn more about the contributors here and explore the development process here. If you have any suggestions, visit our How to contribute page to get in touch or fill in our Quick feedback form.
+  </p>
+</div>
 
 ---
 
@@ -259,7 +289,7 @@ Requirements on data management have increased over time. To help researchers an
 
 * Knows who to contact if a desired LDCC or TDCC does not exist yet and they want to contribute to setting it up. 
 
-### (Step 1) LDCCs 
+### 2.2.1. LDCCs 
 
 In the past 10 years a lot has changed in the research landscape. A publication by Wilkinson and colleagues in 2016 on the FAIR principles, the new [European Privacy legislation in 2018](https://eur-lex.europa.eu/content/news/general-data-protection-regulation-GDPR-applies-from-25-May-2018.html?locale=nl),  and the increase in Investigator Initiated Trials, which meant that researchers in the medical field took on more of the Sponsor responsibilities under the guidelines for [Good Clinical Practice (GCP)](https://www.ema.europa.eu/en/ich-e6-good-clinical-practice-scientific-guideline). Additionally, scientific advancement led to increased digitization of medical record (Electronic Health Records) and the (improved) ability of data extraction from the original source. 
 
@@ -285,10 +315,22 @@ The first round of funding and following top-up financing gave an impulse to the
 
 In the Netherlands there are now 26 LDCCs: every university and university medical center has an LDCC. Applied universities on the other hand share one national hub, the [DCC-PO](https://dcc-po.nl/). 
 
-< To add: a video of someone talking about the experience of what the funding helped change/ improve in their organization>  
+<div style="
+  background-color: #ef4e4e;
+  border-left:4px solid #f54689;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+  color: #2e2c2c;
+">
+  <strong style="color: #2e2c2c;">‼️TO ADD</strong>
+  <strong style="margin:8px 0 0 0;">
 
+ To add: a video of someone talking about the experience of what the funding helped change/ improve in their organization  
+      </strong>
+</div>
 
-### (Step 2) TDCCs 
+### 2.2.2. TDCCs 
 
 In Step 1 you learned about the improvement on collaboration within local networks by formalizing an LDCC. In thematic DCCs (TDCCs) experts from different organisations within the same field.  
 
@@ -302,11 +344,23 @@ There are currently 3 TDCCs:
 
 The TDCC’s receive funding from NWO for 1. network activities 2. projects that address challenges in their domain. Each of these TDCCs can have projects on multiple topics. TDCC-LSH for example has 2 types of projects, divided in [Bottleneck projects and Challenge projects](https://tdcc.nl/projects/tdcc-lsh-project-initiatives/). A bottleneck project currently ongoing is a FAIR fellowship programme in which each institution could enrol 1 data expert such as a local data steward to collaborate with other fellows and mentors from other organisations, to collectively work on building and improving knowledge related to data standards on a national level. 
 
-<To add video from someone talking about the TDCC they are involved in – e.g. Karen Sap from Amsterdam UMC – with a fellowship related to ISA standards, and her mentors from other knowledge institutions for this programme. Or Meron Maas (policymaker on DCCs at NWO>  
+<div style="
+  background-color: #e13535;
+  border-left:4px solid #7c7e83;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+  color:#2c2c2e;
+">
+  <strong style="color:#2c2c2e;">‼️TO ADD</strong>
+  <p style="margin:8px 0 0 0;">
+To add video from someone talking about the TDCC they are involved in – e.g. Karen Sap from Amsterdam UMC – with a fellowship related to ISA standards, and her mentors from other knowledge institutions for this programme. Or Meron Maas (policymaker on DCCs at NWO)
+      </p>
+</div>
 
 Even if you work in one field, say you work in LSH, it could still be that you are an expert that could contribute to a topic addressed by another  TDCC. An LSH expert on research software development in an academic hospital for example, could be involved in TDCC-NES for the alignment on how to further development of career paths for Research Software Engineers. Or if you are a data steward involved in policies for dealing with interview data, you could be involved in the TDCC-SSH, even though you are a data steward in a hospital. 
 
-### (Step 3) Getting involved 
+### 2.2.3. Getting involved 
 
 If you are new in your organisation and/or the role of data steward, you may still look for a predefined role for you specifically. In Chapter 1 <add link> you learned more on the many possible tasks for a data steward and to navigate what is expected from you in your role. It could be that your expertise (either the expertise you have or are building) would be beneficial in an LDCC and perhaps also in a TDCC, but... *How do you get involved?* 
 
@@ -336,11 +390,6 @@ Let students write down (for themselves we will not review their answers) a main
 
 * If your organisation has not set up data management services yet, or has not formalized a network yet, you may benefit from an online course on [Delivering Research Data Management Services](https://www.futurelearn.com/courses/delivering-research-data-management-services) by [Futurelearn](https://www.futurelearn.com/).
 
-
-
-### Suggestions
-
-This page has been written and reviewed by field experts through a rigorous process and has reached the “released” status. Learn more about the contributors here and explore the development process here. If you have any suggestions, visit our How to contribute page to get in touch or fill in our Quick feedback form.
 
 
 ### Literature used 
@@ -379,7 +428,7 @@ As a data steward, understanding the major funding bodies and their data steward
 * Understand major policies driving current funding programmes 
 
 
-### (Step 1) National funders 
+### 2.3.1. National funders 
 
 
 #### The NWO (Dutch Research Council)
@@ -434,15 +483,15 @@ From 1 March 2026 institutions do not need to send their DMP templates for appro
 
 [ZonMw](https://www.zonmw.nl/nl) is the Netherlands Organisation for Health Research and Development, a national public funding body for research aimed at improving health, healthcare, and well‑being in the Netherlands. [Health~Holland](https://www.health-holland.com/nl) stimulates innovative research by financing public-private collaboration in the Life Sciences & Health sector.  Both fund data stewardship as part of research, infrastructure and innovation programmes: 
 
-**1. FAIR data & RDM requirements **
+<strong>1. FAIR data & RDM requirements </strong>
 
 Good data management and the implementation of the FAIR principles across all funded projects. Grantees must plan for FAIR data and submit a DMP. 
 
-**2. Stimulating FAIRification, FAIR data infrastructure and data stewardship capacity** 
+<strong>2. Stimulating FAIRification, FAIR data infrastructure and data stewardship capacity</strong>
 
 ZonMw promotes the development of FAIR metadata standards, FAIRification tools, and scalable FAIR services, including participation in [FAIR data and metadata initiatives](https://www.health-ri.nl/en/projects-collaborations/zonmw) (e.g., through GO FAIR and Health‑RI) and [FAIR Data Cube](https://www.medrxiv.org/content/10.1101/2023.04.23.23289000v2). Together with other major funders they co-signed a [2023 declaration](https://www.zonmw.nl/nl/nieuws/verklaring-financiers-gezondheidsonderzoek-samenwerking-rondom-nationale-data-infrastructuur) committing to harmonized practices and investment in a FAIR national health data infrastructure. Other projects included developing competence profiles and a professional description for data stewards in life sciences through the [Towards FAIR data steward as profession](https://zenodo.org/records/7225070) initiative. 
 
-3. PPP Innovation subsidy (Public‑Private Partnerships) 
+<strong>3. PPP Innovation subsidy (Public‑Private Partnerships) </strong>
 
 Health~Holland funds large public‑private [R&D data-driven ](https://preventivehealth.ewuu.nl/about-a-tailored-lifestyle/) where data infrastructure, FAIR data management, and digital health tooling are integral components. 
 
@@ -459,7 +508,7 @@ Data stewards work with the research data life cycle, whereas project managers a
 ````
 
 
-### (Step 2) European funders 
+### 2.3.2. European funders 
 
 #### Horizon Europe 
 
@@ -475,7 +524,7 @@ Horizon Europe treats Open Science and RDM as required standard practices, inclu
 
 * [Open Science](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) requirements apply to all projects, and the programme directly funds practices such as publishing Open Access, citizen science, data and code FAIRification, open and transparent research.  
 
-<br></br> 
+<br>
 
 <details>
 <summary>Why this matters?</summary>
@@ -485,7 +534,7 @@ These requirements create a programme‑wide funding structure that embeds RDM a
 ```
 </details>
  
-<br></br> 
+<br>
 
 <u>**Post-award**</u> 
 
@@ -499,7 +548,7 @@ There are [RDM requirements](https://www.openaire.eu/how-to-comply-with-horizon-
 
 * Open Science practices ‘as open as possible, as closed as necessary’, such as publishing research outputs open access and in trusted repositories are also part of the contractual obligations. 
 
-<br></br> 
+<br>
 
 <details>
 <summary>Why this matters?</summary>
@@ -511,7 +560,7 @@ All Horizon Europe projects are allowed to include budget for data stewardship r
 </details>
 
 
-<br></br> 
+<br>
  
 <details>
 <summary>Did you know?</summary>
@@ -523,7 +572,7 @@ A common activity of data stewards is to develop and update an institutional DMP
 ```
 </details>
 
-<br></br> 
+<br>
 
 **2. Project‑level allowances for data stewardship**
 
@@ -541,9 +590,7 @@ Horizon Europe explicitly allows budgeting for RDM in the form of:
 
 * Ethical and legal data compliance 
 
-These expectations are documented in the [Horizon Europe guidelines for research data management](https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm).    
-
-<br></br> 
+These expectations are documented in the [Horizon Europe guidelines for research data management](https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm).  <br>
 
 <details>
 <summary>Why this matters?</summary>
@@ -553,9 +600,7 @@ Even though these RDM practices are embedded within project budgets rather than 
 
 ```
 </details>
-
-
-<br></br> 
+<br>
  
 <details>
 <summary>Did you know?</summary>
@@ -567,10 +612,8 @@ As a general rule, you can reserve, on average, 5% of overall project costs for 
 ```
 </details>
 
-<br></br> 
-
-
-**3. Calls supporting RDM **
+<br>
+<strong> 3. Calls supporting RDM </strong>
 
 All Horizon Europe calls, including those supporting research infrastructures, FAIR data practices, and Open Science, are published via the EU’s Funding & Tenders Portal. In this platform, you can find all open and upcoming calls under Horizon Europe, among these, typical call themes that fund RDM include: 
 
@@ -582,20 +625,40 @@ All Horizon Europe calls, including those supporting research infrastructures, F
 
 * Domain‑specific data-centred calls (health, environment, culture) 
 
- 
-
-Did you know? 
+<details>
+<summary>Did you know?</summary>
 
 Calls are often collaborative, involving multiple project partners. The best way to find collaborators is through your national and international network of contacts, for example, the DCCs (link to Ch2 above) and the [Data Stewardship Interest Group (DSIG)](https://tdcc.nl/dsig/). You can also use the [Horizon Europe partner search tool](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?isExactMatch=true&type=ORGANISATION,PERSON&order=DESC&pageNumber=1&pageSize=50&sortBy=lastModified) that lists all organisations that have expressed an interest in collaborating in Horizon Europe funding opportunities. You are also welcome to register yourself in this tool.
 
-Missing video
+</details>
 
-## Test your knowledge 
+<div style="
+  background-color: #a02323;
+  border-left:4px solid #0078d4;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+">
+  <strong style="color:#0078d4;">‼️ Missing video</strong>
+  <p style="margin:8px 0 0 0;">
+    This dashboard is updated monthly. Data may be subject to revision after validation.
+  </p>
+</div>
 
-#### Quiz
+<strong> ❓ Knowledge check </strong>
+
+<div style="
+  background-color:#e8f4fd;
+  border-left:4px solid #7c7e83;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+  color: #2c2c2e;
+">
+
 <div class="quiz-container">
 
-<p><strong>Question:</strong> Which statement best describes the research funders approach to Open Science and RDM?</p>
+<p><strong>Which statement best describes the research funders approach to Open Science and RDM?</strong></p>
 
 <label>
   <input type="radio" name="funderquiz" value="A">
@@ -628,11 +691,22 @@ Check Answer
 <p id="funderquiz-result"></p>
 
 </div>
+  </p>
+</div>
 
+<div style="
+  background-color:#e8f4fd;
+  border-left:4px solid #7c7e83;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+  color:#2c2c2e;
+">
+  <p style="margin:8px 0 0 0;">
 
 <div class="quiz-container">
 
-<p><strong>Question:</strong> Which activities can be budgeted within projects as part of RDM?</p>
+<p><strong>Which activities can be budgeted within projects as part of RDM?</strong></p>
 
 <label>
   <input type="radio" name="budgetquiz" value="A">
@@ -665,12 +739,24 @@ Check Answer
 <p id="budgetquiz-result"></p>
 
 </div>
+      </p>
+</div>
 
-**Case-scenario: A Horizon Europe project has just started. The PI is unsure when the Data Management Plan should be written. They say: “We will write the DMP at the very end, after the final deliverables.”** 
+<div style="
+  background-color:#e8f4fd;
+  border-left:4px solid #7c7e83;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+  color:#2c2c2e;
+">
+  <p style="margin:8px 0 0 0;">
+
+A Horizon Europe project has just started. The PI is unsure when the Data Management Plan should be written. They say: <em>“We will write the DMP at the very end, after the final deliverables.”</em>
 
 <div class="quiz-container">
 
-<p><strong>Question:</strong> What must you advise them according to Horizon Europe requirements? </p>
+<p><strong>What must you advise them according to Horizon Europe requirements?</strong> </p>
 
 <label>
   <input type="radio" name="dmpquiz" value="A">
@@ -702,21 +788,14 @@ Check Answer
 
 <p id="dmpquiz-result"></p>
 </div>
-
-/assets/js/quiz_code.js</script>
+      </p>
+</div>
 
 ### Expertise 
 
 ### Training 
 
-Pre-award Open Science and RDM requirements in Horizon Europe: 
-
-RDM in Horizon Europe grant proposals 
-
-Guide on Horizon Europe Open Science requirements in practice 
-
-Webinar - 8th Horizon Europe Open Science requirements in practice 
-
-### Suggestions
-
-This page has been written and reviewed by field experts through a rigorous process and has reached the “released” status. Learn more about the contributors here and explore the development process here. If you have any suggestions, visit our How to contribute page to get in touch or fill in our Quick feedback form.
+- Pre-award Open Science and RDM requirements in Horizon Europe: 
+- RDM in Horizon Europe grant proposals 
+- Guide on Horizon Europe Open Science requirements in practice 
+- Webinar - 8th Horizon Europe Open Science requirements in practice 
