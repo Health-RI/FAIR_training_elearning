@@ -74,7 +74,7 @@ Correct Answer C:  The steward is the actor who puts the standards and practices
 
 ### Short Description
 
-To get a better understanding of the skills and competencies of data stewards, and the training needed, Research Data Netherlands (RDNL) developed a competency framework for data stewards3 . This framework can help data stewards and their employers draft learning paths that fit the data stewards’ personal as well as the organisation’s development. 
+To get a better understanding of the skills and competencies of data stewards, and the training needed, Research Data Netherlands (RDNL) developed a competency framework for data stewards . This framework can help data stewards and their employers draft learning paths that fit the data stewards’ personal as well as the organisation’s development. 
 
 ### Learning Objectives
 
