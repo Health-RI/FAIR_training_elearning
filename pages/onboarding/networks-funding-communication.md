@@ -6,7 +6,7 @@ title: "Networks, Funding & Communication"
 
 ## Chapter Summary
 
-TBD
+Modern data stewardship relies on a collaborative, multi-tiered network—ranging from institutional Local DCCs and support teams (IT, Privacy, and Ethics) that manage day-to-day workflows, to national networks like LCRDM and domain-specific Thematic DCCs (Life Sciences, Natural Sciences, and Social Sciences) that coordinate standards across the Netherlands, all the way up to global bodies like the Research Data Alliance (RDA) that establish international Open Science policies. Navigating this ecosystem is essential for data stewards because major research funders like the NWO, ZonMw, and Horizon Europe now strictly mandate robust data management for all funded projects. Consequently, this chapter emphasizes the critical role data stewards play in helping researchers write data management plans (DMPs) and comply with diverse funder requirements.
 
 ---
 
