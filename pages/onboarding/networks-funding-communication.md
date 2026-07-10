@@ -144,26 +144,26 @@ More information on this connection can be found in the section in the last sect
 
 <div class="quiz-container">
 
-<p><strong>According to the text, why are local networks considered the "first line of support" for researchers and data stewards?</strong></p>
+<p><strong>If a Data Steward wants to connect with a cross-institutional community specifically focused on the professionalization and roles of stewards in the Netherlands, which group should they join?</strong></p>
 
 <label>
   <input type="radio" name="dsigquiz" value="A">
-  A. They replace the need for central data stewardship teams.
+  A. GO FAIR
 </label><br>
 
 <label>
   <input type="radio" name="dsigquiz" value="B">
-  B. They operate within the institution to translate high-level guidelines into practical, day-to-day workflows.
+  B. SURF
 </label><br>
 
 <label>
   <input type="radio" name="dsigquiz" value="C">
-  C. They provide the primary financial funding for all research projects.
+  C. Data Stewards Interest Group (DSIG)
 </label><br>
 
 <label>
   <input type="radio" name="dsigquiz" value="D">
-  D. They create the international guidelines that all other organizations must follow.
+  D. ELSI Servicedesk
 </label><br><br>
 
 
@@ -228,26 +228,26 @@ International networks are important because they provide access to global exper
   <p style="margin:8px 0 0 0;">
   
   <div class="quiz-container">
-  <p><strong> According to the text, why are local networks considered the "first line of support" for researchers and data stewards?</strong></p>
+  <p><strong> What is the primary purpose of international networks in the context of Data Stewardship? </strong></p>
 
   <label>
     <input type="radio" name="internationalquiz" value="A">
-    A. They replace the need for central data stewardship teams.
+    A. To provide office space for stewards traveling abroad. 
   </label><br>
 
   <label>
     <input type="radio" name="internationalquiz" value="B">
-    B. They operate within the institution to translate high-level guidelines into practical, day-to-day workflows.
+    B. To ensure FAIR and responsible data management is aligned beyond national borders, enabling cross-country collaboration.
   </label><br>
 
   <label>
     <input type="radio" name="internationalquiz" value="C">
-    C. They provide the primary financial funding for all research projects.
+    C. To replace local institutional workflows with a single global software. 
   </label><br>
 
   <label>
     <input type="radio" name="internationalquiz" value="D">
-    D. They create the international guidelines that all other organizations must follow.
+    D. To manage the payroll for Dutch researchers working on international projects.
   </label><br><br>
 
   <button onclick="checkQuiz(
@@ -690,7 +690,7 @@ Check Answer
 <p id="funderquiz-result"></p>
 
 </div>
-  </p>
+      </p>
 </div>
 
 <div style="
