@@ -96,7 +96,12 @@ What you do in practice as a data steward depends largely on:
 
 ![Competency areas](/assets/img/ch1_fig1_expertise_areas.png)
 
-<p><em>Figure 1. Expertise areas for data stewards from the Professionalising Data Stewardship report ([NPOS 2021](https://www.openscience.nl/sites/open_science/files/media-files/professionalising_datastewardship.pdf))</em></p> 
+
+<p><em>
+Figure 1. Expertise areas for data stewards from the Professionalising Data Stewardship report
+(<a href="https://www.openscience.nl/sites/open_iles/media-files/professionalising_datastewardship.pdf)
+</em></p>
+
 
 The expertise areas illustrated in the figure above are also described in the  RDNL Competency framework - RDNL competency framework for data stewards, developed by Research Data Netherlands (RNDL) in 2025. In this new framework, there are additional competencies to those described in Fig. 1, these include research software management, training and awareness raising, see fig. 2.   
 
@@ -140,11 +145,21 @@ Correct Answer: B. The text explicitly mentions that the expertise in the team (
 
 ### 1.2.2 Different Work Contexts 
 
-Data Stewards can be organised in different ways within organisations, reflecting variations in institutional structures, research practices, and available expertise. In some settings, data stewards operate from a central unit, such as a Digital Competence Center (see Chapter 2), connected to internal and external networks of research support departments such as the library, IT services or Legal experts. These Data Stewards often work on complex data related questions and services that require their broad network of research support professionals. In other cases, data stewards are embedded directly within a research project, team or department. These dedicated/embedded Data Stewards focus on hands-on support throughout the research data lifecycle and are closely aligned with day-to-day research activities.  
+Data Stewards can be organised in different ways within organisations, reflecting variations in institutional structures, research practices, and available expertise. In some settings, data stewards operate from a central unit, such as a Digital Competence Center ([See Chapter: Networks, Funding & Communication](networks-funding-communication)), connected to internal and external networks of research support departments such as the library, IT services or Legal experts. These Data Stewards often work on complex data related questions and services that require their broad network of research support professionals. In other cases, data stewards are embedded directly within a research project, team or department. These dedicated/embedded Data Stewards focus on hands-on support throughout the research data lifecycle and are closely aligned with day-to-day research activities.  
 
-For more practical information about Data Steward roles and responsibilities in different work contexts you can have a look at “Have a FAIR data steward on board | 
+<div style="
+  background-color:#e8f4fd;
+  border-left:4px solid #0078d4;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+">
+  <strong style="color:#0078d4;">ℹ️ Additional information</strong>
+  <p style="margin:8px 0 0 0;">
+  For more practical information about Data Steward roles and responsibilities in different work contexts you can have a look at [“Have a FAIR data steward on board FAIR Metroline”](https://fairmetroline.org/metroline_steps/have_a_fair_data_steward_on_board). For further background on data steward positionings, see the [NPOS report Professionalising Data Stewardship in the Netherlands](https://www.openscience.nl/sites/open_science/files/media-files/professionalising_datastewardship.pdf). 
+  </p>
+</div>
 
-FAIR Metroline”. For further background on data steward positionings, see the NPOS report Professionalising Data Stewardship in the Netherlands (Chapter 2.3). 
 
 #### Quiz 
 
@@ -175,11 +190,11 @@ Correct Answer: C. Embedded stewards are hired directly within a research projec
   
   Data stewardship profiles are often defined by the specific roles played and the scope of the research data supported. The nature of the data is one of the criteria that dictates the data steward’s focus: 
     
-  **Qualitative Data:** data collected via qualitative methods, such as interviews, life stories, ethnographies, and participant observations. These datasets often present unique challenges for FAIRification due to their deeply personal or sensitive nature, requiring the steward to balance data sharing with strict confidentiality. 
+  <strong>Qualitative Data</strong>: data collected via qualitative methods, such as interviews, life stories, ethnographies, and participant observations. These datasets often present unique challenges for FAIRification due to their deeply personal or sensitive nature, requiring the steward to balance data sharing with strict confidentiality. 
     
-  **Quantitative Data:** data collected through quantitative methods. For these datasets, the steward’s expertise must bridge the gap between privacy compliance (particularly for sensitive health-related data) and the technical aspects of interoperability and reusability. 
+  <strong>Quantitative Data</strong>: data collected through quantitative methods. For these datasets, the steward’s expertise must bridge the gap between privacy compliance (particularly for sensitive health-related data) and the technical aspects of interoperability and reusability. 
    
-  *Note:* Imaging data can be both qualitative (photos, videos, echos, CT, MRI, etc.) and quantitative (e.g., tumor measurements), depending on which aspects of the imaging are used. 
+  <em>Note</em>: Imaging data can be both qualitative (photos, videos, echos, CT, MRI, etc.) and quantitative (e.g., tumor measurements), depending on which aspects of the imaging are used. 
   </p>
 </div>
 
@@ -205,9 +220,9 @@ https://forms.office.com/pages/responsepage.aspx?id=CuPeS5QMZUi8Uh2fiUpJdTDeUMa8
 
 ## Resources
 
-**Health-RI FAIR Metroline** The FAIR Metroline is a collaborative effort by data stewards and other experts from the Health-RI network to help take all the steps necessary to achieve your goals in FAIRifying data. Each step contains information about the importance, a step-by-step guide, what expertise is required and information on relevant training . 
+[**Health-RI FAIR Metroline**](https://fairmetroline.org/) The FAIR Metroline is a collaborative effort by data stewards and other experts from the Health-RI network to help take all the steps necessary to achieve your goals in FAIRifying data. Each step contains information about the importance, a step-by-step guide, what expertise is required and information on relevant training . 
 
-**Data Steward Handbook** the Elixir community (Life Sciences)  has created a handbook for data stewards, with valuable information on all sorts of topics and use cases. It is work in progress but you can already consult it, and even volunteer to contribute to it. 
+[**Data Steward Handbook**](https://elixir-europe.github.io/ds-handbook/) the Elixir community (Life Sciences)  has created a handbook for data stewards, with valuable information on all sorts of topics and use cases. It is work in progress but you can already consult it, and even volunteer to contribute to it. 
 
  
 ## References 
