@@ -111,24 +111,23 @@ Another practical tool to investigate the competencies and career track is the R
  
 
 Newbold, E., Wang, Y., Lehtsalu, L., Zhou, B., & McCutcheon, V. (2024). RDA Professionalising Data Stewardship IG - What does a career track for data stewards look like?. Zenodo. https://doi.org/10.15497/RDA00102 
+ 
 
-## EOSC Task force  
+* What’s going on:  
 
-## What’s going on:  
+National  
 
-National 
+* RDNL training & community platform 
 
-RDNL training & community platform 
+* LCRDM 
 
-LCRDM 
-
-Awareness raising activities (e.g. spotlight series, links to talks / presentation on the topic) 
+* Awareness raising activities (e.g. spotlight series, links to talks / presentation on the topic) 
 
 International 
 
-RDA working group Professionalising Data Stewardship &  
+* RDA working group Professionalising Data Stewardship &  
 
-EOSC Task force 
+* EOSC Task force 
 
 Kalová, T., Frontini, F., Bracco, L., Legat, D., Meeus, J., & Hasani-Mavriqi, I. (2024). Data Stewardship Career Paths: Recommendations of the EOSC Task Force Data Stewardship Curricula and Career Paths (Versie v1). Zenodo. https://doi.org/10.5281/zenodo.11077722 
 
@@ -144,9 +143,9 @@ You should be able to recognize where to find your education journey to earn new
 
  
 
-### Find the Available Training  
+### 3.2.1 Find the Available Training  
 
- 
+
 
 The offer in Training has grown exponentially over the past 6 years. It is important to strategically plan for training components that are important to build the competencies mentioned in other sections. A good guide to make this process less complex the Metro-line pages created by Health-RI offer a good guidance: Edit - Health-RI data - Confluence  
 
@@ -195,15 +194,7 @@ Year | Competencies  | Training
 
  
 
- 
-
-
-
-
-
-**Navigation:** [Back to Overview](onboarding-overview) | [Next Chapter: Networks, Funding & Communication](networks-funding-communication)
-
-## Build your professional network as a Data Steward
+## 3.2.2. Build your professional network as a Data Steward
 
 As you progress in your data stewardship career, you will naturally become familiar with more communities, societies, and cross‑institutional networks. 
 
@@ -221,7 +212,7 @@ To become part of these communities and build your network, you can:
 
 * Engage with conferences and symposia - Events such as the International FAIR Convergence Symposium, RDA Plenaries, ELIXIR Europe conferences, and national Open Science days often function as informal training on how these networks operate. 
 
-## Training 
+
 ## Literature used
 Jetten, M., Grootveld, M., Mordant, A., Jansen, M., Bloemers, M., Miedema, M., & Van 
 
@@ -231,3 +222,4 @@ Newbold, E., Wang, Y., Lehtsalu, L., Zhou, B., & McCutcheon, V. (2024). RDA Prof
 
 
 
+**Navigation:** [Back to Overview](onboarding-overview) | [Next Chapter: Networks, Funding & Communication](networks-funding-communication)
