@@ -91,7 +91,7 @@ National networks play a key role in coordinating research data management, FAIR
 Important national networks include: 
 * **Health‑RI** – A national initiative building an integrated health data infrastructure for research and care. Health‑RI provides FAIR expertise, ELSI guidance, tools, and working groups that connect researchers and data stewards across Dutch Healthcare institutions.
 
-* * **Data Steward Interest Group (DGSI)** -  A cross‑institutional community specifically focused on the roles, capacities, and professionalisation of data stewards across the Netherlands.
+* **Data Steward Interest Group (DGSI)** -  A cross‑institutional community specifically focused on the roles, capacities, and professionalisation of data stewards across the Netherlands.
 
 * **LCRDM (Landelijk Coördinatiepunt Research Data Management)** – Coordinates national RDM activities, offering practical guidance, tool inventories, expert groups, and nationally aligned recommendations for research support staff. 
 
