@@ -109,7 +109,8 @@ Important national networks include:
 
 * **National Research Infrastructures** – Such as BBMRI‑NL (biobanking) and SURF (computing, cloud services, secure storage, identity services). 
 
-* **National ELSI Services** – Such as the ELSI Servicedesk and Health‑RI’s ELSI working groups, which provide harmonised guidance on ethical, legal, and societal aspects of data sharing.  
+* **National ELSI Services** – Such as the ELSI Servicedesk and Health‑RI’s ELSI working groups, which provide harmonised guidance on ethical, legal, and societal aspects of data sharing.
+
 
 National networks are important because they directly influence institutional data policies, funding requirements, and the development of FAIR-aligned tools and services.  They therefore also play a major role in shaping expectations for national funding calls, such as those from NWO and ZonMw, which often require alignment with national infrastructures or FAIR implementation strategies.  
 
