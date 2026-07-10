@@ -1,0 +1,29 @@
+writers:
+  - id: 5
+    firstName: Fieke
+    lastName: Schoots
+    orcid: 0000-0002-4385-9312
+    affiliation: Health-RI
+    active: true
+    image: fieke_schoots.png
+  - id: 8
+    firstName: Joëlle
+    lastName: Jagersma
+    orcid: 0000-0002-6119-6188
+    affiliation: UMCG
+    active: true
+    image: joelle_jagersma.png
+  - id: 10
+    firstName: Maria
+    lastName: Vivas Romero
+    orcid: 0000-0002-7398-0594
+    affiliation: Maastricht University
+    active: true
+    image: maria_romero.png
+  - id: 18
+    firstName: Stepanka
+    lastName: Zverinova
+    orcid: 0000-0002-3370-9484
+    affiliation: UMCG
+    active: true
+    image: stepanka_zverinova.png

@@ -11,6 +11,8 @@ columns:
     children: 
       - url_text: Data Stewards Onboarding
         url: /onboarding-overview
+      - url_text: Contributors
+        url: /contributing/contributors
   - type: image
     image_width: 88px
     width: 2
