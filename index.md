@@ -27,7 +27,7 @@ Explore the available training modules using the sidebar navigation, or jump dir
 
 ### Contributors
 
-
+![Contributors](/assets/img/logos_combo.png)
 
 ---
 
