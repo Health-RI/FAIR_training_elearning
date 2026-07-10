@@ -4,7 +4,11 @@ title: "Networks, Funding & Communication"
 
 
 TBD
+![Networks, funding, communication](/assets/img/network_funding_communication.png)
 
+## Chapter Summary
+The first part of this chapter covers the networks Data Stewards could make use of in their careers. Modern data stewardship operates across a collaborative, multi-tiered network. This system connects institutional support teams (such as Local DCCs, IT, and Privacy) with national networks like LCRDM and global bodies like the Research Data Alliance (RDA). The second part of this chapter presents the funding landscape in The Netherlands and how Data Stewards are positioned within it Knowing how to navigate this ecosystem is essential for data stewards because major research funders like the NWO, ZonMw, and Horizon Europe now strictly mandate robust data management for all funded projects.
+ 
 ---
 
 ## 2.1 National and International Networks
@@ -386,7 +390,7 @@ Let students write down (for themselves we will not review their answers) a main
 
 * See training in other sections 
 
-* https://fairmetroline.org/
+* https://fairmetroline.org/metroline_steps/have_a_fair_data_steward_on_board
 
 * If your organisation has not set up data management services yet, or has not formalized a network yet, you may benefit from an online course on [Delivering Research Data Management Services](https://www.futurelearn.com/courses/delivering-research-data-management-services) by [Futurelearn](https://www.futurelearn.com/).
 

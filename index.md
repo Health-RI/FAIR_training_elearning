@@ -2,7 +2,7 @@
 title: Health-RI FAIR Training & eLearning!
 ---
 
-## Welcome to Health-RI Training Portal
+## Welcome to Health-RI Data Stewardship Training Hub
 
 This platform hosts training materials and eLearning resources developed by Health-RI in collaboration with training coordinators at the network nodes.
 
@@ -22,7 +22,12 @@ Our training materials are:
 
 ### Getting Started
 
-Explore the available training modules using the sidebar navigation, or jump directly to the [Data Stewards Onboarding overview](onboarding-overview).
+Explore the available training modules using the sidebar navigation, or jump directly to the [Data Stewards Onboarding Overview](onboarding-overview).
+
+
+### Contributors
+
+
 
 ---
 

@@ -2,6 +2,8 @@
 title: "Professional Development"
 ---
 
+![Professional development](/assets/img/professional_development.png)
+
 ## Chapter summary
 In this chapter we look at the professionalisation of data stewardship, data steward careers and training opportunities 
 
