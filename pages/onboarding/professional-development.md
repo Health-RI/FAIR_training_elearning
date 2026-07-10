@@ -4,7 +4,7 @@ title: "Professional Development"
 
 ![Professional development](/assets/img/professional_development.png)
 
-## Chapter summary
+
 In this chapter we look at the professionalisation of data stewardship, data steward careers and training opportunities 
 
 ---
@@ -26,7 +26,7 @@ Harness the Power of the Network: Identify and leverage key Dutch communities (s
 Pro Tip: Keep an eye out for the "Spotlight" stories throughout this section. Hearing how others navigated their first three years can help you map out your own professional milestone
  
 
-### Step 1 Professionalising data stewardship 
+### 3.1.1 Professionalising data stewardship 
 
 The NPOS report from 2021 was the first big step towards defining and professionalising the role in the Netherlands. It led to the adoption of a formal job profile at Dutch universities and at some university medical centres. Since then, more attention has been paid to the role and career perspectives of data stewards. Especially in a period of scarcity of experienced data stewards, research organisations see the need to invest in making it an attractive role, to recruit and keep qualified people. Developments such as theEuropean Health Data Space, but also AI, demonstrate the need for high quality and well managed (meta)data, and therefore the importance of having sufficient data stewardship capacity.  
 
@@ -34,19 +34,21 @@ As the role is relatively new, and there is no formal education to become a data
 
 Several parties in the Netherlands work on strengthening data stewardship, by making it more visible (TDCCs), organising training (DCC’s, RDNL), making it required or providing funding (ZonMW, NWO, Open Science NL). You have read about these networks in Chapter 2. In the ‘Spotlight on’ series, Data Stewards explain how they got into the role, what they like about it and what they feel is lacking. See for instance:   
 
-- Didi Lamers: https://tdcc.nl/spotlight-on-didi-lamers/ 
+- [Didi Lamers](https://tdcc.nl/spotlight-on-didi-lamers/) 
 
-- Maria Vivas Romero: https://tdcc.nl/spotlight-on-maria-vivas-romero/ 
+- [Maria Vivas Romero](https://tdcc.nl/spotlight-on-maria-vivas-romero/) 
 
-- Merel Postma: https://tdcc.nl/spotlight-on-merel-postema/ 
+- [Merel Postma](https://tdcc.nl/spotlight-on-merel-postema/) 
 
-- Kiana Moghaddam: https://tdcc.nl/spotlight-on-kiana-moghaddam/
+- [Kiana Moghaddam](https://tdcc.nl/spotlight-on-kiana-moghaddam/)
   
-- Sergi Aguilo Castillo: https://tdcc.nl/spotlight-on-sergi-aguilo-castillo/
+- [Sergi Aguilo Castillo](https://tdcc.nl/spotlight-on-sergi-aguilo-castillo/)
+
+- [Paula Ramos-Silva](https://tdcc.nl/spotlight-on-paula-ramos-silva/)
 
 Assignment suggestions:  
 
-1.  Which of the following considerations played a role in applying for a data stewards role:  
+I. Which of the following considerations played a role in applying for a data stewards role:  
 
 1. Being close to research without being a researcher 
 
@@ -60,13 +62,12 @@ Assignment suggestions:
 
 6. All of the above 
 
-2. Considering your career, could you describe where you would like to be in 5 years?  
+II. Considering your career, could you describe where you would like to be in 5 years?  
 
-### Step 2 Data stewards job profiles  
+### 3.1.2 Data stewards job profiles  
 
 The Dutch universities (UNL) already adopted an official job profile for data stewards in their job classification system (UFO) in 2021. This profile allows for both recognition and job mobility within the role. The profile distinguishes four types of data stewards with different scope of responsibilities and related salary scales. The profile is not yet public but can be consulted by anyone affiliated at a Dutch university. The five main activities are:  
 
- 
 
 1. Policy development 
 
@@ -86,7 +87,7 @@ Some University Medical Centers have also adopted official job profiles for thei
 
 In practice, not all data stewards are hired in an official data steward function profile. However, we have increasingly witnessed a transition of people from roles like data manager or librarian to Data Steward.  
 
-In 2023, two years after the national report on professionalising data stewardship, TDCC LSH [link to ch. 2] organised a workshop to see the status of the recommendations from the Professionalising data stewardship report and of the adoption of official job profiles for the different research organisations. It appeared that, except for Dutch universities, the official job profile was not used in all cases. The audience suggested next steps  a number of recommendations.  
+In 2023, two years after the national report on professionalising data stewardship, TDCC LSH [link to ch. 2] organised a workshop to see the status of the recommendations from the Professionalising data stewardship report and of the adoption of official job profiles for the different research organisations. It appeared that, except for Dutch universities, the official job profile was not used in all cases. The audience suggested a number of next steps. 
 
   
 
@@ -94,7 +95,7 @@ Table from the blogpost on the workshop ‘Building capacity for Data Stewardshi
 
 Aside the recognition in terms of competencies and expertise, important stakeholders in the RDM landscape in The Netherlands have recognized the importance of Data Stewards. Funders for example have recognized their importance and imposed the need for a Data Steward to review Data Management Plan and other documentation that is mandatory to release their budget. Other initiatives also recognize Data Stewardship in the Science landscape overall (e.g Open Science Movement and Recognition and Rewards Team Science). 
 
-### Step 3 Rewarding and recognition for data stewardship  
+### 3.2 Rewarding and recognition for data stewardship  
 
 “The UFO profile already improved a lot our visibility and professional paths. However, we need more clear career paths and recognition.” 
 Maria Vivas-Romero, MUMC+ / Health-RI  Limburg (https://tdcc.nl/spotlight-on-maria-vivas-romero/) 
@@ -105,11 +106,11 @@ As you build your career it is also important to see how you can grow and evolve
 
 A national Rewards & Recognition programme works towards modernising the traditional way of assessing research. This means that the focus is shifting from publications to other qualities as teaching, creating impact, leadership and, in the case of UMCs, patient care. Open science practices and team science are also aspects that are valued more, which means that data stewards can get recognition for their role as part of a research team or for their efforts to make data FAIR.  
 
-Another practical tool to investigate the competencies and career track is the RDA working group Professionalising Data Stewardship -> RDA wg Data Steward Career Tracks.  The RDA Data Steward Career Tracks WG proposes to approach data steward career tracks systematically by developing a methodology for data steward persona definition and creating a sample of data steward personas as well as career pathways for the sample personas.  
+Another practical tool to investigate the competencies and career track is the RDA working group Professionalising Data Stewardship -> RDA wg Data Steward Career Tracks. The [RDA Data Steward Career Tracks WG](https://www.rd-alliance.org/groups/data-steward-career-tracks-wg/activity/) proposes to approach data steward career tracks systematically by developing a methodology for data steward persona definition and creating a sample of data steward personas as well as career pathways for the sample personas.  
 
-## https://www.rd-alliance.org/groups/data-steward-career-tracks-wg/activity/ 
+ 
 
-## Newbold, E., Wang, Y., Lehtsalu, L., Zhou, B., & McCutcheon, V. (2024). RDA Professionalising Data Stewardship IG - What does a career track for data stewards look like?. Zenodo. https://doi.org/10.15497/RDA00102 
+Newbold, E., Wang, Y., Lehtsalu, L., Zhou, B., & McCutcheon, V. (2024). RDA Professionalising Data Stewardship IG - What does a career track for data stewards look like?. Zenodo. https://doi.org/10.15497/RDA00102 
 
 ## EOSC Task force  
 
@@ -143,7 +144,7 @@ You should be able to recognize where to find your education journey to earn new
 
  
 
-### Step 1 Find the Available Training  
+### Find the Available Training  
 
  
 
@@ -184,7 +185,7 @@ RDNL training & community platform (domain agnostic) - place to find trainings
 Taxila 
  
 
-### Step 2 Track your Competencies and Training in your Career  
+### Track your Competencies and Training in your Career  
 
 Practical exercise: 
 
@@ -202,7 +203,7 @@ Year | Competencies  | Training
 
 **Navigation:** [Back to Overview](onboarding-overview) | [Next Chapter: Networks, Funding & Communication](networks-funding-communication)
 
-## Step 3 Build your professional network as a Data Steward
+## Build your professional network as a Data Steward
 
 As you progress in your data stewardship career, you will naturally become familiar with more communities, societies, and cross‑institutional networks. 
 
@@ -210,20 +211,23 @@ Many networks offer webinars, events, and knowledge‑exchange opportunities tha
 
 To become part of these communities and build your network, you can:
 
-## Attend community meetings and webinars - Many networks, such as RDA, GO FAIR, Health‑RI, ELIXIR‑NL, DSC‑NL, and Open Science NL, regularly organise online sessions, workshops, or conferences. 
+* Attend community meetings and webinars - Many networks, such as RDA, GO FAIR, Health‑RI, ELIXIR‑NL, DSC‑NL, and Open Science NL, regularly organise online sessions, workshops, or conferences. 
 
-## Participate in working groups or interest groups - Joining small, topic‑focused groups is a low‑threshold way to gain experience and meet peers. 
+* Participate in working groups or interest groups - Joining small, topic‑focused groups is a low‑threshold way to gain experience and meet peers. 
 
-## Follow training offered by related communities -While not about ‘networking’ directly, these programmes like Carpentries workshops, RDM training, FAIR courses, and RSE workshops build skills and help you meet colleagues from the same area of expertise. 
+* Follow training offered by related communities -While not about ‘networking’ directly, these programmes like Carpentries workshops, RDM training, FAIR courses, and RSE workshops build skills and help you meet colleagues from the same area of expertise. 
 
-## Learn from senior colleagues and institutional experts - More experienced colleagues can introduce you to relevant communities and provide guidance on where to find expertise. 
+* Learn from senior colleagues and institutional experts - More experienced colleagues can introduce you to relevant communities and provide guidance on where to find expertise. 
 
-## Engage with conferences and symposia - Events such as the International FAIR Convergence Symposium, RDA Plenaries, ELIXIR Europe conferences, and national Open Science days often function as informal training on how these networks operate. 
+* Engage with conferences and symposia - Events such as the International FAIR Convergence Symposium, RDA Plenaries, ELIXIR Europe conferences, and national Open Science days often function as informal training on how these networks operate. 
 
 ## Training 
 ## Literature used
 Jetten, M., Grootveld, M., Mordant, A., Jansen, M., Bloemers, M., Miedema, M., & Van 
 
 Gelder, C. W. G. (2021). Professionalising data stewardship in the Netherlands. Competences, training and education. Dutch roadmap towards national implementation of FAIR data stewardship (1.1). Zenodo. https://doi.org/10.5281/zenodo.4320504  
+
+Newbold, E., Wang, Y., Lehtsalu, L., Zhou, B., & McCutcheon, V. (2024). RDA Professionalising Data Stewardship IG - What does a career track for data stewards look like?. Zenodo. https://doi.org/10.15497/RDA00102 
+
 
 
