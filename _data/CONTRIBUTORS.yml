@@ -1,19 +1,262 @@
-# List of contributors
-#
-# reference maintainers/contributors by their name used in contributors metadata section on the pages.
-# Extra metadata that is possible to add:
-# Full Name:
-#    git: github id
-#    email: email adress
-#    orcid: ocrid id
-#    role: the role of the contributor
-#    affiliation: affiliation
-#    image_url: absolute path to image (default image from github)
-
-Example contributor:
-    git: 
-    email: 
-    orcid: 
-    role: 
-    affiliation: 
-
+writers:
+  - id: 1
+    firstName: Ana
+    lastName: Konrad
+    orcid: 0009-0002-3089-9558
+    affiliation: Health-RI
+    active: true
+    image: ana_konrad.png
+  - id: 2
+    firstName: Bruna
+    lastName: dos Santos Vieira
+    orcid: 0000-0001-7893-0505
+    affiliation: Radboudumc
+    active: true
+    image: bruna_vieira.png
+  - id: 3
+    firstName: César
+    lastName: Bernabé
+    orcid: 0000-0003-1795-5930
+    affiliation: LUMC
+    active: false
+    image: cesar_bernabe.png
+  - id: 4
+    firstName: Dena
+    lastName: Tahvildari
+    orcid: ""
+    affiliation: Health-RI
+    active: false
+    image: ""
+  - id: 25
+    firstName: Douwe
+    lastName: Spaanderman
+    orcid: 0000-0001-8397-2339
+    affiliation: Health-RI
+    active: true
+    image: douwe_spaanderman.jpg
+  - id: 5
+    firstName: Fieke
+    lastName: Schoots
+    orcid: 0000-0002-4385-9312
+    affiliation: Health-RI
+    active: true
+    image: fieke_schoots.png
+  - id: 6
+    firstName: Hannah
+    lastName: Neikes
+    orcid: 0000-0001-8306-0380
+    affiliation: Health-RI
+    active: true
+    image: hannah_neikes.png
+  - id: 7
+    firstName: Inês
+    lastName: de Oliveira Coelho Henriques
+    orcid: 0000-0002-0756-2722
+    affiliation: Radboudumc
+    active: false
+    image: ines_henriques.png
+  - id: 8
+    firstName: Joëlle
+    lastName: Jagersma
+    orcid: 0000-0002-6119-6188
+    affiliation: UMCG
+    active: true
+    image: joelle_jagersma.png
+  - id: 9
+    firstName: Jolanda
+    lastName: Strubel
+    orcid: 0000-0001-6675-4639
+    affiliation: Health-RI
+    active: false
+    image: jolanda_strubel.png
+  - id: 10
+    firstName: Maria
+    lastName: Vivas Romero
+    orcid: 0000-0002-7398-0594
+    affiliation: Maastricht University
+    active: true
+    image: maria_romero.png
+  - id: 11
+    firstName: Marije
+    lastName: van der Geest
+    orcid: 0000-0002-1919-6547
+    affiliation: UMCG
+    active: false
+    image: marije_vd_geest.png
+  - id: 12
+    firstName: Meriem
+    lastName: Manaï
+    orcid: 0000-0002-4684-9224
+    affiliation: Amsterdam UMC
+    active: true
+    image: meriem_manai.png
+  - id: 13
+    firstName: Mijke
+    lastName: Jetten
+    orcid: 0000-0001-9114-2896
+    affiliation: Health-RI
+    active: true
+    image: mijke_jetten.png
+  - id: 14
+    firstName: Milou
+    lastName: de Jong
+    orcid: 0009-0003-7082-3053
+    affiliation: Radboudumc
+    active: true
+    image: milou_de_jong.png
+  - id: 15
+    firstName: Niek
+    lastName: van Ulzen
+    orcid: 0000-0003-0771-3516
+    affiliation: Health-RI
+    active: true
+    image: niek_van_ulzen.png
+  - id: 16
+    firstName: Sander
+    lastName: de Ridder
+    orcid: 0000-0001-7250-7239
+    affiliation: Health-RI
+    active: true
+    image: sander_de_ridder.png
+  - id: 17
+    firstName: Shuxin
+    lastName: Zhang
+    orcid: 0000-0003-4715-9070
+    affiliation: Amsterdam UMC
+    active: false
+    image: shuxin_zhang.png
+  - id: 18
+    firstName: Stepanka
+    lastName: Zverinova
+    orcid: 0000-0002-3370-9484
+    affiliation: UMCG
+    active: true
+    image: stepanka_zverinova.png
+  - id: 19
+    firstName: Reinier
+    lastName: Groeneveld
+    orcid: 0009-0006-1783-9082
+    affiliation: Health-RI
+    active: true
+    image: reinier_groeneveld.jpg
+  - id: 20
+    firstName: Pedro
+    lastName: Paulo Favato Barcelos
+    orcid: 0000-0003-2736-7817
+    affiliation: Health-RI
+    active: true
+    image: pedro_barcelos.jpg
+  - id: 21
+    firstName: Walter
+    lastName: Baccinelli
+    orcid: 0000-0001-8888-4792
+    affiliation: Health-RI
+    active: true
+    image: walter_baccinelli.jpg
+  - id: 22
+    firstName: Mariska
+    lastName: Steeghs Jansen
+    orcid: 0009-0007-2315-0983
+    affiliation: Health-RI
+    active: true
+    image: mariska_steeghs.jpg
+  - id: 23
+    firstName: Vedran
+    lastName: Kasalica
+    orcid: 0000-0002-0097-1056
+    affiliation: Health-RI
+    active: true
+    image: vedran_kasalica.jpg
+  - id: 24
+    firstName: Veerle
+    lastName: Souverein
+    orcid: 0009-0006-6660-065X
+    affiliation: Radboudumc
+    active: true
+    image: veerle_souverein.jpeg
+reviewers:
+  - id: 1
+    firstName: Anna
+    lastName: Niehues
+    orcid: 0000-0002-9839-5439
+    affiliation: LUMC
+    active: true
+    image: anna_niehues.png
+  - id: 2
+    firstName: Marian
+    lastName: Beekman
+    orcid: 0000-0003-0585-6206
+    affiliation: LUMC
+    active: true
+    image: marian_beekman.png
+  - id: 3
+    firstName: Rudy
+    lastName: Scholte
+    orcid: ""
+    affiliation: Amsterdam UMC
+    active: true
+    image: rudy_scholte.png
+  - id: 4
+    firstName: Viola
+    lastName: Woeckel
+    orcid: 0009-0007-9979-7927
+    affiliation: Erasmus MC
+    active: false
+    image: viola_woeckel.png
+  - id: 5
+    firstName: Susanne
+    lastName: Rebers
+    orcid: 0000-0002-5867-9525
+    affiliation: Health-RI / NKI
+    active: false
+    image: susanne_rebers.png
+  - id: 6
+    firstName: Quint
+    lastName: Olislagers
+    orcid: 0009-0002-2607-7869
+    affiliation: Amsterdam UMC
+    active: false
+    image: quint_olislagers.jpeg
+  - id: 7
+    firstName: Kristina
+    lastName: Hettne
+    orcid: 0000-0002-4182-7560
+    affiliation: Leiden University Libraries
+    active: false
+    image: kristina_hettne.jpeg
+board:
+  - id: 1
+    firstName: Sander
+    lastName: de Ridder
+    orcid: 0000-0001-7250-7239
+    affiliation: Health-RI
+    active: true
+    image: sander_de_ridder.png
+  - id: 2
+    firstName: Jolanda
+    lastName: Strubel
+    orcid: 0000-0001-6675-4639
+    affiliation: Health-RI
+    active: false
+    image: jolanda_strubel.png
+  - id: 3
+    firstName: Mijke
+    lastName: Jetten
+    orcid: 0000-0001-9114-2896
+    affiliation: Health-RI
+    active: true
+    image: mijke_jetten.png
+  - id: 4
+    firstName: Ronald
+    lastName: van Schijndel
+    orcid: 0000-0002-2294-1050
+    affiliation: Amsterdam UMC
+    active: true
+    image: ronald_van_schijndel.png
+  - id: 5
+    firstName: Vedran
+    lastName: Kasalica
+    orcid: 0000-0002-0097-1056
+    affiliation: Health-RI
+    active: true
+    image: vedran_kasalica.jpg
