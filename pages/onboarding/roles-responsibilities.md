@@ -95,19 +95,12 @@ What you do in practice as a data steward depends largely on:
 - the scientific discipline. 
 
 ![Competency areas](/assets/img/ch1_fig1_expertise_areas.png)
-
-
-<p><em>
-Figure 1. Expertise areas for data stewards from the Professionalising Data Stewardship report
-(<a href="https://www.openscience.nl/sites/open_iles/media-files/professionalising_datastewardship.pdf)
-</em></p>
-
+*Figure 1. Expertise areas for data stewards from the [Professionalising Data Stewardship report](https://www.openscience.nl/sites/open_iles/media-files/professionalising_datastewardship.pdf)*
 
 The expertise areas illustrated in the figure above are also described in the  RDNL Competency framework - RDNL competency framework for data stewards, developed by Research Data Netherlands (RNDL) in 2025. In this new framework, there are additional competencies to those described in Fig. 1, these include research software management, training and awareness raising, see fig. 2.   
 
 ![Competency areas](/assets/img/ch1_fig2_competency_areas.jpg)
-
-<p><em>Figure 2. Competency framework for data professionals, developed in the context of the RDNL project to build a national training & community platform for data professionals. The competency framework is described in [10.5281/zenodo.17952684](https://zenodo.org/records/17952685)</em></p>
+*Figure 2. Competency framework for data professionals, developed in the context of the RDNL project to build a national training & community platform for data professionals. The competency framework is described in [10.5281/zenodo.17952684](https://zenodo.org/records/17952685)*
 
 There are expertise areas that are commonly associated with these profiles. Data stewards in general have a basic understanding of all these areas, but mostly specialise in specific area(s), depending on their position as described above. Have a  look at the competencies in more detail: https://researchdata.nl/en/about-training/competency-framework/. 
 
@@ -188,11 +181,11 @@ Correct Answer: C. Embedded stewards are hired directly within a research projec
   <strong style="color:#0078d4;">ℹ️ Did you know?</strong>
   <p style="margin:8px 0 0 0;">
   
-  Data stewardship profiles are often defined by the specific roles played and the scope of the research data supported. The nature of the data is one of the criteria that dictates the data steward’s focus: 
+  Data stewardship profiles are often defined by the specific roles played and the scope of the research data supported. The nature of the data is one of the criteria that dictates the data steward’s focus:<br> 
     
-  <strong>Qualitative Data</strong>: data collected via qualitative methods, such as interviews, life stories, ethnographies, and participant observations. These datasets often present unique challenges for FAIRification due to their deeply personal or sensitive nature, requiring the steward to balance data sharing with strict confidentiality. 
+  <strong>Qualitative Data</strong>: data collected via qualitative methods, such as interviews, life stories, ethnographies, and participant observations. These datasets often present unique challenges for FAIRification due to their deeply personal or sensitive nature, requiring the steward to balance data sharing with strict confidentiality.<br> 
     
-  <strong>Quantitative Data</strong>: data collected through quantitative methods. For these datasets, the steward’s expertise must bridge the gap between privacy compliance (particularly for sensitive health-related data) and the technical aspects of interoperability and reusability. 
+  <strong>Quantitative Data</strong>: data collected through quantitative methods. For these datasets, the steward’s expertise must bridge the gap between privacy compliance (particularly for sensitive health-related data) and the technical aspects of interoperability and reusability.<br> 
    
   <em>Note</em>: Imaging data can be both qualitative (photos, videos, echos, CT, MRI, etc.) and quantitative (e.g., tumor measurements), depending on which aspects of the imaging are used. 
   </p>
