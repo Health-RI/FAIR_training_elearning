@@ -89,13 +89,13 @@ Check Answer
 National networks play a key role in coordinating research data management, FAIR implementation, and responsible data sharing across institutions in the Netherlands. These networks provide shared infrastructure, common standards, training programmes, and policy alignment that support researchers and data stewards beyond their own institutions. They complement local networks by offering expertise, guidance, and infrastructures that a single institution cannot provide alone.   
 
 Important national networks include: 
-* **Health‑RI** – A national initiative building an integrated health data infrastructure for research and care. Health‑RI provides FAIR expertise, ELSI guidance, tools, and working groups that connect researchers and data stewards across Dutch Healthcare institutions. 
+* **Health‑RI** – A national initiative building an integrated health data infrastructure for research and care. Health‑RI provides FAIR expertise, ELSI guidance, tools, and working groups that connect researchers and data stewards across Dutch Healthcare institutions.
+
+* * **Data Steward Interest Group (DGSI)** -  A cross‑institutional community specifically focused on the roles, capacities, and professionalisation of data stewards across the Netherlands.
 
 * **LCRDM (Landelijk Coördinatiepunt Research Data Management)** – Coordinates national RDM activities, offering practical guidance, tool inventories, expert groups, and nationally aligned recommendations for research support staff. 
 
 * **DCC–PO (DCC voor Praktijkgericht Onderzoek)** –   National knowledge center for research support in universities of applied sciences. Focus areas of this network are open science, FAIR data, data stewardship, and data-intensive research.Data Stewards Interest Group (DSIG) – A cross‑institutional community specifically focused on the roles, capacities, and professionalisation of data stewards across the Netherlands.
-
-* **Data Steward Interest Group (DGSI)** -  A cross‑institutional community specifically focused on the roles, capacities, and professionalisation of data stewards across the Netherlands. 
 
 * **GO FAIR (NL and international nodes)** – Promotes practical implementation of the FAIR principles through FAIR Implementation Profiles, FAIRification frameworks, and international alignment. 
 
