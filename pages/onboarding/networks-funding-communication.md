@@ -5,7 +5,7 @@ title: "Networks, Funding & Communication"
 ![Networks, funding, communication](/assets/img/network_funding_communication.png)
 
 ## Chapter Summary
-Modern data stewardship operates across a collaborative, multi-tiered network. This system connects institutional support teams (such as Local DCCs, IT, and Privacy) with national networks like LCRDM and global bodies like the Research Data Alliance (RDA). Navigating this ecosystem is essential for data stewards because major research funders like the NWO, ZonMw, and Horizon Europe now strictly mandate robust data management for all funded projects. The second part of this chapter presents the funding landscape in The Netherlands and how Data Stewards are positioned within it.
+The first part of this chapter covers the networks Data Stewards could make use of in their careers. Modern data stewardship operates across a collaborative, multi-tiered network. This system connects institutional support teams (such as Local DCCs, IT, and Privacy) with national networks like LCRDM and global bodies like the Research Data Alliance (RDA). Navigating this ecosystem is essential for data stewards because major research funders like the NWO, ZonMw, and Horizon Europe now strictly mandate robust data management for all funded projects. The second part of this chapter presents the funding landscape in The Netherlands and how Data Stewards are positioned within it.
  
 ---
 
