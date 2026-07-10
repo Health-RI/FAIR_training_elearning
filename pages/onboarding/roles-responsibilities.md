@@ -179,10 +179,13 @@ Imaging data can be both qualitative (photos, videos, echos, CT, MRI, etc.) and 
 
 In the following interviews a variety of Data Stewards from  UMCs in the Netherlands will talk about the devolopments made in their area the contributions they have made to the field: 
 
-<iframe width="500" style="aspect-ratio: 16 / 9;" src="<iframe width="500" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/5OeCrQE3HhE" allowfullscreen> </iframe>" allowfullscreen> </iframe>
+<iframe
+  style="width:100%; max-width:800px; aspect-ratio:16/9; border:0;"
+  src="https://www.youtube.com/embed/IcDv6iE3pYY"
+  allowfullscreen>
+</iframe>
 
-
- #### Test your knowledge 
+#### Test your knowledge 
 ** Exercise 1: **
  In the next exercise we invite you to reflect on the skills you would like to develop in your career as a Data Steward.? This exercise in the following form, should help you to describe these choices.  
 
