@@ -2,8 +2,6 @@
 title: "Networks, Funding & Communication"
 ---
 
-
-TBD
 ![Networks, funding, communication](/assets/img/network_funding_communication.png)
 
 
