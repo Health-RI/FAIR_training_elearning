@@ -116,7 +116,7 @@ Important national networks include:
 
 * [**Research Software Training Network**](https://researchsoftwaretraining.nl/) – A network that bringing together and facilitating training organizations in the Netherlands in the areas of research software, programming skills, applied data science, computational skills and open source. 
 
-* **National Research Infrastructures** – Such as [BBMRI‑NL](https://www.bbmri.nl/) (biobanking) and [SURF](https://www.surf.nl/en) (computing, cloud services, secure storage, identity services). 
+* **National Research Infrastructures** – There are various networks that offer IT solutions/services for research (computing, cloud services, secure storage, identity services). Such as [BBMRI‑NL](https://www.bbmri.nl/) (biobanking) and [SURF](https://www.surf.nl/en). 
 
 * [**National ELSI Services**](https://elsi.health-ri.nl/) – Such as the ELSI Servicedesk and Health‑RI’s ELSI working groups, which provide harmonised guidance on ethical, legal, and societal aspects of data sharing.  
 
@@ -226,7 +226,8 @@ International networks are important because they provide access to global exper
 ">
   <strong style="color:#2c2c2e;">❓Quiz</strong>
   <p style="margin:8px 0 0 0;">
-
+  
+  <div class="quiz-container">
   <p><strong> According to the text, why are local networks considered the "first line of support" for researchers and data stewards?</strong></p>
 
   <label>
@@ -260,8 +261,6 @@ International networks are important because they provide access to global exper
   <p id="internationalquiz-result"></p>
 
 </div>
-<div class="quiz-container">
-
   </p>
 </div>
 
