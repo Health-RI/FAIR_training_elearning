@@ -333,7 +333,7 @@ Let students write down (for themselves we will not review their answers) a main
 
 * See training in other sections 
 
-* https://fairmetroline.org/
+* https://fairmetroline.org/metroline_steps/have_a_fair_data_steward_on_board
 
 * If your organisation has not set up data management services yet, or has not formalized a network yet, you may benefit from an online course on [Delivering Research Data Management Services](https://www.futurelearn.com/courses/delivering-research-data-management-services) by [Futurelearn](https://www.futurelearn.com/).
 
