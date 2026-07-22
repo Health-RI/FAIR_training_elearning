@@ -95,11 +95,13 @@ What you do in practice as a data steward depends largely on:
 - the scientific discipline. 
 
 ![Competency areas](/assets/img/ch1_fig1_expertise_areas.png)
+<br>
 *Figure 1. Expertise areas for data stewards from the [Professionalising Data Stewardship report](https://www.openscience.nl/sites/open_iles/media-files/professionalising_datastewardship.pdf)*
 
 The expertise areas illustrated in the figure above are also described in the  RDNL Competency framework - RDNL competency framework for data stewards, developed by Research Data Netherlands (RNDL) in 2025. In this new framework, there are additional competencies to those described in Fig. 1, these include research software management, training and awareness raising, see fig. 2.   
 
 ![Competency areas](/assets/img/ch1_fig2_competency_areas.jpg)
+<br>
 *Figure 2. Competency framework for data professionals, developed in the context of the RDNL project to build a national training & community platform for data professionals. The competency framework is described in [10.5281/zenodo.17952684](https://zenodo.org/records/17952685)*
 
 There are expertise areas that are commonly associated with these profiles. Data stewards in general have a basic understanding of all these areas, but mostly specialise in specific area(s), depending on their position as described above. Have a  look at the competencies in more detail: https://researchdata.nl/en/about-training/competency-framework/. 
@@ -149,7 +151,12 @@ Data Stewards can be organised in different ways within organisations, reflectin
 ">
   <strong style="color:#0078d4;">ℹ️ Additional information</strong>
   <p style="margin:8px 0 0 0;">
-  For more practical information about Data Steward roles and responsibilities in different work contexts you can have a look at [“Have a FAIR data steward on board FAIR Metroline”](https://fairmetroline.org/metroline_steps/have_a_fair_data_steward_on_board). For further background on data steward positionings, see the [NPOS report Professionalising Data Stewardship in the Netherlands](https://www.openscience.nl/sites/open_science/files/media-files/professionalising_datastewardship.pdf). 
+    For more practical information about Data Steward roles and responsibilities in different work contexts, have a look at
+    <a href="https://fairmetroline.org/metroline_steps/have_a_fair_data_steward_on_board">
+      Have a FAIR Data Steward on Board (FAIR Metroline)</a>.
+    For further background on data steward roles, see the NPOS report
+    <a href="https://www.openscience/open_science/files/media-files/professionalising_datastewardship.pdf">
+      Professionalising Data Stewardship in the Netherlands</a>.
   </p>
 </div>
 
@@ -194,7 +201,7 @@ Correct Answer: C. Embedded stewards are hired directly within a research projec
 
 #### Practical examples from the community 
 
-In the following interviews a variety of Data Stewards from  UMCs in the Netherlands will talk about the devolopments made in their area the contributions they have made to the field: 
+In the following interviews, a variety of Data Stewards from UMCs in the Netherlands will talk about developments in their areas and the contributions they have made to the field.
 
 <iframe
   style="width:100%; max-width:800px; aspect-ratio:16/9; border:0;"
@@ -202,7 +209,8 @@ In the following interviews a variety of Data Stewards from  UMCs in the Netherl
   allowfullscreen>
 </iframe>
 
-#### Test your knowledge 
+#### Quiz
+
 ** Exercise 1: **
  In the next exercise we invite you to reflect on the skills you would like to develop in your career as a Data Steward.? This exercise in the following form, should help you to describe these choices.  
 
