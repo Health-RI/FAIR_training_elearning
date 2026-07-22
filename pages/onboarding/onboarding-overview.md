@@ -6,8 +6,6 @@ title: Onboarding Data Stewards in the Health-RI Network
 
 This training programme supports data stewards within the Health-RI Network.
 
-## Programme Structure!
-
 The training consists of three chapters:
 
 ### [Chapter 1: Roles & Responsibilities; Tasks & Competencies](roles-responsibilities)

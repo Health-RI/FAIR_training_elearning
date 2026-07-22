@@ -130,9 +130,8 @@ National networks are important because they directly influence institutional da
 
  Some national networks also offer funding programmes and small grants to support FAIR implementation and Open Science, including calls related to FAIR data pilots, infrastructure development, or data stewardship capacity as you will read in the next section. These opportunities are valuable for data stewards and research groups looking to improve data workflows, develop FAIR tools, or strengthen institutional support. 
  
-More information on this connection can be found in the section in the last section of this chapter; **“Funding Landscape in Research Data Management: “What Data Stewards Need to Know”**.  
+More information on this connection can be found in the last section of this chapter; **“Funding Landscape in Research Data Management: “What Data Stewards Need to Know”**.  
 
- 
 <div style="
   background-color:#e8f4fd;
   border-left:4px solid #7c7e83;
@@ -215,7 +214,6 @@ Some of the global networks are:
 
 * [**GO FAIR International**](https://www.go-fair.org/) – Advocacy and implementation community promoting global FAIR principles, FAIR Digital Objects, and FAIR Implementation Profiles. 
 
-
 International networks are important because they provide access to global expertise, training, and tools that strengthen local and national efforts. They also play a key role in harmonising standards needed for cross‑border research, international funding calls, and large‑scale scientific collaborations. 
 
 <div style="
@@ -272,8 +270,6 @@ International networks are important because they provide access to global exper
 
 ### Short description 
 
-*Main source for the short description: [Oprichting van een lokaal Digital Competence Center (DCC) in het UMC Utrecht | NWO - later check which parts are literally translated and need added info on that](https://www.nwo.nl/projecten/ict001dcc012)*
-
 Requirements on data management have increased over time. To help researchers and facilitating staff to deal with data in a professional manner and in accordance with FAIR principles, the NWO gave multiple impulses for improving both the awareness and exchange of expertise within an organisation (by setting up a ‘local digital competence center’) and by promoting collaboration of experts on a national level per specific predefined goal for collaboration (thematic digital competence centers).  In the section ‘Section: National and International Networks’ different types of experts in local and national networks were discussed. In this chapter we will help you understand how these networks were improved by each of these types of digital competence centers (DCCs) and help you navigate the available DCCs for you. 
 
 ### Learning Objectives 
@@ -298,7 +294,6 @@ In the past 10 years a lot has changed in the research landscape. A publication 
 These are just some of the many changes to the research landscape that impacted how data is managed and what type of expertise is needed within an organisation.  
 
 People gathered information and consulted with experts within organizations, but much of the available expertise was spread throughout the organization with many experts working on their own, with limited established research support services compared to how we know them today. You would simply know Ms/Mr/Mx X in department Y may be able to help with one aspect of your research and you would then search for another expert on something different to help with a different part of your research. Some of the researchers and data experts collaborated more frequently, but support services and niche experts were not formally organized as a clear network yet. 
-
 
 Between 2019 and 2023 NWO had an impulse investment available of 8,5 million Euro for Local DCCs (LDCCs). The call was for non-competitive funding. This means that each knowledge institution in higher education would be rewarded with a grant if their proposal met the requirements.  
 
@@ -377,37 +372,13 @@ Regarding TDCCs: there is a nice webpage on [how to participate](https://tdcc.nl
 
 By signing up to a mailing list or slack community you could learn what is going on and actively participate. In case you have trouble finding out who are involved in  TDCCs in your organisation, you could also contact the community managers on the website to find out and get in touch. 
 
-##### Assignment 
+#### Assignment 
 
-Let students write down (for themselves we will not review their answers) a main contact for them in their organisation to go to if they have questions on the LDCC and how they could contribute, and 1 type of TDCC and contactname/general e-mailaddress to contact if they want to find out more or contribute 
+Find and document:
 
+1. The main contact within your organisation for questions regarding the LDCC and potential contributions.
+2. A relevant TDCC, including a contact name or general email address for anyone interested in learning more or contributing.
 
-### Training
-
-
-* See training in other sections 
-
-* https://fairmetroline.org/metroline_steps/have_a_fair_data_steward_on_board
-
-* If your organisation has not set up data management services yet, or has not formalized a network yet, you may benefit from an online course on [Delivering Research Data Management Services](https://www.futurelearn.com/courses/delivering-research-data-management-services) by [Futurelearn](https://www.futurelearn.com/).
-
-
-
-### Literature used 
-
-* Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18 
-
-* [Algemene verordening gegevensbescherming vanaf 25 mei 2018 in hele EU van toepassing. - EUR-Lex](https://eur-lex.europa.eu/content/news/general-data-protection-regulation-GDPR-applies-from-25-May-2018.html?locale=nl) 
-
-* [ICH E6 Good clinical practice - Scientific guideline | European Medicines Agency (EMA)](https://www.ema.europa.eu/en/ich-e6-good-clinical-practice-scientific-guideline) 
-
-* [Digitale Competentie Centra | NWO](https://www.nwo.nl/onderzoeksprogrammas/uitvoeringsplan-ict-infrastructuur) 
-
-* [FutureLearn: Online Courses and Degrees from Top Universities](https://www.futurelearn.com/)
-    * [Research Data Management Services - Online Course - FutureLearn](https://www.futurelearn.com/courses/delivering-research-data-management-services) 
-
-* [Home - TDCC.nl](https://tdcc.nl/)
-    *   https://tdcc.nl/dsig/how-to-participate/ 
 
 ## 2.3 Funding landscape in Research Data Management: what Data Stewards need to know
 
@@ -466,19 +437,18 @@ Similarly to Horizon Europe, there are [RDM requirements](https://www.nwo.nl/en/
 
 * After award, they must submit a **Data Management Plan (DMP)** and deposit data in a trusted repository following the FAIR principles. 
 
-<details>
-<summary>Did you know?</summary>
-
-```
-From 1 March 2026 institutions do not need to send their DMP templates for approval by NWO and ZonMw. Both organisations will continue to require a DMP for funded projects, and all DMPs must still comply with the Science Europe Core Requirements for DMPs and be reviewed by institutional data stewards.
-```
-</details>
-
-  
-````{note} Did you know?
-
-From 1 March 2026 institutions do not need to send their DMP templates for approval by NWO and ZonMw. Both organisations will continue to require a DMP for funded projects, and all DMPs must still comply with the Science Europe Core Requirements for DMPs and be reviewed by institutional data stewards.
-````
+<div style="
+  background-color:#e8f4fd;
+  border-left:4px solid #0078d4;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+">
+  <strong style="color:#0078d4;">ℹ️ Did you know?</strong>
+  <p style="margin:8px 0 0 0;">
+   From 1 March 2026 institutions do not need to send their DMP templates for approval by NWO and ZonMw. Both organisations will continue to require a DMP for funded projects, and all DMPs must still comply with the Science Europe Core Requirements for DMPs and be reviewed by institutional data stewards.
+  </p>
+</div>
 
 #### Health domain funders: ZonMw and Health~Holland 
 
@@ -496,18 +466,18 @@ ZonMw promotes the development of FAIR metadata standards, FAIRification tools, 
 
 Health~Holland funds large public‑private [R&D data-driven ](https://preventivehealth.ewuu.nl/about-a-tailored-lifestyle/) where data infrastructure, FAIR data management, and digital health tooling are integral components. 
 
-<details>
-<summary>Did you know?</summary>
-
-```
-Data stewards work with the research data life cycle, whereas project managers and grant support officers work with the research project life cycle, which includes a pre‑award  and a post‑award phase. The pre‑award phase involves identifying suitable funding opportunities and supporting the grant proposal process up to submission. The post‑award phase covers the support activities that take place after funding has been granted. These two phases require distinct types of data stewardship support. 
-```
-</details>
-
-````{note} Did you know?
-Data stewards work with the research data life cycle, whereas project managers and grant support officers work with the research project life cycle, which includes a pre‑award and a post‑award phase. The pre‑award phase involves identifying suitable funding opportunities and supporting the grant proposal process up to submission. The post‑award phase covers the support activities that take place after funding has been granted. These two phases require distinct types of data stewardship support. 
-````
-
+<div style="
+  background-color:#e8f4fd;
+  border-left:4px solid #0078d4;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+">
+  <strong style="color:#0078d4;">ℹ️ Did you know?</strong>
+  <p style="margin:8px 0 0 0;">
+   Data stewards work with the research data life cycle, whereas project managers and grant support officers work with the research project life cycle, which includes a pre‑award and a post‑award phase. The pre‑award phase involves identifying suitable funding opportunities and supporting the grant proposal process up to submission. The post‑award phase covers the support activities that take place after funding has been granted. These two phases require distinct types of data stewardship support. 
+  </p>
+</div>
 
 ### 2.3.2. European funders 
 
@@ -527,14 +497,19 @@ Horizon Europe treats Open Science and RDM as required standard practices, inclu
 
 <br>
 
-<details>
-<summary>Why this matters?</summary>
+<div style="
+  background-color:#fdeeee;
+  border-left:4px solid #d83b01;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+">
+  <strong style="color:#d83b01;">❓ Why this matters</strong>
+  <p style="margin:8px 0 0 0;">
+    These requirements create a programme‑wide funding structure that embeds RDM and data stewardship within nearly all funded projects. 
+  </p>
+</div>
 
-```
-These requirements create a programme‑wide funding structure that embeds RDM and data stewardship within nearly all funded projects. 
-```
-</details>
- 
 <br>
 
 <u>**Post-award**</u> 
@@ -551,27 +526,34 @@ There are [RDM requirements](https://www.openaire.eu/how-to-comply-with-horizon-
 
 <br>
 
-<details>
-<summary>Why this matters?</summary>
-
-```
-All Horizon Europe projects are allowed to include budget for data stewardship roles, data preservation, data FAIRification, metadata creation, security, and other RDM activities. 
-
-```
-</details>
-
+<div style="
+  background-color:#fdeeee;
+  border-left:4px solid #d83b01;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+">
+  <strong style="color:#d83b01;">❓ Why this matters</strong>
+  <p style="margin:8px 0 0 0;">
+    All Horizon Europe projects are allowed to include budget for data stewardship roles, data preservation, data FAIRification, metadata creation, security, and other RDM activities. 
+  </p>
+</div>
 
 <br>
- 
-<details>
-<summary>Did you know?</summary>
 
-```
+<div style="
+  background-color:#e8f4fd;
+  border-left:4px solid #0078d4;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+">
+  <strong style="color:#0078d4;">ℹ️ Did you know?</strong>
+  <p style="margin:8px 0 0 0;">
+   A common activity of data stewards is to develop and update an institutional DMP template that is adapted to the needs of their organization. When developing or updating institutional templates, it is important for the data steward to consult the <a href="https://zenodo.org/records/4915862)">Practical Guide to the International Alignment of Research Data Management</a> and ensure compliance with the Science Europe Core Requirements for Data Management Plans.
+  </p>
+</div>
 
-A common activity of data stewards is to develop and update an institutional DMP template that is adapted to the needs of their organization. When developing or updating institutional templates, it is important for the data steward to consult the [Practical Guide to the International Alignment of Research Data Managemen](https://zenodo.org/records/4915862) and ensure compliance with the Science Europe Core Requirements for Data Management Plans. 
-
-```
-</details>
 
 <br>
 
@@ -593,25 +575,36 @@ Horizon Europe explicitly allows budgeting for RDM in the form of:
 
 These expectations are documented in the [Horizon Europe guidelines for research data management](https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm).  <br>
 
-<details>
-<summary>Why this matters?</summary>
+<div style="
+  background-color:#fdeeee;
+  border-left:4px solid #d83b01;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+">
+  <strong style="color:#d83b01;">❓ Why this matters</strong>
+  <p style="margin:8px 0 0 0;">
+    Even though these RDM practices are embedded within project budgets rather than standalone funding themes, they represent an important funding source of RDM staff roles and tools in organizations.
+  </p>
+</div>
 
-```
-Even though these RDM practices are embedded within project budgets rather than standalone funding themes, they represent an important funding source of RDM staff roles and tools in organizations.
-
-```
-</details>
 <br>
  
-<details>
-<summary>Did you know?</summary>
+<div style="
+  background-color:#e8f4fd;
+  border-left:4px solid #0078d4;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+">
+  <strong style="color:#0078d4;">ℹ️ Did you know?</strong>
+  <p style="margin:8px 0 0 0;">
+  As a general rule, you can reserve, on average, 5% of overall project costs for data stewardship (<a href="https://www.nature.com/articles/d41586-020-00505-7">Invest 5% of research funds in ensuring data are reusable</a>). This percentage can be customized per project. <a href="https://www.openaire.eu/estimating-costs-rdm-tool">OpenAIRE</a> and <a href="https://www.uu.nl/en/research/research-data-management/guides/costs-of-data-management#datamanagementcosts">Utrecht University</a> have guidelines that help you estimate costs of data stewardship per phase of the research data life cycle and research activity.
+  </p>
+</div>
 
-```
 
-As a general rule, you can reserve, on average, 5% of overall project costs for data stewardship (see the Nature article [‘Invest 5% of research funds in ensuring data are reusable’](https://www.nature.com/articles/d41586-020-00505-7)). This percentage can be customized per project. [OpenAIRE](https://www.openaire.eu/estimating-costs-rdm-tool) and [Utrecht University](https://www.uu.nl/en/research/research-data-management/guides/costs-of-data-management#datamanagementcosts) have guidelines that help you estimate costs of data stewardship per phase of the research data life cycle and research activity. The TU Delft also offers guidelines and a cost calculator for resource and personnel costs.
 
-```
-</details>
 
 <br>
 <strong> 3. Calls supporting RDM </strong>
@@ -792,11 +785,33 @@ Check Answer
       </p>
 </div>
 
-### Expertise 
+## Training
 
-### Training 
+* [FutureLearn: Online Courses and Degrees from Top Universities](https://www.futurelearn.com/)
+    * [Research Data Management Services - Online Course - FutureLearn](https://www.futurelearn.com/courses/delivering-research-data-management-services) 
 
-- Pre-award Open Science and RDM requirements in Horizon Europe: 
-- RDM in Horizon Europe grant proposals 
-- Guide on Horizon Europe Open Science requirements in practice 
-- Webinar - 8th Horizon Europe Open Science requirements in practice 
+* [Webinar - 8th Horizon Europe Open Science requirements in practice](https://www.youtube.com/watch?v=dN0ehvmUs9c)
+
+## Resources
+
+* [Oprichting van een lokaal Digital Competence Center (DCC) in het UMC Utrecht | NWO - later check which parts are literally translated and need added info on that](https://www.nwo.nl/projecten/ict001dcc012)  
+
+* [Home - TDCC.nl](https://tdcc.nl/)
+    *   https://tdcc.nl/dsig/how-to-participate/ 
+  
+* [ICH E6 Good clinical practice - Scientific guideline | European Medicines Agency (EMA)](https://www.ema.europa.eu/en/ich-e6-good-clinical-practice-scientific-guideline)
+
+* [RDM in Horizon Europe grant proposals ](https://www.openaire.eu/rdm-in-horizon-europe-proposals)
+  
+* [Guide on Horizon Europe Open Science requirements in practice](https://www.openaire.eu/horizon-europe-open-science-requirements-in-practice) 
+
+## References 
+
+* Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18 
+
+## Suggestions
+
+This page has been written and reviewed by field experts through a rigorous process and has reached the “released” status. Learn more about the contributors here and explore the development process here. If you have any suggestions, visit our How to contribute page to get in touch or fill in our Quick feedback form. 
+
+
+**Navigation:** [Back to Overview](onboarding-overview) | [Next Chapter: Professional development](professional-development)
