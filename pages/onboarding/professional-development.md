@@ -54,7 +54,7 @@ Several parties in the Netherlands work on strengthening data stewardship, by ma
   border-radius:4px;
   color:#2c2c2e;
 ">
-  <strong style="color:#2c2c2e;"> 💭 Reflection activity </strong>
+  <strong style="color:#2c2c2e;"> 💭 Assignment: Reflection activity </strong>
   <p style="margin:8px 0 0 0;">
 
 <strong>Take a moment to think about the following questions.</strong>

@@ -372,12 +372,26 @@ Regarding TDCCs: there is a nice webpage on [how to participate](https://tdcc.nl
 
 By signing up to a mailing list or slack community you could learn what is going on and actively participate. In case you have trouble finding out who are involved in  TDCCs in your organisation, you could also contact the community managers on the website to find out and get in touch. 
 
-**Assignment**
+
+<div style="
+  background-color:#e8f4fd;
+  border-left:4px solid #7c7e83;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+  color:#2c2c2e;
+">
+  <strong style="color:#2c2c2e;"> 🌐 Assignment: Map your network </strong>
+  <p style="margin:8px 0 0 0;">
 
 Find and document:
 
 1. The main contact within your organisation for questions regarding the LDCC and potential contributions.
-2. A relevant TDCC, including a contact name or general email address for anyone interested in learning more or contributing.
+2. Relevant TDCC, including a contact name or general email address for anyone interested in learning more or contributing.
+
+</div>
+</p>
+</div>
 
 
 ## 2.3 Funding landscape in Research Data Management: what Data Stewards need to know

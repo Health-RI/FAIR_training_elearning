@@ -329,12 +329,25 @@ In the following interviews, a variety of Data Stewards from UMCs in the Netherl
   allowfullscreen>
 </iframe>
 
-**Assignment**
+<div style="
+  background-color:#e8f4fd;
+  border-left:4px solid #7c7e83;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+  color:#2c2c2e;
+">
+  <strong style="color:#2c2c2e;"> 💭 Assignment: Reflection activity </strong>
+  <p style="margin:8px 0 0 0;">
+
  In the this exercise, we invite you to reflect on the skills you would like to develop in your career as a Data Steward.<br>
  The following form should help you to describe these choices and reflect your answers:
 
 [Data stewards task areas and competences](https://forms.office.com/pages/responsepage.aspx?id=CuPeS5QMZUi8Uh2fiUpJdTDeUMa8pLVFv-xgDXYKgmZUOUdSNlVBTFBTWDNGR0ZSWFVMWURIMUlFNC4u&origin=QRCode&route=shorturl )
 
+</div>
+</p>
+</div>
 
 ## Resources
 
