@@ -372,12 +372,26 @@ Regarding TDCCs: there is a nice webpage on [how to participate](https://tdcc.nl
 
 By signing up to a mailing list or slack community you could learn what is going on and actively participate. In case you have trouble finding out who are involved in  TDCCs in your organisation, you could also contact the community managers on the website to find out and get in touch. 
 
-**Assignment**
+
+<div style="
+  background-color:#e8f4fd;
+  border-left:4px solid #7c7e83;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+  color:#2c2c2e;
+">
+  <strong style="color:#2c2c2e;"> 🌐 Assignment: Map your network </strong>
+  <p style="margin:8px 0 0 0;">
 
 Find and document:
 
 1. The main contact within your organisation for questions regarding the LDCC and potential contributions.
-2. A relevant TDCC, including a contact name or general email address for anyone interested in learning more or contributing.
+2. Relevant TDCC, including a contact name or general email address for anyone interested in learning more or contributing.
+
+</div>
+</p>
+</div>
 
 
 ## 2.3 Funding landscape in Research Data Management: what Data Stewards need to know
@@ -490,20 +504,20 @@ Health~Holland funds large public‑private [R&D data-driven ](https://preventiv
 <u>Pre-award</u>
 <div style="
   float:right;
-  width:30%;
+  width:20%;
   background-color:#fdeeee;
-  border-left:4px solid #d83b01;
+  border-right:4px solid #d83b01;
   padding:12px;
   margin:0 0 12px 20px;
+  margin-top:-10px;
   border-radius:4px;
-  font-size:0.95em;
+  font-size:0.8em;
 ">
   <strong style="color:#d83b01;">❓ Why this matters</strong>
   <p style="margin:8px 0 0 0;">
     These requirements create a programme‑wide funding structure that embeds RDM and data stewardship within nearly all funded projects. 
   </p>
 </div>
-
 
 Horizon Europe treats Open Science and RDM as required standard practices, including them as part of applications and evaluation processes: 
 
@@ -515,12 +529,14 @@ Horizon Europe treats Open Science and RDM as required standard practices, inclu
 <u>Post-award</u> 
 <div style="
   float:right;
-  width:30%;
+  width:20%;
   background-color:#fdeeee;
-  border-left:4px solid #d83b01;
+  border-right:4px solid #d83b01;
   padding:12px;
-  margin:12px 0;
+  margin:0 0 12px 20px;
+  margin-top:-10px;
   border-radius:4px;
+  font-size:0.8em;
 ">
   <strong style="color:#d83b01;">❓ Why this matters</strong>
   <p style="margin:8px 0 0 0;">
@@ -627,6 +643,7 @@ All Horizon Europe calls, including those supporting research infrastructures, F
   </p>
 </div>
 
+
 <div style="
   background-color: #a02323;
   border-left:4px solid #0078d4;
@@ -640,8 +657,7 @@ All Horizon Europe calls, including those supporting research infrastructures, F
   </p>
 </div>
 
-<strong> ❓ Quiz </strong>
-
+<br>
 <div style="
   background-color:#e8f4fd;
   border-left:4px solid #7c7e83;
@@ -650,6 +666,8 @@ All Horizon Europe calls, including those supporting research infrastructures, F
   border-radius:4px;
   color: #2c2c2e;
 ">
+  <strong style="color:#2c2c2e;">❓Quiz</strong>
+  <p style="margin:8px 0 0 0;">
 
 <div class="quiz-container">
 
@@ -685,6 +703,8 @@ Check Answer
 
 <p id="funderquiz-result"></p>
 
+</div>
+</p>
 </div>
 
 <div style="
