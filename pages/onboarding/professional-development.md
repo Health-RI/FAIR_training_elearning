@@ -44,26 +44,40 @@ Several parties in the Netherlands work on strengthening data stewardship, by ma
 - [Sergi Aguilo Castillo](https://tdcc.nl/spotlight-on-sergi-aguilo-castillo/)
 
 - [Paula Ramos-Silva](https://tdcc.nl/spotlight-on-paula-ramos-silva/)
+<br><br>
 
+<div style="
+  background-color:#e8f4fd;
+  border-left:4px solid #7c7e83;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+  color:#2c2c2e;
+">
+  <strong style="color:#2c2c2e;"> 💭 Reflection activity </strong>
+  <p style="margin:8px 0 0 0;">
 
-#### Quiz:  
+<strong>Take a moment to think about the following questions.</strong>
 
-I. Which of the following considerations played a role in applying for a data stewards role:  
+I. Did any of the following considerations played a role when you were applying for a data stewards role?
 
-1. Being close to research without being a researcher 
+* Being close to research without being a researcher 
 
-2. Opportunity to have a fixed position  
+* Opportunity to have a fixed position  
 
-3. Motivation to contribute to Open Science 
+* Motivation to contribute to Open Science 
 
-4. Being discouraged by the traditional Academic process after having had conducted a PhD  
+* Being discouraged by the traditional Academic process after having had conducted a PhD  
 
-5. It just came by... 
+* It just came by... 
 
-6. All of the above 
+* All of the above 
 
 II. Considering your career, could you describe where you would like to be in 5 years? 
 
+</div>
+</p>
+</div>
 
 ### 3.1.2 Data stewards job profiles  
 
@@ -87,24 +101,46 @@ In practice, not all data stewards are hired in an official data steward functio
 
 In 2023, two years after the national report on professionalising data stewardship, TDCC LSH [link to ch. 2] organised a workshop to see the status of the recommendations from the Professionalising data stewardship report and of the adoption of official job profiles for the different research organisations. It appeared that, except for Dutch universities, the official job profile was not used in all cases. The audience suggested a number of next steps. 
 
-  
-
-**Table from the blogpost on the workshop ‘Building capacity for Data Stewardship in the Netherlands: formal job profiles and career perspective’2 . ** - TODO: contact Paula with table to add here. 
+<div style="
+  background-color: #a02323;
+  border-left:4px solid #0078d4;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+">
+  <strong style="color:#0078d4;">‼️ To do</strong>
+  <p style="margin:8px 0 0 0;">
+    Table from the blogpost on the workshop ‘Building capacity for Data Stewardship in the Netherlands: formal job profiles and career perspective. ** - TODO: contact Paula with table to add here. 
+  </p>
+</div>
 
 Aside the recognition in terms of competencies and expertise, important stakeholders in the RDM landscape in The Netherlands have recognized the importance of Data Stewards. Funders, for example, have recognized their importance and imposed the need for a Data Steward to review Data Management Plan and other documentation that is mandatory to release their budget. Other initiatives also recognize Data Stewardship in the Science landscape overall (e.g Open Science Movement and Recognition and Rewards Team Science). 
 
 ## 3.2 Rewarding and recognition for data stewardship  
 
-“The UFO profile already improved a lot our visibility and professional paths. However, we need more clear career paths and recognition.” 
-Maria Vivas-Romero, MUMC+ / Health-RI  Limburg (https://tdcc.nl/spotlight-on-maria-vivas-romero/) 
+<i>“The UFO profile already improved a lot our visibility and professional paths. However, we need more clear career paths and recognition.”</i> [Maria Vivas-Romero, MUMC+ / Health-RI Limburg](https://tdcc.nl/spotlight-on-maria-vivas-romero/) 
 
-As you build your career it is also important to see how you can grow and evolve in your role. An important tool is to investigate how the UFO profile for Dutch universities allows you to navigate between different levels of Data Stewardship: Hay Nederlands document extern (liggend). The UFO profile distinguishes three main areas of activities and responsibilities for data stewards. Your ‘level’ (data steward 1 – 4), usually depends on the scope of your activities in these areas: departmental, institutional or (inter)national. 
+As you build your career it is also important to see how you can grow and evolve in your role. An important tool is to investigate how the UFO profile for Dutch universities allows you to navigate between different levels of Data Stewardship: [Job classification system (UFO)](https://www.universiteitenvannederland.nl/en/job-classification-system-ufo). <br>
+The UFO profile distinguishes three main areas of activities and responsibilities for data stewards. Your ‘level’ (data steward 1 – 4), usually depends on the scope of your activities in these areas: departmental, institutional or (inter)national. 
 
 A national Rewards & Recognition programme works towards modernising the traditional way of assessing research. This means that the focus is shifting from publications to other qualities as teaching, creating impact, leadership and, in the case of UMCs, patient care. Open science practices and team science are also aspects that are valued more, which means that data stewards can get recognition for their role as part of a research team or for their efforts to make data FAIR.  
 
 Another practical tool to investigate the competencies and career track is the RDA working group Professionalising Data Stewardship -> RDA wg Data Steward Career Tracks. The [RDA Data Steward Career Tracks WG](https://www.rd-alliance.org/groups/data-steward-career-tracks-wg/activity/) proposes to approach data steward career tracks systematically by developing a methodology for data steward persona definition and creating a sample of data steward personas as well as career pathways for the sample personas.  
 
-(TODO: from Paula not clear what this information is about, remove?
+
+<div style="
+  background-color: #a02323;
+  border-left:4px solid #0078d4;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+">
+  <strong style="color:#0078d4;">‼️ To do</strong>
+  <p style="margin:8px 0 0 0;">
+    from Paula not clear what this information is about, remove? 
+  </p>
+</div>
+
 
 EOSC Task force  
 
@@ -162,12 +198,61 @@ DCC Spring Training Days, organised by LCRDM and the local DCCs
 
 * [Taxila](https://taxila.nl/) 
  
+<br><br>
 
-#### Assignment 
+<div style="
+  background-color:#e8f4fd;
+  border-left:4px solid #7c7e83;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+  color:#2c2c2e;
+">
+  <strong style="color:#2c2c2e;"> 🎯 Assignment: Career development plan </strong>
+  <p style="margin:8px 0 0 0;">
 
-Based on what you have seen in this section let’s plan for the upcoming years in your career regarding the training and competencies you want to acquire. In the following years track the competencies and trainings you would like to accomplish in the upcoming 5 years: 
+Based on what you have seen in this section, let’s plan for the upcoming years in your career regarding the training and competencies you want to acquire.<br>
+In the following years track the competencies and trainings you would like to accomplish in the upcoming 5 years: 
 
-Year | Competencies  | Training 
+<table style="width:100%; border-collapse:collapse;">
+    <thead>
+        <tr>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid #ccc;">Year</th>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid #ccc;">Competency or skill to develop</th>
+            <th style="text-align:left; padding:8px; border-bottom:1px solid #ccc;">Training, course, project or activity</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding:8px; border-bottom:1px solid #ccc;">Year 1</td>
+            <td style="padding:8px; border-bottom:1px solid #ccc;"></td>
+            <td style="padding:8px; border-bottom:1px solid #ccc;"></td>
+        </tr>
+        <tr>
+            <td style="padding:8px; border-bottom:1px solid #ccc;">Year 2</td>
+            <td style="padding:8px; border-bottom:1px solid #ccc;"></td>
+            <td style="padding:8px; border-bottom:1px solid #ccc;"></td>
+        </tr>
+        <tr>
+            <td style="padding:8px; border-bottom:1px solid #ccc;">Year 3</td>
+            <td style="padding:8px; border-bottom:1px solid #ccc;"></td>
+            <td style="padding:8px; border-bottom:1px solid #ccc;"></td>
+        </tr>
+        <tr>
+            <td style="padding:8px; border-bottom:1px solid #ccc;">Year 4</td>
+            <td style="padding:8px; border-bottom:1px solid #ccc;"></td>
+            <td style="padding:8px; border-bottom:1px solid #ccc;"></td>
+        </tr>
+        <tr>
+            <td style="padding:8px; border-bottom:1px solid #ccc;">Year 5</td>
+            <td style="padding:8px; border-bottom:1px solid #ccc;"></td>
+            <td style="padding:8px; border-bottom:1px solid #ccc;"></td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</p>
+</div>
 
 ### 3.2.3 Build your professional network as a data steward
 
@@ -189,7 +274,11 @@ To become part of these communities and build your network, you can:
 
 ## Training 
 
+<i> In development </i>
+
 ## Resources
+
+<i> In development </i>
 
 ## References 
 
