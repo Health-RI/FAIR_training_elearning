@@ -360,7 +360,7 @@ Even if you work in one field, say you work in LSH, it could still be that you a
 
 If you are new in your organisation and/or the role of data steward, you may still look for a predefined role for you specifically. In Chapter 1 <add link> you learned more on the many possible tasks for a data steward and to navigate what is expected from you in your role. It could be that your expertise (either the expertise you have or are building) would be beneficial in an LDCC and perhaps also in a TDCC, but... *How do you get involved?* 
 
-**Question: Do you know the experts in your LDCC?**
+**Do you know the experts in your LDCC?**
 
 When you are familiar with one or some of the experts in the LDCC in your organisation, they could help you understand who else is part of the LDCC. Your organisation may have a list of people involved in the local network of experts and / or support services. 
 
@@ -372,7 +372,7 @@ Regarding TDCCs: there is a nice webpage on [how to participate](https://tdcc.nl
 
 By signing up to a mailing list or slack community you could learn what is going on and actively participate. In case you have trouble finding out who are involved in  TDCCs in your organisation, you could also contact the community managers on the website to find out and get in touch. 
 
-#### Assignment 
+**Assignment**
 
 Find and document:
 
@@ -446,7 +446,7 @@ Similarly to Horizon Europe, there are [RDM requirements](https://www.nwo.nl/en/
 ">
   <strong style="color:#0078d4;">ℹ️ Did you know?</strong>
   <p style="margin:8px 0 0 0;">
-   From 1 March 2026 institutions do not need to send their DMP templates for approval by NWO and ZonMw. Both organisations will continue to require a DMP for funded projects, and all DMPs must still comply with the Science Europe Core Requirements for DMPs and be reviewed by institutional data stewards.
+   From 1 March 2026 institutions do not need to send their DMP templates for approval by NWO and ZonMw. Both organisations will continue to require a DMP for funded projects, and all DMPs must still comply with the <a href="https://zenodo.org/records/4915862">Science Europe Core Requirements</a> for DMPs and be reviewed by institutional data stewards.
   </p>
 </div>
 
@@ -487,22 +487,16 @@ Health~Holland funds large public‑private [R&D data-driven ](https://preventiv
 
 **1. Open Science and RDM requirements**
 
-<u>**Pre-award**</u>
-
-Horizon Europe treats Open Science and RDM as required standard practices, including them as part of applications and evaluation processes: 
-
-* Projects must outline how data will be managed and shared, for e.g., through the "Data management" and "Open Science" sections in the grant proposals 
-
-* [Open Science](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) requirements apply to all projects, and the programme directly funds practices such as publishing Open Access, citizen science, data and code FAIRification, open and transparent research.  
-
-<br>
-
+<u>Pre-award</u>
 <div style="
+  float:right;
+  width:30%;
   background-color:#fdeeee;
   border-left:4px solid #d83b01;
   padding:12px;
-  margin:12px 0;
+  margin:0 0 12px 20px;
   border-radius:4px;
+  font-size:0.95em;
 ">
   <strong style="color:#d83b01;">❓ Why this matters</strong>
   <p style="margin:8px 0 0 0;">
@@ -510,23 +504,18 @@ Horizon Europe treats Open Science and RDM as required standard practices, inclu
   </p>
 </div>
 
-<br>
 
-<u>**Post-award**</u> 
+Horizon Europe treats Open Science and RDM as required standard practices, including them as part of applications and evaluation processes: 
 
-There are [RDM requirements](https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm) for all funded projects, which represent a primary tool for putting RDM into practice: 
+* Projects must outline how data will be managed and shared, for e.g., through the "Data management" and "Open Science" sections in the grant proposals 
 
-* Prepare a DMP at the beginning of the project. 
+* [Open Science](https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en) requirements apply to all projects, and the programme directly funds practices such as publishing Open Access, citizen science, data and code FAIRification, open and transparent research.  
 
-* DMPs must follow the [FAIR principles](https://www.go-fair.org/fair-principles/) (Findable, Accessible, Interoperable, Reusable). 
 
-* Regular updates to the DMP during the reporting periods of the project.  
-
-* Open Science practices ‘as open as possible, as closed as necessary’, such as publishing research outputs open access and in trusted repositories are also part of the contractual obligations. 
-
-<br>
-
+<u>Post-award</u> 
 <div style="
+  float:right;
+  width:30%;
   background-color:#fdeeee;
   border-left:4px solid #d83b01;
   padding:12px;
@@ -539,7 +528,16 @@ There are [RDM requirements](https://www.openaire.eu/how-to-comply-with-horizon-
   </p>
 </div>
 
-<br>
+There are [RDM requirements](https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm) for all funded projects, which represent a primary tool for putting RDM into practice: 
+
+* Prepare a DMP at the beginning of the project. 
+
+* DMPs must follow the [FAIR principles](https://www.go-fair.org/fair-principles/) (Findable, Accessible, Interoperable, Reusable). 
+
+* Regular updates to the DMP during the reporting periods of the project.  
+
+* Open Science practices ‘as open as possible, as closed as necessary’, such as publishing research outputs open access and in trusted repositories are also part of the contractual obligations. 
+
 
 <div style="
   background-color:#e8f4fd;
@@ -550,7 +548,7 @@ There are [RDM requirements](https://www.openaire.eu/how-to-comply-with-horizon-
 ">
   <strong style="color:#0078d4;">ℹ️ Did you know?</strong>
   <p style="margin:8px 0 0 0;">
-   A common activity of data stewards is to develop and update an institutional DMP template that is adapted to the needs of their organization. When developing or updating institutional templates, it is important for the data steward to consult the <a href="https://zenodo.org/records/4915862)">Practical Guide to the International Alignment of Research Data Management</a> and ensure compliance with the Science Europe Core Requirements for Data Management Plans.
+   A common activity of data stewards is to develop and update an institutional DMP template that is adapted to the needs of their organization. When developing or updating institutional templates, it is important for the data steward to consult the <a href="https://zenodo.org/records/4915862">Practical Guide to the International Alignment of Research Data Management</a> and ensure compliance with the Science Europe Core Requirements for Data Management Plans.
   </p>
 </div>
 
@@ -560,6 +558,20 @@ There are [RDM requirements](https://www.openaire.eu/how-to-comply-with-horizon-
 **2. Project‑level allowances for data stewardship**
 
 Horizon Europe explicitly allows budgeting for RDM in the form of: 
+<div style="
+  float:right;
+  width:30%;
+  background-color:#fdeeee;
+  border-left:4px solid #d83b01;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+">
+  <strong style="color:#d83b01;">❓ Why this matters</strong>
+  <p style="margin:8px 0 0 0;">
+    Even though these RDM practices are embedded within project budgets rather than standalone funding themes, they represent an important funding source of RDM staff roles and tools in organizations.
+  </p>
+</div>
 
 * Data stewards 
 
@@ -576,21 +588,6 @@ Horizon Europe explicitly allows budgeting for RDM in the form of:
 These expectations are documented in the [Horizon Europe guidelines for research data management](https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm).  <br>
 
 <div style="
-  background-color:#fdeeee;
-  border-left:4px solid #d83b01;
-  padding:12px;
-  margin:12px 0;
-  border-radius:4px;
-">
-  <strong style="color:#d83b01;">❓ Why this matters</strong>
-  <p style="margin:8px 0 0 0;">
-    Even though these RDM practices are embedded within project budgets rather than standalone funding themes, they represent an important funding source of RDM staff roles and tools in organizations.
-  </p>
-</div>
-
-<br>
- 
-<div style="
   background-color:#e8f4fd;
   border-left:4px solid #0078d4;
   padding:12px;
@@ -602,8 +599,6 @@ These expectations are documented in the [Horizon Europe guidelines for research
   As a general rule, you can reserve, on average, 5% of overall project costs for data stewardship (<a href="https://www.nature.com/articles/d41586-020-00505-7">Invest 5% of research funds in ensuring data are reusable</a>). This percentage can be customized per project. <a href="https://www.openaire.eu/estimating-costs-rdm-tool">OpenAIRE</a> and <a href="https://www.uu.nl/en/research/research-data-management/guides/costs-of-data-management#datamanagementcosts">Utrecht University</a> have guidelines that help you estimate costs of data stewardship per phase of the research data life cycle and research activity.
   </p>
 </div>
-
-
 
 
 <br>
@@ -619,12 +614,18 @@ All Horizon Europe calls, including those supporting research infrastructures, F
 
 * Domain‑specific data-centred calls (health, environment, culture) 
 
-<details>
-<summary>Did you know?</summary>
-
-Calls are often collaborative, involving multiple project partners. The best way to find collaborators is through your national and international network of contacts, for example, the DCCs (link to Ch2 above) and the [Data Stewardship Interest Group (DSIG)](https://tdcc.nl/dsig/). You can also use the [Horizon Europe partner search tool](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?isExactMatch=true&type=ORGANISATION,PERSON&order=DESC&pageNumber=1&pageSize=50&sortBy=lastModified) that lists all organisations that have expressed an interest in collaborating in Horizon Europe funding opportunities. You are also welcome to register yourself in this tool.
-
-</details>
+<div style="
+  background-color:#e8f4fd;
+  border-left:4px solid #0078d4;
+  padding:12px;
+  margin:12px 0;
+  border-radius:4px;
+">
+  <strong style="color:#0078d4;">ℹ️ Did you know?</strong>
+  <p style="margin:8px 0 0 0;">
+   Calls are often collaborative, involving multiple project partners. The best way to find collaborators is through your national and international network of contacts, for example, the DCCs (link to Ch2 above) and the <a href="https://tdcc.nl/dsig/"> Data Stewardship Interest Group (DSIG)</a>. You can also use the <a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/partner-search?isExactMatch=true&type=ORGANISATION,PERSON&order=DESC&pageNumber=1&pageSize=50&sortBy=lastModified">Horizon Europe partner search tool</a> that lists all organisations that have expressed an interest in collaborating in Horizon Europe funding opportunities. You are also welcome to register yourself in this tool.
+  </p>
+</div>
 
 <div style="
   background-color: #a02323;
@@ -639,7 +640,7 @@ Calls are often collaborative, involving multiple project partners. The best way
   </p>
 </div>
 
-<strong> ❓ Knowledge check </strong>
+<strong> ❓ Quiz </strong>
 
 <div style="
   background-color:#e8f4fd;
@@ -684,8 +685,6 @@ Check Answer
 
 <p id="funderquiz-result"></p>
 
-</div>
-      </p>
 </div>
 
 <div style="
@@ -788,7 +787,8 @@ Check Answer
 ## Training
 
 * [FutureLearn: Online Courses and Degrees from Top Universities](https://www.futurelearn.com/)
-    * [Research Data Management Services - Online Course - FutureLearn](https://www.futurelearn.com/courses/delivering-research-data-management-services) 
+
+* [Research Data Management Services - Online Course - FutureLearn](https://www.futurelearn.com/courses/delivering-research-data-management-services) 
 
 * [Webinar - 8th Horizon Europe Open Science requirements in practice](https://www.youtube.com/watch?v=dN0ehvmUs9c)
 
@@ -796,18 +796,17 @@ Check Answer
 
 * [Oprichting van een lokaal Digital Competence Center (DCC) in het UMC Utrecht | NWO - later check which parts are literally translated and need added info on that](https://www.nwo.nl/projecten/ict001dcc012)  
 
-* [Home - TDCC.nl](https://tdcc.nl/)
-    *   https://tdcc.nl/dsig/how-to-participate/ 
+* [TDCC.nl](https://tdcc.nl/): [How to participate](https://tdcc.nl/dsig/how-to-participate/) 
   
 * [ICH E6 Good clinical practice - Scientific guideline | European Medicines Agency (EMA)](https://www.ema.europa.eu/en/ich-e6-good-clinical-practice-scientific-guideline)
 
-* [RDM in Horizon Europe grant proposals ](https://www.openaire.eu/rdm-in-horizon-europe-proposals)
+* [RDM in Horizon Europe grant proposals](https://www.openaire.eu/rdm-in-horizon-europe-proposals)
   
 * [Guide on Horizon Europe Open Science requirements in practice](https://www.openaire.eu/horizon-europe-open-science-requirements-in-practice) 
 
 ## References 
 
-* Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). https://doi.org/10.1038/sdata.2016.18 
+* Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data 3, 160018 (2016). [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
 
 ## Suggestions
 
