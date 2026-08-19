@@ -384,15 +384,12 @@ By signing up to a mailing list or slack community you could learn what is going
   <strong style="color:#2c2c2e;"> 🌐 Assignment: Map your network </strong>
   <p style="margin:8px 0 0 0;">
 
-Find and document:
+Find and document:<br> 
 
-1. The main contact within your organisation for questions regarding the LDCC and potential contributions.
-2. Relevant TDCC, including a contact name or general email address for anyone interested in learning more or contributing.
-
+1. The main contact within your organisation for questions regarding the LDCC and potential contributions.<br> 
+2. Relevant TDCC, including a contact name or general email address for anyone interested in learning more or contributing. 
+  </p>
 </div>
-</p>
-</div>
-
 
 ## 2.3 Funding landscape in Research Data Management: what Data Stewards need to know
 
@@ -643,21 +640,8 @@ All Horizon Europe calls, including those supporting research infrastructures, F
   </p>
 </div>
 
-
-<div style="
-  background-color: #a02323;
-  border-left:4px solid #0078d4;
-  padding:12px;
-  margin:12px 0;
-  border-radius:4px;
-">
-  <strong style="color:#0078d4;">‼️ Missing video</strong>
-  <p style="margin:8px 0 0 0;">
-    This dashboard is updated monthly. Data may be subject to revision after validation.
-  </p>
-</div>
-
 <br>
+
 <div style="
   background-color:#e8f4fd;
   border-left:4px solid #7c7e83;
@@ -804,7 +788,7 @@ Check Answer
       </p>
 </div>
 
-## Training
+## Resources
 
 * [FutureLearn: Online Courses and Degrees from Top Universities](https://www.futurelearn.com/)
 
@@ -812,13 +796,11 @@ Check Answer
 
 * [Webinar - 8th Horizon Europe Open Science requirements in practice](https://www.youtube.com/watch?v=dN0ehvmUs9c)
 
-## Resources
+* [Oprichting van een lokaal Digital Competence Center (DCC) in het UMC Utrecht](https://www.nwo.nl/projecten/ict001dcc012)  
 
-* [Oprichting van een lokaal Digital Competence Center (DCC) in het UMC Utrecht | NWO - later check which parts are literally translated and need added info on that](https://www.nwo.nl/projecten/ict001dcc012)  
-
-* [TDCC.nl](https://tdcc.nl/): [How to participate](https://tdcc.nl/dsig/how-to-participate/) 
+* TDCC.nl: [How to participate](https://tdcc.nl/dsig/how-to-participate/) 
   
-* [ICH E6 Good clinical practice - Scientific guideline | European Medicines Agency (EMA)](https://www.ema.europa.eu/en/ich-e6-good-clinical-practice-scientific-guideline)
+* [ICH E6 Good clinical practice - Scientific guideline](https://www.ema.europa.eu/en/ich-e6-good-clinical-practice-scientific-guideline)
 
 * [RDM in Horizon Europe grant proposals](https://www.openaire.eu/rdm-in-horizon-europe-proposals)
   
@@ -830,7 +812,7 @@ Check Answer
 
 ## Suggestions
 
-This page has been written and reviewed by field experts through a rigorous process and has reached the “released” status. Learn more about the contributors here and explore the development process here. If you have any suggestions, visit our How to contribute page to get in touch or fill in our Quick feedback form. 
+This page has been written and reviewed by field experts through a rigorous process and has reached the “released” status. Learn more about the [contributors](/pages/contributing/contributors.md). If you have any suggestions, please create an [issue](https://github.com/Health-RI/FAIR_training_elearning/issues). 
 
 
 **Navigation:** [Back to Overview](onboarding-overview) | [Next Chapter: Professional development](professional-development)

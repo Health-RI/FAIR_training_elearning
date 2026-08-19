@@ -29,7 +29,7 @@ There are various definitions of Data Stewardship, in this e-learning we will us
 
 Data Stewardship refers to a: 
 
- “Course of action taken by a person or group to manage and supervise organisational data assets with responsibility and commitment. Good stewardship involves adequate care, making use of the FAIR principles, and holding ownership and regulation to provide high-quality data (including metadata), combining trust and ethical practice. “ 
+ *Course of action taken by a person or group to manage and supervise organisational data assets with responsibility and commitment. Good stewardship involves adequate care, making use of the FAIR principles, and holding ownership and regulation to provide high-quality data (including metadata), combining trust and ethical practice.* 
 
 Source: [CODATA RDM Terminology](https://terms.codata.org/rdmt/data-stewardship) 
 
@@ -72,7 +72,7 @@ Data stewards in the health domain deal with domain specific types of data, requ
   </label><br>
 
   <label>
-    <input type="radio" name="dsgoalquiz" value="D">
+    <input type="radio" name="dsgoalquiz" value="E">
     E. All of the above.
   </label><br><br>
 
@@ -341,12 +341,8 @@ In the following interviews, a variety of Data Stewards from UMCs in the Netherl
   <p style="margin:8px 0 0 0;">
 
  In the this exercise, we invite you to reflect on the skills you would like to develop in your career as a Data Steward.<br>
- The following form should help you to describe these choices and reflect your answers:
-
-[Data stewards task areas and competences](https://forms.office.com/pages/responsepage.aspx?id=CuPeS5QMZUi8Uh2fiUpJdTDeUMa8pLVFv-xgDXYKgmZUOUdSNlVBTFBTWDNGR0ZSWFVMWURIMUlFNC4u&origin=QRCode&route=shorturl )
-
-</div>
-</p>
+ The following form should help you describe these choices and reflect on your answers:(<a href="https://forms.office.com/pages/responsepage.aspx?id=CuPeS5QMZUi8Uh2fiUpJdTDeUMa8pLVFv-xgDXYKgmZUOUdSNlVBTFBTWDNGR0ZSWFVMWURIMUlFNC4u&origin=QRCode&route=shorturl">Data stewards task areas and competences</a>)
+  </p>
 </div>
 
 ## Resources
@@ -355,16 +351,15 @@ In the following interviews, a variety of Data Stewards from UMCs in the Netherl
 
 * [**Data Steward Handbook**](https://elixir-europe.github.io/ds-handbook/) the Elixir community (Life Sciences)  has created a handbook for data stewards, with valuable information on all sorts of topics and use cases. It is work in progress but you can already consult it, and even volunteer to contribute to it. 
 
- 
 ## References 
 
-Jetten, M., Grootveld, M., Mordant, A., Jansen, M., Bloemers, M., Miedema, M., & Van Gelder, C. W. G. (2021). Professionalising data stewardship in the Netherlands. Competences, training and education. Dutch roadmap towards national implementation of FAIR data stewardship (1.1). Zenodo. https://doi.org/10.5281/zenodo.4623713 (Chapter 2.3). 
+* Jetten, M., Grootveld, M., Mordant, A., Jansen, M., Bloemers, M., Miedema, M., & Van Gelder, C. W. G. (2021). Professionalising data stewardship in the Netherlands. Competences, training and education. Dutch roadmap towards national implementation of FAIR data stewardship (1.1). Zenodo. [https://doi.org/10.5281/zenodo.4623713](https://doi.org/10.5281/zenodo.4623713) (Chapter 2.3). 
 
-Huijser, D., Schoots, F., Grootveld, M., van Gelder, C. W. G., de Smaele, M., Thorpe, D. E., Saldner, S., & Clare, H. (2026). Curriculum for Data Professionals in Research-Performing Organisations in the Netherlands (v2025.12.31). Zenodo. https://doi.org/10.5281/zenodo.17952685 
+* Huijser, D., Schoots, F., Grootveld, M., van Gelder, C. W. G., de Smaele, M., Thorpe, D. E., Saldner, S., & Clare, H. (2026). Curriculum for Data Professionals in Research-Performing Organisations in the Netherlands (v2025.12.31). Zenodo. [https://doi.org/10.5281/zenodo.17952685](https://doi.org/10.5281/zenodo.17952685) 
 
 ## Suggestions
 
-This page has been written and reviewed by field experts through a rigorous process and has reached the “released” status. Learn more about the contributors here and explore the development process here. If you have any suggestions, visit our How to contribute page to get in touch or fill in our Quick feedback form. 
+This page has been written and reviewed by field experts through a rigorous process and has reached the “released” status. Learn more about the [contributors](/pages/contributing/contributors.md). If you have any suggestions, please create an [issue](https://github.com/Health-RI/FAIR_training_elearning/issues). 
 
 
 **Navigation:** [Back to Overview](onboarding-overview) | [Next Chapter: Networks, Funding & Communication](networks-funding-communication)

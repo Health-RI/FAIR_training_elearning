@@ -57,26 +57,25 @@ Several parties in the Netherlands work on strengthening data stewardship, by ma
   <strong style="color:#2c2c2e;"> 💭 Assignment: Reflection activity </strong>
   <p style="margin:8px 0 0 0;">
 
-<strong>Take a moment to think about the following questions.</strong>
+<strong>Take a moment to think about the following questions.</strong><br>
 
-I. Did any of the following considerations played a role when you were applying for a data stewards role?
+I. Did any of the following considerations played a role when you were applying for a data stewards role?<br>
 
-* Being close to research without being a researcher 
+* Being close to research without being a researcher<br> 
 
-* Opportunity to have a fixed position  
+* Opportunity to have a fixed position<br>  
 
-* Motivation to contribute to Open Science 
+* Motivation to contribute to Open Science<br>
 
-* Being discouraged by the traditional Academic process after having had conducted a PhD  
+* Being discouraged by the traditional Academic process after having had conducted a PhD<br>
 
-* It just came by... 
+* It just came by...<br> 
 
-* All of the above 
+* All of the above<br> 
 
 II. Considering your career, could you describe where you would like to be in 5 years? 
 
-</div>
-</p>
+  </p>
 </div>
 
 ### 3.1.2 Data stewards job profiles  
@@ -99,7 +98,7 @@ Some University Medical Centers have also adopted official job profiles for thei
 
 In practice, not all data stewards are hired in an official data steward function profile. However, we have increasingly witnessed a transition of people from roles like data manager or librarian to Data Steward.  
 
-In 2023, two years after the national report on professionalising data stewardship, TDCC LSH [link to ch. 2] organised a workshop to see the status of the recommendations from the Professionalising data stewardship report and of the adoption of official job profiles for the different research organisations. It appeared that, except for Dutch universities, the official job profile was not used in all cases. The audience suggested a number of next steps. 
+In 2023, two years after the [national report on professionalising data stewardship](https://zenodo.org/records/4623713), TDCC LSH organised a workshop to see the status of the recommendations from the Professionalising data stewardship report and of the adoption of official job profiles for the different research organisations. It appeared that, except for Dutch universities, the official job profile was not used in all cases. The audience suggested a number of next steps. 
 
 <div style="
   background-color: #a02323;
@@ -113,6 +112,12 @@ In 2023, two years after the national report on professionalising data stewardsh
     Table from the blogpost on the workshop ‘Building capacity for Data Stewardship in the Netherlands: formal job profiles and career perspective. ** - TODO: contact Paula with table to add here. 
   </p>
 </div>
+
+
+
+![Profiles](/assets/img/ch3_fig1_job_profiles.png)
+<br>
+*Figure 1. Table summarizing the findings of the workshop Data Stewards Job Profiles: Build and Sustain Capacity for FAIR Implementation, 4 April 2023, Utrecht.  [10.5281/zenodo.4486423](https://zenodo.org/records/4623713)*
 
 Aside the recognition in terms of competencies and expertise, important stakeholders in the RDM landscape in The Netherlands have recognized the importance of Data Stewards. Funders, for example, have recognized their importance and imposed the need for a Data Steward to review Data Management Plan and other documentation that is mandatory to release their budget. Other initiatives also recognize Data Stewardship in the Science landscape overall (e.g Open Science Movement and Recognition and Rewards Team Science). 
 
@@ -272,24 +277,20 @@ To become part of these communities and build your network, you can:
 
 * Engage with conferences and symposia - Events such as the International FAIR Convergence Symposium, RDA Plenaries, ELIXIR Europe conferences, and national Open Science days often function as informal training on how these networks operate. 
 
-## Training 
-
-<i> In development </i>
-
 ## Resources
 
 <i> In development </i>
 
 ## References 
 
-Gelder, C. W. G. (2021). Professionalising data stewardship in the Netherlands. Competences, training and education. Dutch roadmap towards national implementation of FAIR data stewardship (1.1). Zenodo. https://doi.org/10.5281/zenodo.4320504  
+* Gelder, C. W. G. (2021). Professionalising data stewardship in the Netherlands. Competences, training and education. Dutch roadmap towards national implementation of FAIR data stewardship (1.1). Zenodo. [https://doi.org/10.5281/zenodo.4320504](https://doi.org/10.5281/zenodo.4320504)  
 
-Newbold, E., Wang, Y., Lehtsalu, L., Zhou, B., & McCutcheon, V. (2024). RDA Professionalising Data Stewardship IG - What does a career track for data stewards look like?. Zenodo. https://doi.org/10.15497/RDA00102
+* Newbold, E., Wang, Y., Lehtsalu, L., Zhou, B., & McCutcheon, V. (2024). RDA Professionalising Data Stewardship IG - What does a career track for data stewards look like?. Zenodo. [https://doi.org/10.15497/RDA00102](https://doi.org/10.15497/RDA00102)
 
-Kalová, T., Frontini, F., Bracco, L., Legat, D., Meeus, J., & Hasani-Mavriqi, I. (2024). Data Stewardship Career Paths: Recommendations of the EOSC Task Force Data Stewardship Curricula and Career Paths (Versie v1). Zenodo. https://doi.org/10.5281/zenodo.11077722 
+* Kalová, T., Frontini, F., Bracco, L., Legat, D., Meeus, J., & Hasani-Mavriqi, I. (2024). Data Stewardship Career Paths: Recommendations of the EOSC Task Force Data Stewardship Curricula and Career Paths (Versie v1). Zenodo. [https://doi.org/10.5281/zenodo.11077722](https://doi.org/10.5281/zenodo.11077722) 
 
 ## Suggestions
 
-This page has been written and reviewed by field experts through a rigorous process and has reached the “released” status. Learn more about the contributors here and explore the development process here. If you have any suggestions, visit our How to contribute page to get in touch or fill in our Quick feedback form. 
+This page has been written and reviewed by field experts through a rigorous process and has reached the “released” status. Learn more about the [contributors](/pages/contributing/contributors.md). If you have any suggestions, please create an [issue](https://github.com/Health-RI/FAIR_training_elearning/issues).  
 
 **Navigation:** [Back to Overview](onboarding-overview)
