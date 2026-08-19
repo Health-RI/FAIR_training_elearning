@@ -8,7 +8,7 @@ This training programme supports data stewards within the Health-RI Network.
 
 The training consists of three chapters:
 
-### [Chapter 1: Roles & Responsibilities; Tasks & Competencies](roles-responsibilities)
+### [Chapter 1: Roles & Responsibilities](roles-responsibilities)
 
 Learn about the data steward role, key responsibilities, and required competencies.
 
