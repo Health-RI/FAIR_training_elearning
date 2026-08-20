@@ -104,7 +104,7 @@ Important national networks include:
 
 * [**LCRDM (Landelijk Coördinatiepunt Research Data Management)**](https://lcrdm.nl/) – Coordinates national RDM activities, offering practical guidance, tool inventories, expert groups, and nationally aligned recommendations for research support staff. 
 
-* [**DCC–PO (DCC voor Praktijkgericht Onderzoek)**](https://www.dccpo.nl/) –   National knowledge center for research support in universities of applied sciences. Focus areas of this network are open science, FAIR data, data stewardship, and data-intensive research.Data Stewards Interest Group (DSIG) – A cross‑institutional community specifically focused on the roles, capacities, and professionalisation of data stewards across the Netherlands.
+* [**DCC–PO (DCC voor Praktijkgericht Onderzoek)**](https://www.dcc-po.nl/) –   National knowledge center for research support in universities of applied sciences. Focus areas of this network are open science, FAIR data, data stewardship, and data-intensive research.Data Stewards Interest Group (DSIG) – A cross‑institutional community specifically focused on the roles, capacities, and professionalisation of data stewards across the Netherlands.
 
 * [**Data Steward Interest Group (DSIG)**](https://tdcc.nl/network/dsig/) -  A cross‑institutional community specifically focused on the roles, capacities, and professionalisation of data stewards across the Netherlands. 
 
@@ -190,7 +190,7 @@ European networks include:
 
 * [**Skills4EOSC Consortium**](https://www.skills4eosc.eu/) - Aims to professionalise data stewards across Europe, develop shared curricula, and create a network of competence centres. 
 
-* [**The Data Tank**](https://www.thedatatank.eu/) - Runs data steward bootcamps designed to upskill professionals and create a European network of trained data stewards. 
+* [**The Data Tank**](https://www.thedatatank.org/) - Runs data steward bootcamps designed to upskill professionals and create a European network of trained data stewards. 
 
 * [**European Data Spaces**](https://eudataspace.com/en/) – The European Commission’s initiative to build sector‑specific, interoperable data ecosystems. These spaces aim to create trusted environments for data access and reuse across national borders. 
 
