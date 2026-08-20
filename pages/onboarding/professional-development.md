@@ -5,7 +5,7 @@ title: "Professional Development"
 ![Professional development](/assets/img/professional_development.png)
 
 
-In this chapter we look at the professionalisation of data stewardship, data steward careers and training opportunities 
+In this chapter we look at the professionalisation of data stewardship, data steward careers, and training opportunities. 
 
 ---
 
@@ -100,21 +100,6 @@ In practice, not all data stewards are hired in an official data steward functio
 
 In 2023, two years after the [national report on professionalising data stewardship](https://zenodo.org/records/4623713), TDCC LSH organised a workshop to see the status of the recommendations from the Professionalising data stewardship report and of the adoption of official job profiles for the different research organisations. It appeared that, except for Dutch universities, the official job profile was not used in all cases. The audience suggested a number of next steps. 
 
-<div style="
-  background-color: #a02323;
-  border-left:4px solid #0078d4;
-  padding:12px;
-  margin:12px 0;
-  border-radius:4px;
-">
-  <strong style="color:#0078d4;">‼️ To do</strong>
-  <p style="margin:8px 0 0 0;">
-    Table from the blogpost on the workshop ‘Building capacity for Data Stewardship in the Netherlands: formal job profiles and career perspective. ** - TODO: contact Paula with table to add here. 
-  </p>
-</div>
-
-
-
 ![Profiles](/assets/img/ch3_fig1_job_profiles.png)
 <br>
 *Figure 1. Table summarizing the findings of the workshop Data Stewards Job Profiles: Build and Sustain Capacity for FAIR Implementation, 4 April 2023, Utrecht.  [10.5281/zenodo.4486423](https://zenodo.org/records/4623713)*
@@ -123,45 +108,14 @@ Aside the recognition in terms of competencies and expertise, important stakehol
 
 ## 3.2 Rewarding and recognition for data stewardship  
 
-<i>“The UFO profile already improved a lot our visibility and professional paths. However, we need more clear career paths and recognition.”</i> [Maria Vivas-Romero, MUMC+ / Health-RI Limburg](https://tdcc.nl/spotlight-on-maria-vivas-romero/) 
+<i>The UFO profile already improved a lot our visibility and professional paths. However, we need more clear career paths and recognition.</i> [Maria Vivas-Romero, MUMC+ / Health-RI Limburg](https://tdcc.nl/spotlight-on-maria-vivas-romero/) 
 
 As you build your career it is also important to see how you can grow and evolve in your role. An important tool is to investigate how the UFO profile for Dutch universities allows you to navigate between different levels of Data Stewardship: [Job classification system (UFO)](https://www.universiteitenvannederland.nl/en/job-classification-system-ufo). <br>
 The UFO profile distinguishes three main areas of activities and responsibilities for data stewards. Your ‘level’ (data steward 1 – 4), usually depends on the scope of your activities in these areas: departmental, institutional or (inter)national. 
 
 A national Rewards & Recognition programme works towards modernising the traditional way of assessing research. This means that the focus is shifting from publications to other qualities as teaching, creating impact, leadership and, in the case of UMCs, patient care. Open science practices and team science are also aspects that are valued more, which means that data stewards can get recognition for their role as part of a research team or for their efforts to make data FAIR.  
 
-Another practical tool to investigate the competencies and career track is the RDA working group Professionalising Data Stewardship -> RDA wg Data Steward Career Tracks. The [RDA Data Steward Career Tracks WG](https://www.rd-alliance.org/groups/data-steward-career-tracks-wg/activity/) proposes to approach data steward career tracks systematically by developing a methodology for data steward persona definition and creating a sample of data steward personas as well as career pathways for the sample personas.  
-
-
-<div style="
-  background-color: #a02323;
-  border-left:4px solid #0078d4;
-  padding:12px;
-  margin:12px 0;
-  border-radius:4px;
-">
-  <strong style="color:#0078d4;">‼️ To do</strong>
-  <p style="margin:8px 0 0 0;">
-    from Paula not clear what this information is about, remove? 
-  </p>
-</div>
-
-
-EOSC Task force  
-
-What’s going on:  
-
-National 
-
-RDNL training & community platform 
-
-LCRDM 
-
-Awareness raising activities (e.g. spotlight series, links to talks / presentation on the topic) 
-
-International 
-
-RDA working group Professionalising Data Stewardship &)
+Another practical tool to investigate the competencies and career track is the RDA working group Professionalising Data Stewardship. The [RDA Data Steward Career Tracks WG](https://www.rd-alliance.org/groups/data-steward-career-tracks-wg/activity/) proposes a systematic approach to data steward career development by creating a methodology for defining data steward profiles and developing sample personas, along with corresponding career pathways.  
 
 ## 3.2 Training & Capacity building
 
@@ -255,7 +209,6 @@ In the following years track the competencies and trainings you would like to ac
         </tr>
     </tbody>
 </table>
-</div>
 </p>
 </div>
 
