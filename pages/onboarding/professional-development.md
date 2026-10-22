@@ -157,26 +157,24 @@ The offer in Training has grown exponentially over the past 6 years. It is impor
 
 
 ### 3.3.2 National training efforts
-**FAIR Data Stewards Basics Course**
+**FAIR Data Stewards Basics Course**<br>
 Annual onboarding training for data stewards provided by Health-RI information is shared via [National Health Data Portal](https://www.healthdata.nl/en/services/fair-data-stewards-basics-course).
 
-**Training & Community Platform**
+**Training & Community Platform**<br>
 RDNL is developing a national [Training & Community Platform](https://researchdata.nl/en/about/training-and-community-platform/) for data professionals. It has developed a curriculum and competency framework (see chapter 1) and will build a comprehensive training programme with all relevant parties in the Netherlands so that data stewards / data professionals can design the learning path according to their own  personal development and their organisations’ needs.  
 
-**Essentials 4 Data Support**
+**Essentials 4 Data Support**<br>
 This course is an introductory training for starting data professionals in all research domains. It consists of online materials that touch upon all topics related to data stewardship. The materials are freely available but you can also sign up for the course. In that case you attend two in person days and do assignments together with your peers in the weeks in between. The assignments help you to get a better grip on your role as a data steward. Accessible here: [Essentials 4 Data Support](https://researchdata.nl/en/about-training/essentials-4-data-support/)
 
-**GDPR 4 Data Support**
+**GDPR 4 Data Support**<br>
 Follows the same format as E4DS: materials are freely available but you can also sign up for the course.  Find it here: [GDPR 4 Data Support](https://researchdata.nl/en/about-training/gdpr-4-data-support/)
 
-**DCC Spring Training Days, organised by LCRDM and the local DCCs** 
+**DCC Spring Training Days, organised by LCRDM and the local DCCs** <br>
 This is a bottom-up initiative from data stewards from local DCC’s and other experts who offer training sessions on topics that they find important are not (yet) covered in regular training. The offering changes every year, depending on available expertise and data stewards’ demand. Have a look at the [DCC Spring Training Days 2026](https://lcrdm.nl/evenementen/dcc-spring-training-days-2026/).
 
-**Taxila**
+**Taxila**<br>
 [Taxila](https://taxila.nl/) is a national catalogue that collects information on trainers, events and materials on RDM and FAIR. You can create an alert to receive a regular overview of upcoming training events.  
-
- 
-<br><br>
+<br>
 
 <div style="
   background-color:#e8f4fd;
