@@ -17,7 +17,7 @@ A comprehensive programme covering roles, responsibilities, networks, and profes
 Our training materials are:
 - Developed collaboratively across the Health-RI Network
 - Focused on practical skills and knowledge
-- Open and accessible to all network members
+- Open and accessible to everyone, but targeted for Health RI network members
 - Continuously updated based on community feedback
 
 ### Getting Started
@@ -28,6 +28,15 @@ Explore the available training modules using the sidebar navigation, or jump dir
 ### Contributors
 
 ![Contributors](/assets/img/logos_combo.png)
+
+
+### License and citation
+
+This e-learning  is licensed under a Creative Commons Attribution 4.0 International License. 
+
+If you re-use or refer to this resource, please cite it as: 
+
+Jagersma J., Ramos-Silva P., Schoots F., Vivas Romero M., Vlainic, E. & Zverinova, S. (2026). [Data Stewards Onboarding, Health-RI Data Stewardship Training Hub](https://health-ri.github.io/FAIR_training_elearning/index) 
 
 ---
 
