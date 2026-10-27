@@ -357,9 +357,7 @@ International networks are important because they provide access to global exper
 ---
 
 
-## 2.5 Funding landscape in Research Data Management: what Data Stewards need to know
-
-### Short description 
+### 2.5 Funding landscape in Research Data Management: what Data Stewards need to know
 
 Research funders increasingly expect evidence that research data will be well managed and openly shared. Most project proposals now require a short data management section, and once funding is awarded, a full DMP and FAIR research outputs at the project’s end are mandatory. These requirements support responsible research and good data stewardship. 
 
