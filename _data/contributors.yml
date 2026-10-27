@@ -34,3 +34,10 @@ writers:
     affiliation: LUMC
     active: true
     image: paula_ramossilva.jpg
+  - id: 6 
+    firstName: Elize
+    lastName: Vlainic
+    orcid: 
+    affiliation: AUMC
+    active: true
+    image: 
