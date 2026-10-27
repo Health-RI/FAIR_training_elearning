@@ -17,6 +17,8 @@ The first part of this chapter covers the networks Data Stewards could make use 
 * **Analyze** the Open Science and FAIR data mandates of major national (NWO, ZonMw) and European (Horizon Europe) funding bodies to guide researchers through pre- and post-award compliance. 
 
 * **Formulate** actionable support strategies—including budgeting up to 5% for RDM activities—to assist research teams with grant proposals, Data Management Plans (DMPs), and long-term asset sustainability. 
+
+
 ---
 
 ## 2.1 Local, National and International Networks
@@ -55,7 +57,7 @@ frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen>
 </iframe>
-https://www.youtube.com/watch?v=qzmj6yANAqI
+If the video doesn't load, you can find it at [www.youtube.com/watch?v=qzmj6yANAqI](https://www.youtube.com/watch?v=qzmj6yANAqI)
 
 ### 2.1.2 TDCCs 
 
@@ -74,20 +76,6 @@ TDCC-LSH also runs a FAIR fellowship programme in which data stewards from unive
 An overview of all the TDCC-LSH activities and projects can be found on the [TDCC-LSH website](https://tdcc.nl/lsh/projects/). 
 
 Each of these TDCCs can have projects on multiple topics. TDCC-LSH for example has 2 types of projects, divided in [Bottleneck projects and Challenge projects](https://tdcc.nl/projects/tdcc-lsh-project-initiatives/). A bottleneck project currently ongoing is a FAIR fellowship programme in which each institution could enrol 1 data expert such as a local data steward to collaborate with other fellows and mentors from other organisations, to collectively work on building and improving knowledge related to data standards on a national level. 
-
-<div style="
-  background-color: #e13535;
-  border-left:4px solid #7c7e83;
-  padding:12px;
-  margin:12px 0;
-  border-radius:4px;
-  color:#2c2c2e;
-">
-  <strong style="color:#2c2c2e;">‼️TO ADD</strong>
-  <p style="margin:8px 0 0 0;">
-To add video from someone talking about the TDCC they are involved in – e.g. Karen Sap from Amsterdam UMC – with a fellowship related to ISA standards, and her mentors from other knowledge institutions for this programme. Or Meron Maas (policymaker on DCCs at NWO)
-      </p>
-</div>
 
 Even if you work in one field, say you work in LSH, it could still be that you are an expert that could contribute to a topic addressed by another  TDCC. An LSH expert on research software development in an academic hospital for example, could be involved in TDCC-NES for the alignment on how to further development of career paths for Research Software Engineers. Or if you are a data steward involved in policies for dealing with interview data, you could be involved in the TDCC-SSH, even though you are a data steward in a hospital. 
 
@@ -536,8 +524,6 @@ There are [RDM requirements](https://www.openaire.eu/how-to-comply-with-horizon-
 <br>
 
 **2. Project‑level allowances for data stewardship**
-
-Horizon Europe explicitly allows budgeting for RDM in the form of: 
 <div style="
   float:right;
   width:30%;
@@ -552,6 +538,8 @@ Horizon Europe explicitly allows budgeting for RDM in the form of:
     Even though these RDM practices are embedded within project budgets rather than standalone funding themes, they represent an important funding source of RDM staff roles and tools in organizations.
   </p>
 </div>
+
+Horizon Europe explicitly allows budgeting for RDM in the form of: 
 
 * Data stewards 
 
