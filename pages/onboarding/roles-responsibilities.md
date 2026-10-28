@@ -17,17 +17,17 @@ You have just started in your new role as a data steward in the health domain. D
 
 ## 1.1 The Data Steward Role 
 
-Firstly, we define what is meant by Data Steward in the landscape of Research in the Life and Medical Sciences. Secondly, we will define the different roles, profiles and competencies that you might develop into as a Data Steward. 
+Firstly, we define what is meant by data steward in the landscape of Research in the Life and Medical Sciences. Secondly, we will define the different roles, profiles and competencies that you might develop into as a Data Steward. 
 
 ### 1.1.1 Defining Data Stewardship 
 
 Data stewardship is about taking good care of data before, during, and after research projects; throughout the research data life cycle.  
 
-There are various definitions of Data Stewardship, in this e-learning we will use a definition that encompasses the roles, tasks and responsibilities mentioned in the other sections:  
+There are various definitions of data stewardship, in this e-learning we will use a definition that encompasses the roles, tasks and responsibilities mentioned in the other sections:  
 
-Data Stewardship refers to a: 
+Data stewardship refers to: 
 
- *Course of action taken by a person or group to manage and supervise organisational data assets with responsibility and commitment. Good stewardship involves adequate care, making use of the FAIR principles, and holding ownership and regulation to provide high-quality data (including metadata), combining trust and ethical practice.* 
+> *A course of action taken by a person or group to manage and supervise organisational data assets with responsibility and commitment. Good stewardship involves adequate care, making use of the FAIR principles, and holding ownership and regulation to provide high-quality data (including metadata), combining trust and ethical practice.* 
 
 Source: [CODATA RDM Terminology](https://terms.codata.org/rdmt/data-stewardship) 
 
@@ -35,12 +35,10 @@ The main goal is making research data **F**indable, **A**ccessible, **I**nterope
 
 Data stewards in the health domain deal with domain specific types of data, requirements and regulations. E.g. for research in the Netherlands, they must distinguish between data governed by the Medical Research Involving Human Subjects Act (WMO) and non-WMO data, as this distinction significantly impacts the regulatory requirements for the project. Another example is the European Health Data Space, (EHDS) which will have a big impact on how organisations in the health sector handle and share data.
 
+> 💡 Just as important for effective data stewardship are personal skills such as effective communication, active listening, collaboration, persuasion or problem-solving skills. Data stewards are often agents of change, creating awareness on the benefits of FAIR data, training researchers on responsible research data management and helping researchers implement new workflows or tools in order to promote FAIR data. 
 
-> [!TIP]
-> Just as important for effective data stewardship are personal skills such as effective communication, active listening, collaboration, persuasion or problem-solving skills. Data stewards are often agents of change, creating awareness on the benefits of FAIR data, training researchers on responsible research data management and helping researchers implement new workflows or tools in order to promote FAIR data. 
+<br>
 
-</br>
- 
 <div style="
   background-color:#e8f4fd;
   border-left:4px solid #7c7e83;
@@ -135,8 +133,7 @@ In 2021, a report that was written in the context of the National Programme Open
 * **Transversal skills**, also known as ‘soft’ or ‘non-cognitive skills’, cover competencies that can be used in a wide variety of settings. Think of stakeholder engagement, or change management for data stewards. 
 <br>
 
-> [!TIP]
-> Have a look at the competencies and associated topics in more detail on the RDNL website: [Competency framework for data professionals](https://researchdata.nl/en/about-training/competency-framework/).  
+> 💡 Have a look at the competencies and associated topics in more detail on the RDNL website: [Competency framework for data professionals](https://researchdata.nl/en/about-training/competency-framework/).  
 
 <div style="
  background-color:#e8f4fd;
@@ -288,7 +285,7 @@ For more practical information about Data Steward roles and responsibilities in 
 
 ## 1.3 Practical examples from the community 
 
-In the following interviews, a variety of Data Stewards from UMCs in the Netherlands will talk about developments in their areas and the contributions they have made to the field.
+In the following interviews, a variety of data stewards from UMCs in the Netherlands will talk about developments in their areas and the contributions they have made to the field.
 
 Firstly, Sabina Masinovic tells about her career path leading to a position as data steward in a regional hospital. 
 
@@ -300,6 +297,8 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen>
 </iframe>
 If the video doesn't load, you can find it at [www.youtube.com/watch?v=IcDv6iE3pYY](https://www.youtube.com/watch?v=IcDv6iE3pYY)
+
+<br>
 
 Secondly, Karen Sap tells about her transition from researcher to a data steward in an academic medical centre.
 
@@ -316,8 +315,8 @@ Secondly, Karen Sap tells about her transition from researcher to a data steward
   <strong style="color:#2c2c2e;"> 💭 Assignment: Reflection activity </strong>
   <p style="margin:8px 0 0 0;">
 
- In this exercise, we invite you to reflect on the competencies and skills you would like to develop in your career as a Data Steward.<br>
- The following form should help you describe these choices and reflect on your answers:<a href="https://forms.office.com/pages/responsepage.aspx?id=CuPeS5QMZUi8Uh2fiUpJdTDeUMa8pLVFv-xgDXYKgmZUOUdSNlVBTFBTWDNGR0ZSWFVMWURIMUlFNC4u&origin=QRCode&route=shorturl"> Data stewards task areas and competences</a>. You can keep a copy of the form.  
+ In this exercise, we invite you to reflect on the competencies and skills you would like to develop in your career as a data steward.<br>
+ The following form should help you describe these choices and reflect on your answers:<a href="https://forms.office.com/pages/responsepage.aspx?id=CuPeS5QMZUi8Uh2fiUpJdTDeUMa8pLVFv-xgDXYKgmZUOUdSNlVBTFBTWDNGR0ZSWFVMWURIMUlFNC4u&origin=QRCode&route=shorturl"> data stewards task areas and competences</a>. You can keep a copy of the form.  
   </p>
 </div>
 
