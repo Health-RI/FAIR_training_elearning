@@ -9,9 +9,9 @@ You have just started in your new role as a data steward in the health domain. D
 
 ### Learning Objectives
 
-* **Understand** the Data Steward role  
+* **Understand** the role of a data steward.  
 
-* **Identify** skills and competencies relevant for data stewards
+* **Identify** the key skills and competencies relevant to data stewards.
 
 ---
 
@@ -293,7 +293,7 @@ In the following interviews, a variety of Data Stewards from UMCs in the Netherl
 Firstly, Sabina Masinovic tells about her career path leading to a position as data steward in a regional hospital. 
 
 <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=IcDv6iE3pYY"
+src="https://www.youtube.com/embed/IcDv6iE3pYY"
 title="Interview with a Data Steward"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
