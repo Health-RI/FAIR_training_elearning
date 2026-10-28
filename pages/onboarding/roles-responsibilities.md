@@ -5,21 +5,19 @@ title: "Roles & Responsibilities"
 ![Roles and responsibilities](/assets/img/roles_and_responsibilities.png)
 
 
-You have just started in your new role as a data steward in the health domain. Data steward is a relatively new profession in research institutions. What a data steward’s tasks are and what expertise is required for the job can vary depending on the type of organisation and the position within the organisation, the team in which the data steward operates, the research domain, the maturity of Research Data Management services and policies in place etc. In this chapter you will learn about data stewardship, the different roles and competencies and you will hear how more experienced data stewards perceive their job. 
+You have just started in your new role as a data steward in the health domain. Data steward is a relatively new profession in research institutions. What a data steward’s tasks are and what expertise is required for the job can vary depending on the type of organisation and the position within the organisation, the team in which the data steward operates, the research domain, the maturity of Research Data Management services and policies in place etc. In this chapter you will learn about data stewardship, the different roles and competencies and you will hear how more experienced data stewards perceive their job.
+
+### Learning Objectives
+
+* **Understand** the Data Steward role  
+
+* **Identify** skills and competencies relevant for data stewards
 
 ---
 
 ## 1.1 The Data Steward Role 
 
-### Short description
-
 Firstly, we define what is meant by Data Steward in the landscape of Research in the Life and Medical Sciences. Secondly, we will define the different roles, profiles and competencies that you might develop into as a Data Steward. 
-
-### Learning Objectives
-
-* Understand the Data Steward role  
-
-* Identify skills and competencies relevant for data stewards 
 
 ### 1.1.1 Defining Data Stewardship 
 
@@ -103,8 +101,6 @@ Data stewards in the health domain deal with domain specific types of data, requ
 Data stewards play a crucial role in making sure that the practices and standards associated with data stewardship are implemented in daily work. How the data steward role is shaped depends on the institute, department or even a specific project. 
 
 ## 1.2 Data Steward's Competencies 
-
-### Short Description
 
 To get a better understanding of the skills and competencies of data stewards, and the training needed, Research Data Netherlands (RDNL) developed a competency framework for data stewards . This framework can help data stewards and their employers draft learning paths that fit the data stewards’ personal as well as the organisation’s development needs. 
 
@@ -296,14 +292,18 @@ In the following interviews, a variety of Data Stewards from UMCs in the Netherl
 
 Firstly, Sabina Masinovic tells about her career path leading to a position as data steward in a regional hospital. 
 
-> 🚧 **Video will be uploaded soon.**
-
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=IcDv6iE3pYY"
+title="Interview with a Data Steward"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
+If the video doesn't load, you can find it at [www.youtube.com/watch?v=IcDv6iE3pYY](https://www.youtube.com/watch?v=IcDv6iE3pYY)
 
 Secondly, Karen Sap tells about her transition from researcher to a data steward in an academic medical centre.
 
 > 🚧 **Video will be uploaded soon.**
-
-</br>
 
 <div style="
   background-color:#e8f4fd;
@@ -318,26 +318,6 @@ Secondly, Karen Sap tells about her transition from researcher to a data steward
 
  In this exercise, we invite you to reflect on the competencies and skills you would like to develop in your career as a Data Steward.<br>
  The following form should help you describe these choices and reflect on your answers:<a href="https://forms.office.com/pages/responsepage.aspx?id=CuPeS5QMZUi8Uh2fiUpJdTDeUMa8pLVFv-xgDXYKgmZUOUdSNlVBTFBTWDNGR0ZSWFVMWURIMUlFNC4u&origin=QRCode&route=shorturl"> Data stewards task areas and competences</a>. You can keep a copy of the form.  
-  </p>
-</div>
-
-<div style="
-  background-color:#e8f4fd;
-  border-left:4px solid #0078d4;
-  padding:12px;
-  margin:12px 0;
-  border-radius:4px;
-">
-  <strong style="color:#0078d4;">ℹ️ Did you know?</strong>
-  <p style="margin:8px 0 0 0;">
-  
-  Data stewardship profiles are often defined by the specific roles played and the scope of the research data supported. The nature of the data is one of the criteria that dictates the data steward’s focus:<br> 
-    
-  * <strong>Qualitative Data</strong>: data collected via qualitative methods, such as interviews, life stories, ethnographies, and participant observations. These datasets often present unique challenges for FAIRification due to their deeply personal or sensitive nature, requiring the steward to balance data sharing with strict confidentiality.<br> 
-    
-  * <strong>Quantitative Data</strong>: data collected through quantitative methods. For these datasets, the steward’s expertise must bridge the gap between privacy compliance (particularly for sensitive health-related data) and the technical aspects of interoperability and reusability.<br> 
-   
-  <em>Note</em>: Imaging data can be both qualitative (photos, videos, echos, CT, MRI, etc.) and quantitative (e.g., tumor measurements), depending on which aspects of the imaging are used. 
   </p>
 </div>
 
