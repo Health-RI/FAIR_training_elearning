@@ -9,11 +9,11 @@ In this chapter we look at the professionalisation of data stewardship, data ste
 
 ### Learning Objectives 
 
-* Navigate the Formal Framework: Identify where your role sits within the Dutch university structure and the standardized job profiles. 
+* **Navigate** the Formal Framework: Identify where your role sits within the Dutch university structure and the standardized job profiles. 
 
-* Map Your Competency Journey: Move beyond "learning by chance" by identifying the specific technical and soft skills required to master the role. 
+* **Map** Your Competency Journey: Move beyond "learning by chance" by identifying the specific technical and soft skills required to master the role. 
 
-* Harness the Power of the Network: Identify and leverage key Dutch communities (such as RDNL and TDCCs) to collaborate and grow with your peers. 
+* **Harness** the Power of the Network: Identify and leverage key Dutch communities (such as RDNL and TDCCs) to collaborate and grow with your peers. 
 
 ---
 
