@@ -7,16 +7,6 @@ title: "Professional Development"
 
 In this chapter we look at the professionalisation of data stewardship, data steward careers, and training opportunities. 
 
----
-
-## 3.1 Data stewardship career development
-
-### Short description 
-
-Data stewardship has officially come of age. What began as a niche interest for researchers and librarians has become a formalized, professional pillar of the Dutch research landscape. Driven by the 2021 NPOS report and supported by organizations like NWO and Open Science NL, the role is no longer about working in isolation. Today’s data stewards are part of a visible, funded, and highly collaborative network dedicated to making research data sustainable and reusable. In this section we take you by the hand toward the career development of a Data Steward. We want you to get an overview of what your career might look like in the upcoming years.  
-
-*Pro Tip:* Keep an eye out for the "Spotlight" stories throughout this section. Hearing how others navigated their first years can help you map out your own professional milestone.
-
 ### Learning Objectives 
 
 * Navigate the Formal Framework: Identify where your role sits within the Dutch university structure and the standardized job profiles. 
@@ -24,6 +14,15 @@ Data stewardship has officially come of age. What began as a niche interest for 
 * Map Your Competency Journey: Move beyond "learning by chance" by identifying the specific technical and soft skills required to master the role. 
 
 * Harness the Power of the Network: Identify and leverage key Dutch communities (such as RDNL and TDCCs) to collaborate and grow with your peers. 
+
+---
+
+## 3.1 Data stewardship career development
+
+
+Data stewardship has officially come of age. What began as a niche interest for researchers and librarians has become a formalized, professional pillar of the Dutch research landscape. Driven by the 2021 NPOS report and supported by organizations like NWO and Open Science NL, the role is no longer about working in isolation. Today’s data stewards are part of a visible, funded, and highly collaborative network dedicated to making research data sustainable and reusable. In this section we take you by the hand toward the career development of a Data Steward. We want you to get an overview of what your career might look like in the upcoming years.  
+
+*Pro Tip:* Keep an eye out for the "Spotlight" stories throughout this section. Hearing how others navigated their first years can help you map out your own professional milestone.
 
 ### 3.1.1 Professionalising data stewardship 
 
@@ -150,8 +149,6 @@ The offer in Training has grown exponentially over the past 6 years. It is impor
 * **Maastricht University MUMC+:**  Onboarding Training for Data Professionals Maastricht University provided annually upon demand. This training provides an overview of services and RDM standards for the Health Life Sciences Data Professionals at the institution. It also equips them with the right tools and technologies to provide RDM services to other researchers, clinicians and other stakeholders. 
 
 * **Leiden University Medical Center (LUMC):** At the LUMC, central Data Stewards are responsible for promoting data stewardship and FAIR research practices. They develop and maintain training materials for both researchers and support staff. A mandatory e-learning module on data stewardship, currently required for all PhD candidates, has enrolled over 200 participants. Additional in-house courses, such as Writing a Data Management Plan and From Data Export to Analysis, are offered quarterly. A program to train specialized data stewards per department is currently in progress. In collaboration with the BioSemantics group, new training resources on FAIR data are also in development. 
-
-* **Amsterdam University Medical Center (AUMC):** 
 
 * **Groningen University Medical Center (UMCG):** The UMCG Digital Competence Center (DCC) provides onboarding and training for data stewards who support research departments in implementing FAIR and Research Data & Software Management (RSDM) practices. The training covers institutional policies, FAIR and RDM principles, data management planning, and practical researcher support. As part of their training, data stewards are encouraged to complete the [RDM Awareness e-learning](https://umcg.capp12.nl/open-courses/courses/1562) and participate in hands-on trainings and workshops, such as Draft your DMP and other FAIR-focused workshops, to gain practical experience with common FAIR and RDM tasks. These training resources are also available to researchers, helping to build a shared understanding of FAIR and RDM practices across the UMCG research community.
 

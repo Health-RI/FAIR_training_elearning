@@ -1,5 +1,5 @@
 ---
-title: "Networks, Funding & Communication"
+title: "Networks & Funding"
 ---
 
 ![Networks, funding, communication](/assets/img/network_funding_communication.png)
@@ -21,11 +21,9 @@ The first part of this chapter covers the networks Data Stewards could make use 
 
 ---
 
-## 2.1 Local, National and International Networks
+## 2.1 Digital Competence Centers
 
-### Short description 
-
-Data stewardship does not happen in isolation. To create FAIR and reusable  data, professionals depend on a range of local, national, and international networks. These networks provide guidance, tools, training, expertise, and infrastructure that support researchers throughout the data life cycle. Understanding these networks helps data stewards navigate where to turn for support, find collaboration opportunities, and stay aligned.  The first part of this section (2.1.1) explores Digital Competence Centers, which act as the central networks for data stewardship management and evolution in most Dutch Academic Hospitals and Universities. The second section (2.1.2) explores other local, national and international networks. 
+Data stewardship does not happen in isolation. To create FAIR and reusable  data, professionals depend on a range of local, national, and international networks. These networks provide guidance, tools, training, expertise, and infrastructure that support researchers throughout the data life cycle. Understanding these networks helps data stewards navigate where to turn for support, find collaboration opportunities, and stay aligned.  The this section (2.1) explores Digital Competence Centers, which act as the central networks for data stewardship management and evolution in most Dutch Academic Hospitals and Universities. 
 
 ### 2.1.1 The role of digital competence centers
 
@@ -115,7 +113,7 @@ Find and document:<br>
   </p>
 </div>
 
-### 2.2 Local networks 
+## 2.2 Local networks 
 
 Local networks are the first line of support for researchers and data stewards. These networks operate within the institution and translate (inter)national guidelines into practical, day‑to‑day workflows. For most data stewards, this is where collaboration, problem‑solving, and decision‑making will happen most frequently. 
 
@@ -187,7 +185,7 @@ Check Answer
       </p>
 </div>
 
-### 2.3 National networks 
+## 2.3 National networks 
 
 National networks play a key role in coordinating research data management, FAIR implementation, and responsible data sharing across institutions in the Netherlands. These networks provide shared infrastructure, common standards, training programmes, and policy alignment that support researchers and data stewards beyond their own institutions. They complement local networks by offering expertise, guidance, and infrastructures that a single institution cannot provide alone.   
 
@@ -272,7 +270,7 @@ Check Answer
 </p>
 </div>
 
-### 2.4 International Networks 
+## 2.4 International Networks 
 
 International networks connect Dutch researchers, data stewards, and research support professionals to global standards, best practices, infrastructures, and communities. These networks help ensure that FAIR and responsible data management is aligned beyond national borders, enabling cross‑institutional and cross‑country collaboration. Many of these networks also shape global FAIR principles, interoperability frameworks, and Open Science policies, which influence national and institutional practices in turn. 
 
@@ -357,7 +355,7 @@ International networks are important because they provide access to global exper
 ---
 
 
-### 2.5 Funding landscape in Research Data Management: what Data Stewards need to know
+## 2.5 Funding landscape in Research Data Management: what Data Stewards need to know
 
 Research funders increasingly expect evidence that research data will be well managed and openly shared. Most project proposals now require a short data management section, and once funding is awarded, a full DMP and FAIR research outputs at the project’s end are mandatory. These requirements support responsible research and good data stewardship. 
 
