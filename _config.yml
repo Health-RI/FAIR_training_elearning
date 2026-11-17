@@ -9,6 +9,10 @@ description: "Example of ELIXIR toolkit theme as a remote jekyll theme"
 
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@6.0.0
 
+# Matomo analytics (injected by the theme's head.html in production builds only)
+matomo: "https://healthri.matomo.cloud/"
+matomo_id: 8
+
 exclude:
   - README.md
   - vendor
